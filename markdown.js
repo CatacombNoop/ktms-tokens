@@ -5,12 +5,12 @@ const path = require('path');
 
 const ROOT_DIR = './images_mudrog/';
 const README_FILENAME = 'README.md';
-const NB_IMAGES_PER_LINE = 4;
+const NB_IMAGES_PER_LINE = 6;
 let nbImages = 0;
 let mdContent = '<table><tr>';
 
 fs.readdirSync(ROOT_DIR).forEach((image) => {
-  if (image !== README_FILENAME) {
+  if (image !== README_FILENAME && image !== 'markdown.js') {
     if (!(nbImages % NB_IMAGES_PER_LINE)) {
       if (nbImages > 0) {
         mdContent += `
@@ -22,7 +22,7 @@ fs.readdirSync(ROOT_DIR).forEach((image) => {
     nbImages++;
     mdContent += `
 <td valign="bottom">
-<img src="./${image}" width="200"><br>
+<img src="./${image}" width="100" height="100"><br>
 ${image}
 </td>
 `;
