@@ -89,6 +89,23 @@ MindSlash.png
 </td>
 
 <td valign="bottom">
+<img src="./planer.png" width="100" height="100"><br>
+planer.png
+</td>
+
+<td valign="bottom">
+<img src="./planer2.png" width="100" height="100"><br>
+planer2.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./planer3.png" width="100" height="100"><br>
+planer3.png
+</td>
+
+<td valign="bottom">
 <img src="./point.png" width="100" height="100"><br>
 point.png
 </td>
@@ -98,8 +115,6 @@ point.png
 POINT3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Shot_M.png" width="100" height="100"><br>
 Shot_M.png
@@ -115,6 +130,8 @@ Shot_M2.png
 Shot_M22.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Smoke.png" width="100" height="100"><br>
 Smoke.png
@@ -130,8 +147,6 @@ Space.png
 Space2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space3.png" width="100" height="100"><br>
 Space3.png
@@ -147,6 +162,8 @@ Space3_2.png
 Space3_3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ЫShine.png" width="100" height="100"><br>
 ЫShine.png
