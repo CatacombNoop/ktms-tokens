@@ -1,8 +1,7 @@
-[Основные Токены](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_main/README.md)\
-[Мудроградовки](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_mudrog/README.md)\
-[Иконки](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_icons/README.md)\
+[Основные Токены](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_main/README.md)
+[Мудроградовки](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_mudrog/README.md)
+[Иконки](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_icons/README.md)
 [Эффекты](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_sfx/README.md)
-
 <table><tr>
 <tr>
 <td valign="bottom">
@@ -400,6 +399,11 @@ PLN2_3.png
 </td>
 
 <td valign="bottom">
+<img src="./PLN2_4.png" width="100" height="100"><br>
+PLN2_4.png
+</td>
+
+<td valign="bottom">
 <img src="./PLN3.png" width="100" height="100"><br>
 PLN3.png
 </td>
@@ -414,13 +418,13 @@ PLN32.png
 PLN4.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN5.png" width="100" height="100"><br>
 PLN5.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN6.png" width="100" height="100"><br>
 PLN6.png
@@ -446,13 +450,13 @@ RND2.png
 RND3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Solditer.png" width="100" height="100"><br>
 Solditer.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Solditer1.png" width="100" height="100"><br>
 Solditer1.png
@@ -478,6 +482,8 @@ YAG0.png
 YAG1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./КФЕ2.png" width="100" height="100"><br>
 КФЕ2.png
