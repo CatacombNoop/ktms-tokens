@@ -10,7 +10,7 @@ let nbImages = 0;
 let mdContent = '<table><tr>';
 
 fs.readdirSync(ROOT_DIR).forEach((image) => {
-  if (image !== README_FILENAME) {
+  if (image !== README_FILENAME && image !== 'markdown.js') {
     if (!(nbImages % NB_IMAGES_PER_LINE)) {
       if (nbImages > 0) {
         mdContent += `
