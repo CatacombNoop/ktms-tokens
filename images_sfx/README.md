@@ -16,6 +16,16 @@ beam2.png
 </td>
 
 <td valign="bottom">
+<img src="./beam3.png" width="100" height="100"><br>
+beam3.png
+</td>
+
+<td valign="bottom">
+<img src="./beam4.png" width="100" height="100"><br>
+beam4.png
+</td>
+
+<td valign="bottom">
 <img src="./BloodSlash.png" width="100" height="100"><br>
 BloodSlash.png
 </td>
@@ -25,6 +35,8 @@ BloodSlash.png
 cloud.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Cone_Shot.png" width="100" height="100"><br>
 Cone_Shot.png
@@ -35,8 +47,6 @@ Cone_Shot.png
 Cut.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Darkness_spell.png" width="100" height="100"><br>
 Darkness_spell.png
@@ -57,6 +67,8 @@ Fireball.png
 Fireball2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Fire_hell.png" width="100" height="100"><br>
 Fire_hell.png
@@ -67,8 +79,6 @@ Fire_hell.png
 FrostHit.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Golden sword.png" width="100" height="100"><br>
 Golden sword.png
@@ -89,23 +99,8 @@ GreenFire.png
 MindSlash.png
 </td>
 
-<td valign="bottom">
-<img src="./planer.png" width="100" height="100"><br>
-planer.png
-</td>
-
-<td valign="bottom">
-<img src="./planer2.png" width="100" height="100"><br>
-planer2.png
-</td>
-
 </tr>
 <tr>
-<td valign="bottom">
-<img src="./planer3.png" width="100" height="100"><br>
-planer3.png
-</td>
-
 <td valign="bottom">
 <img src="./point.png" width="100" height="100"><br>
 point.png
@@ -131,13 +126,13 @@ Shot_M2.png
 Shot_M22.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Smoke.png" width="100" height="100"><br>
 Smoke.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space.png" width="100" height="100"><br>
 Space.png
@@ -163,8 +158,6 @@ Space3_2.png
 Space3_3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ЫShine.png" width="100" height="100"><br>
 ЫShine.png
