@@ -7,6 +7,7 @@ image_folder.push("./images_main/", "./images_mudrog/", "./images_sfx/", "./imag
 const ROOT_DIR = './images_';
 const README_FILENAME = 'README.md';
 const NB_IMAGES_PER_LINE = 6;
+image_folder.forEach((element) => {
 let nbImages = 0;
 let mdContent = '[Основные Токены](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_main/README.md)';
 mdContent += `|
@@ -20,7 +21,7 @@ mdContent += `|
 mdContent += `|
 <table><tr>`;
 
-image_folder.forEach((element) => {
+
 
 fs.readdirSync(element).forEach((image) => {
   if (image !== README_FILENAME && image !== 'markdown.js') {
