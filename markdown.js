@@ -2,23 +2,27 @@
 
 const fs = require('fs');
 const path = require('path');
-
-const ROOT_DIR = './images_sfx/';
+const image_folder = [];
+image_folder.push("./images_main/", "./images_mudrog/", "./images_sfx/", "./images_icons/", "./images_odium/");
+const ROOT_DIR = './images_';
 const README_FILENAME = 'README.md';
 const NB_IMAGES_PER_LINE = 6;
 let nbImages = 0;
 let mdContent = '[Основные Токены](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_main/README.md)';
-mdContent += `
+mdContent += `|
 [Мудроградовки](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_mudrog/README.md)`;
-mdContent += `
+mdContent += `|
 [Иконки](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_icons/README.md)`;
-mdContent += `
+mdContent += `|
 [Эффекты](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_sfx/README.md)`;
-mdContent += `
-[Эффекты](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_odium/README.md)`;
-mdContent += `
+mdContent += `|
+[Одиум](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_odium/README.md)`;
+mdContent += `|
 <table><tr>`;
-fs.readdirSync(ROOT_DIR).forEach((image) => {
+
+image_folder.forEach((element) => {
+
+fs.readdirSync(element).forEach((image) => {
   if (image !== README_FILENAME && image !== 'markdown.js') {
     if (!(nbImages % NB_IMAGES_PER_LINE)) {
       if (nbImages > 0) {
@@ -40,4 +44,6 @@ ${image}
 mdContent += `
 </tr></table>`;
 
-fs.writeFileSync(path.join(ROOT_DIR, README_FILENAME), mdContent);
+fs.writeFileSync(path.join(element, README_FILENAME), mdContent);
+
+});
