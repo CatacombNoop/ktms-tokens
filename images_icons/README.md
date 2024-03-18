@@ -11,6 +11,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Air.png" width="100" height="100"><br>
+Air.png
+</td>
+
+<td valign="bottom">
 <img src="./bane.png" width="100" height="100"><br>
 bane.png
 </td>
@@ -20,6 +25,18 @@ bane.png
 bestow-curse.png
 </td>
 
+<td valign="bottom">
+<img src="./call-lightning.png" width="100" height="100"><br>
+call-lightning.png
+</td>
+
+<td valign="bottom">
+<img src="./chromatic-orb.png" width="100" height="100"><br>
+chromatic-orb.png
+</td>
+
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./conjure-barrage.png" width="100" height="100"><br>
 conjure-barrage.png
@@ -31,8 +48,23 @@ duel.png
 </td>
 
 <td valign="bottom">
+<img src="./eldritch-blast.png" width="100" height="100"><br>
+eldritch-blast.png
+</td>
+
+<td valign="bottom">
 <img src="./enchantment.png" width="100" height="100"><br>
 enchantment.png
+</td>
+
+<td valign="bottom">
+<img src="./fire-bolt.png" width="100" height="100"><br>
+fire-bolt.png
+</td>
+
+<td valign="bottom">
+<img src="./guidance.png" width="100" height="100"><br>
+guidance.png
 </td>
 
 </tr>
@@ -845,6 +877,11 @@ protection-from-energy.png
 <td valign="bottom">
 <img src="./retreat.png" width="100" height="100"><br>
 retreat.png
+</td>
+
+<td valign="bottom">
+<img src="./shatter.png" width="100" height="100"><br>
+shatter.png
 </td>
 
 <td valign="bottom">
