@@ -70,6 +70,16 @@ ORC0_2.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./PL0.png" width="100" height="100"><br>
+PL0.png
+</td>
+
+<td valign="bottom">
+<img src="./PL0_1.png" width="100" height="100"><br>
+PL0_1.png
+</td>
+
+<td valign="bottom">
 <img src="./SHL1.png" width="100" height="100"><br>
 SHL1.png
 </td>
@@ -89,6 +99,8 @@ SPEAR0.png
 SPEAR1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SPEAR2.png" width="100" height="100"><br>
 SPEAR2.png
