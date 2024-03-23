@@ -80,6 +80,11 @@ PL0_1.png
 </td>
 
 <td valign="bottom">
+<img src="./PL1.png" width="100" height="100"><br>
+PL1.png
+</td>
+
+<td valign="bottom">
 <img src="./SHL1.png" width="100" height="100"><br>
 SHL1.png
 </td>
@@ -94,13 +99,13 @@ SHL2.png
 SPEAR0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SPEAR1.png" width="100" height="100"><br>
 SPEAR1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SPEAR2.png" width="100" height="100"><br>
 SPEAR2.png
