@@ -26,6 +26,23 @@ bestow-curse.png
 </td>
 
 <td valign="bottom">
+<img src="./b_04.png" width="100" height="100"><br>
+b_04.png
+</td>
+
+<td valign="bottom">
+<img src="./b_08.png" width="100" height="100"><br>
+b_08.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./b_09.png" width="100" height="100"><br>
+b_09.png
+</td>
+
+<td valign="bottom">
 <img src="./call-lightning.png" width="100" height="100"><br>
 call-lightning.png
 </td>
@@ -35,8 +52,6 @@ call-lightning.png
 Chaos.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./chromatic-orb.png" width="100" height="100"><br>
 chromatic-orb.png
@@ -52,6 +67,8 @@ conjure-barrage.png
 duel.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./earthh.png" width="100" height="100"><br>
 earthh.png
@@ -67,8 +84,6 @@ eldritch-blast.png
 enchantment.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./fire-bolt.png" width="100" height="100"><br>
 fire-bolt.png
@@ -84,6 +99,8 @@ guidance.png
 GUN.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./identify.png" width="100" height="100"><br>
 identify.png
@@ -99,8 +116,6 @@ lightning-arrow.png
 magic-circle.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./necromancy.png" width="100" height="100"><br>
 necromancy.png
@@ -116,6 +131,8 @@ necromancy2.png
 necromancy3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./necromancy_load.png" width="100" height="100"><br>
 necromancy_load.png
@@ -131,8 +148,6 @@ nondetection.png
 Order.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Order2.png" width="100" height="100"><br>
 Order2.png
@@ -148,6 +163,8 @@ preview (10).png
 preview (100).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (101).png" width="100" height="100"><br>
 preview (101).png
@@ -163,8 +180,6 @@ preview (102).png
 preview (102)2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (103).png" width="100" height="100"><br>
 preview (103).png
@@ -180,6 +195,8 @@ preview (104).png
 preview (105).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (106).png" width="100" height="100"><br>
 preview (106).png
@@ -195,8 +212,6 @@ preview (107).png
 preview (108).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (109).png" width="100" height="100"><br>
 preview (109).png
@@ -212,6 +227,8 @@ preview (11).png
 preview (110).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (111).png" width="100" height="100"><br>
 preview (111).png
@@ -227,8 +244,6 @@ preview (112).png
 preview (113).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (114).png" width="100" height="100"><br>
 preview (114).png
@@ -244,6 +259,8 @@ preview (115).png
 preview (116).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (117).png" width="100" height="100"><br>
 preview (117).png
@@ -259,8 +276,6 @@ preview (118).png
 preview (119).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (12).png" width="100" height="100"><br>
 preview (12).png
@@ -276,6 +291,8 @@ preview (120).png
 preview (121).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (122).png" width="100" height="100"><br>
 preview (122).png
@@ -291,8 +308,6 @@ preview (123).png
 preview (124).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (125).png" width="100" height="100"><br>
 preview (125).png
@@ -308,6 +323,8 @@ preview (126).png
 preview (127).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (128).png" width="100" height="100"><br>
 preview (128).png
@@ -323,8 +340,6 @@ preview (129).png
 preview (13).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (130).png" width="100" height="100"><br>
 preview (130).png
@@ -340,6 +355,8 @@ preview (131).png
 preview (132).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (133).png" width="100" height="100"><br>
 preview (133).png
@@ -355,8 +372,6 @@ preview (134).png
 preview (135).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (136).png" width="100" height="100"><br>
 preview (136).png
@@ -372,6 +387,8 @@ preview (137).png
 preview (138).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (139).png" width="100" height="100"><br>
 preview (139).png
@@ -387,8 +404,6 @@ preview (14).png
 preview (140).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (15).png" width="100" height="100"><br>
 preview (15).png
@@ -404,6 +419,8 @@ preview (16).png
 preview (17).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (18).png" width="100" height="100"><br>
 preview (18).png
@@ -419,8 +436,6 @@ preview (19).png
 preview (2).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (20).png" width="100" height="100"><br>
 preview (20).png
@@ -436,6 +451,8 @@ preview (21).png
 preview (22).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (23).png" width="100" height="100"><br>
 preview (23).png
@@ -451,8 +468,6 @@ preview (24).png
 preview (25).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (26).png" width="100" height="100"><br>
 preview (26).png
@@ -468,6 +483,8 @@ preview (27).png
 preview (28).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (29).png" width="100" height="100"><br>
 preview (29).png
@@ -483,8 +500,6 @@ preview (3).png
 preview (30).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (31).png" width="100" height="100"><br>
 preview (31).png
@@ -500,6 +515,8 @@ preview (32).png
 preview (33).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (34).png" width="100" height="100"><br>
 preview (34).png
@@ -515,8 +532,6 @@ preview (35).png
 preview (36).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (37).png" width="100" height="100"><br>
 preview (37).png
@@ -532,6 +547,8 @@ preview (38).png
 preview (39).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (4).png" width="100" height="100"><br>
 preview (4).png
@@ -547,8 +564,6 @@ preview (40).png
 preview (41).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (42).png" width="100" height="100"><br>
 preview (42).png
@@ -564,6 +579,8 @@ preview (43).png
 preview (44).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (45).png" width="100" height="100"><br>
 preview (45).png
@@ -579,8 +596,6 @@ preview (46).png
 preview (47).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (48).png" width="100" height="100"><br>
 preview (48).png
@@ -596,6 +611,8 @@ preview (49).png
 preview (5).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (50).png" width="100" height="100"><br>
 preview (50).png
@@ -611,8 +628,6 @@ preview (51).png
 preview (52).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (53).png" width="100" height="100"><br>
 preview (53).png
@@ -628,6 +643,8 @@ preview (54).png
 preview (55).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (56).png" width="100" height="100"><br>
 preview (56).png
@@ -643,8 +660,6 @@ preview (57).png
 preview (58).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (59).png" width="100" height="100"><br>
 preview (59).png
@@ -660,6 +675,8 @@ preview (6).png
 preview (60).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (61).png" width="100" height="100"><br>
 preview (61).png
@@ -675,8 +692,6 @@ preview (62).png
 preview (63).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (64).png" width="100" height="100"><br>
 preview (64).png
@@ -692,6 +707,8 @@ preview (65).png
 preview (66).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (67).png" width="100" height="100"><br>
 preview (67).png
@@ -707,8 +724,6 @@ preview (68).png
 preview (69).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (7).png" width="100" height="100"><br>
 preview (7).png
@@ -724,6 +739,8 @@ preview (70).png
 preview (71).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (72).png" width="100" height="100"><br>
 preview (72).png
@@ -739,8 +756,6 @@ preview (73).png
 preview (74).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (75).png" width="100" height="100"><br>
 preview (75).png
@@ -756,6 +771,8 @@ preview (76).png
 preview (77).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (78).png" width="100" height="100"><br>
 preview (78).png
@@ -771,8 +788,6 @@ preview (79).png
 preview (8).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (80).png" width="100" height="100"><br>
 preview (80).png
@@ -788,6 +803,8 @@ preview (81).png
 preview (82).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (83).png" width="100" height="100"><br>
 preview (83).png
@@ -803,8 +820,6 @@ preview (84).png
 preview (85).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (86).png" width="100" height="100"><br>
 preview (86).png
@@ -820,6 +835,8 @@ preview (87).png
 preview (88).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (89).png" width="100" height="100"><br>
 preview (89).png
@@ -835,8 +852,6 @@ preview (9).png
 preview (90).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (91).png" width="100" height="100"><br>
 preview (91).png
@@ -852,6 +867,8 @@ preview (92).png
 preview (93).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (94).png" width="100" height="100"><br>
 preview (94).png
@@ -867,8 +884,6 @@ preview (95).png
 preview (96).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (97).png" width="100" height="100"><br>
 preview (97).png
@@ -884,6 +899,8 @@ preview (98).png
 preview (99).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview.png" width="100" height="100"><br>
 preview.png
@@ -895,12 +912,37 @@ protection-from-energy.png
 </td>
 
 <td valign="bottom">
+<img src="./p_03.png" width="100" height="100"><br>
+p_03.png
+</td>
+
+<td valign="bottom">
+<img src="./p_07.png" width="100" height="100"><br>
+p_07.png
+</td>
+
+<td valign="bottom">
 <img src="./retreat.png" width="100" height="100"><br>
 retreat.png
 </td>
 
+<td valign="bottom">
+<img src="./r_03.png" width="100" height="100"><br>
+r_03.png
+</td>
+
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./r_04.png" width="100" height="100"><br>
+r_04.png
+</td>
+
+<td valign="bottom">
+<img src="./r_23.PNG" width="100" height="100"><br>
+r_23.PNG
+</td>
+
 <td valign="bottom">
 <img src="./shatter.png" width="100" height="100"><br>
 shatter.png
