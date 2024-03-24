@@ -1965,11 +1965,6 @@ Shamanskill_17.png
 </td>
 
 <td valign="bottom">
-<img src="./Shamanskill_17_nobg.png" width="100" height="100"><br>
-Shamanskill_17_nobg.png
-</td>
-
-<td valign="bottom">
 <img src="./Shamanskill_18.png" width="100" height="100"><br>
 Shamanskill_18.png
 </td>
@@ -1989,13 +1984,13 @@ Shamanskill_20.png
 Shamanskill_21.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Shamanskill_22.png" width="100" height="100"><br>
 Shamanskill_22.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Shamanskill_23.png" width="100" height="100"><br>
 Shamanskill_23.png
@@ -2021,13 +2016,13 @@ Shamanskill_26.png
 Shamanskill_27.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Shamanskill_28.png" width="100" height="100"><br>
 Shamanskill_28.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Shamanskill_29.png" width="100" height="100"><br>
 Shamanskill_29.png
@@ -2053,13 +2048,13 @@ Shamanskill_32.png
 Shamanskill_33.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Shamanskill_34.png" width="100" height="100"><br>
 Shamanskill_34.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Shamanskill_35.png" width="100" height="100"><br>
 Shamanskill_35.png
@@ -2085,13 +2080,13 @@ Shamanskill_38.png
 Shamanskill_39.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Shamanskill_40.png" width="100" height="100"><br>
 Shamanskill_40.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Shamanskill_41.png" width="100" height="100"><br>
 Shamanskill_41.png
@@ -2117,13 +2112,13 @@ Shamanskill_44.png
 Shamanskill_45.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Shamanskill_46.png" width="100" height="100"><br>
 Shamanskill_46.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Shamanskill_47.png" width="100" height="100"><br>
 Shamanskill_47.png
@@ -2142,6 +2137,11 @@ Shamanskill_49.png
 <td valign="bottom">
 <img src="./Shamanskill_50.png" width="100" height="100"><br>
 Shamanskill_50.png
+</td>
+
+<td valign="bottom">
+<img src="./Shkill_17.png" width="100" height="100"><br>
+Shkill_17.png
 </td>
 
 <td valign="bottom">
