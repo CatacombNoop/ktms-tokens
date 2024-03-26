@@ -2678,4 +2678,36 @@ Warriorskill_49.png
 Warriorskill_50.png
 </td>
 
+<td valign="bottom">
+<img src="./_Mod0.png" width="100" height="100"><br>
+_Mod0.png
+</td>
+
+<td valign="bottom">
+<img src="./_Mod1.png" width="100" height="100"><br>
+_Mod1.png
+</td>
+
+<td valign="bottom">
+<img src="./_Mod2.png" width="100" height="100"><br>
+_Mod2.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./_Mod3.png" width="100" height="100"><br>
+_Mod3.png
+</td>
+
+<td valign="bottom">
+<img src="./_Mod4.png" width="100" height="100"><br>
+_Mod4.png
+</td>
+
+<td valign="bottom">
+<img src="./_Mod5.png" width="100" height="100"><br>
+_Mod5.png
+</td>
+
 </tr></table>
