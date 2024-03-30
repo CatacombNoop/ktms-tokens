@@ -124,17 +124,22 @@ SLD1.png
 </td>
 
 <td valign="bottom">
+<img src="./SLD2.png" width="100" height="100"><br>
+SLD2.png
+</td>
+
+<td valign="bottom">
 <img src="./SPEAR0.png" width="100" height="100"><br>
 SPEAR0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SPEAR1.png" width="100" height="100"><br>
 SPEAR1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SPEAR2.png" width="100" height="100"><br>
 SPEAR2.png
