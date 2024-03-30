@@ -173,6 +173,11 @@ ork8.png
 </td>
 
 <td valign="bottom">
+<img src="./ork9.png" width="100" height="100"><br>
+ork9.png
+</td>
+
+<td valign="bottom">
 <img src="./PL0.png" width="100" height="100"><br>
 PL0.png
 </td>
@@ -192,13 +197,13 @@ PL1.png
 SHL1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SHL2.png" width="100" height="100"><br>
 SHL2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD0.png" width="100" height="100"><br>
 SLD0.png
@@ -224,13 +229,13 @@ SLD3.png
 SLD4.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD5.png" width="100" height="100"><br>
 SLD5.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD6.png" width="100" height="100"><br>
 SLD6.png
@@ -256,13 +261,13 @@ SPEAR0.png
 SPEAR1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SPEAR2.png" width="100" height="100"><br>
 SPEAR2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Troll.png" width="100" height="100"><br>
 Troll.png
