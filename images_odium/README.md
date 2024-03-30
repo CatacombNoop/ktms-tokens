@@ -8,6 +8,11 @@
 <table><tr>
 <tr>
 <td valign="bottom">
+<img src="./BND0.png" width="100" height="100"><br>
+BND0.png
+</td>
+
+<td valign="bottom">
 <img src="./BOW0.png" width="100" height="100"><br>
 BOW0.png
 </td>
@@ -32,13 +37,13 @@ forest.png
 KNG0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./KNG1.png" width="100" height="100"><br>
 KNG1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./KNG2.png" width="100" height="100"><br>
 KNG2.png
@@ -64,13 +69,13 @@ MAD2.png
 MRC1.sai2
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ORC0_1.png" width="100" height="100"><br>
 ORC0_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ORC0_2.png" width="100" height="100"><br>
 ORC0_2.png
@@ -96,13 +101,13 @@ PL1.png
 SHL1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SHL2.png" width="100" height="100"><br>
 SHL2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SPEAR0.png" width="100" height="100"><br>
 SPEAR0.png
