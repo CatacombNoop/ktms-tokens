@@ -40,8 +40,40 @@ BOW2.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./dedd.png" width="100" height="100"><br>
+dedd.png
+</td>
+
+<td valign="bottom">
 <img src="./forest.png" width="100" height="100"><br>
 forest.png
+</td>
+
+<td valign="bottom">
+<img src="./Goblin0.png" width="100" height="100"><br>
+Goblin0.png
+</td>
+
+<td valign="bottom">
+<img src="./Goblin1.png" width="100" height="100"><br>
+Goblin1.png
+</td>
+
+<td valign="bottom">
+<img src="./Goblin2.png" width="100" height="100"><br>
+Goblin2.png
+</td>
+
+<td valign="bottom">
+<img src="./Goblin3.png" width="100" height="100"><br>
+Goblin3.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Goblin4.png" width="100" height="100"><br>
+Goblin4.png
 </td>
 
 <td valign="bottom">
@@ -82,6 +114,11 @@ MRC1.sai2
 </td>
 
 <td valign="bottom">
+<img src="./orc.png" width="100" height="100"><br>
+orc.png
+</td>
+
+<td valign="bottom">
 <img src="./ORC0_1.png" width="100" height="100"><br>
 ORC0_1.png
 </td>
@@ -92,17 +129,49 @@ ORC0_2.png
 </td>
 
 <td valign="bottom">
+<img src="./ork0.png" width="100" height="100"><br>
+ork0.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./ork1.png" width="100" height="100"><br>
+ork1.png
+</td>
+
+<td valign="bottom">
+<img src="./ork2.png" width="100" height="100"><br>
+ork2.png
+</td>
+
+<td valign="bottom">
+<img src="./ork3.png" width="100" height="100"><br>
+ork3.png
+</td>
+
+<td valign="bottom">
+<img src="./ork4.png" width="100" height="100"><br>
+ork4.png
+</td>
+
+<td valign="bottom">
+<img src="./ork6.png" width="100" height="100"><br>
+ork6.png
+</td>
+
+<td valign="bottom">
 <img src="./PL0.png" width="100" height="100"><br>
 PL0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PL0_1.png" width="100" height="100"><br>
 PL0_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PL1.png" width="100" height="100"><br>
 PL1.png
@@ -128,13 +197,13 @@ SLD0.png
 SLD1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD2.png" width="100" height="100"><br>
 SLD2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD3.png" width="100" height="100"><br>
 SLD3.png
@@ -160,13 +229,13 @@ SLD6.png
 SLD7.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD8.png" width="100" height="100"><br>
 SLD8.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SPEAR0.png" width="100" height="100"><br>
 SPEAR0.png
@@ -180,6 +249,11 @@ SPEAR1.png
 <td valign="bottom">
 <img src="./SPEAR2.png" width="100" height="100"><br>
 SPEAR2.png
+</td>
+
+<td valign="bottom">
+<img src="./Troll.png" width="100" height="100"><br>
+Troll.png
 </td>
 
 </tr></table>
