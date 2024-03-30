@@ -114,6 +114,11 @@ SHL2.png
 </td>
 
 <td valign="bottom">
+<img src="./SLD0.png" width="100" height="100"><br>
+SLD0.png
+</td>
+
+<td valign="bottom">
 <img src="./SPEAR0.png" width="100" height="100"><br>
 SPEAR0.png
 </td>
