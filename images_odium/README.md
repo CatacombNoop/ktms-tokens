@@ -146,6 +146,11 @@ SLD5.png
 </td>
 
 <td valign="bottom">
+<img src="./SLD6.png" width="100" height="100"><br>
+SLD6.png
+</td>
+
+<td valign="bottom">
 <img src="./SPEAR0.png" width="100" height="100"><br>
 SPEAR0.png
 </td>
