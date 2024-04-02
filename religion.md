@@ -8,7 +8,7 @@
 
 Орден Порядка один из немногих что даёт магические дары. Однако дары эти, что предстают в виде заклинательных молитв, всё равно требуют обучения, инструментов, денег и магических камней для выполнения и недоступны простому обывателю. 
 
-![](file:///C:/Users/CB04~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
+![](https://imgsrv.roll20.net/?src=https%3A//github.com/CatacombNoop/ktms-tokens/raw/main/images_icons/Order.png)
 
 ---
 
@@ -22,7 +22,7 @@
 
 Святокровные конечно считаются еретиками по критерям Ордена Порядка, но вражда с ними не всегда случается, да и просто не выгодна. О их "ереси" вспоминают только тогда, когда Ордену требуется прижучить какую-то определённую общину со Святокровными
 
-![](file:///C:/Users/CB04~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+[a](https://imgsrv.roll20.net/?src=https%3A//github.com/CatacombNoop/ktms-tokens/raw/main/images_icons/Order_Blood4.png)
 
 ---
 
@@ -36,7 +36,7 @@
 
 В отличии от других верований у Викарианства есть свои святые личности, которые конечно же состоят в правительстве Одиума, у самой его верхушки. Вечномолодой Викарий Эйс Хорн и два его верных генерала: Влад и Клифф. Эти личности покрыты мифами, легендами и считаются чуть ли не божествами для простого народа из-за их силы и подвигов. Кроме них так же почитают древних Богов Стихий, которые являются предками текущих Викариев на земле.
 
-![](file:///C:/Users/CB04~1/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png)
+[s](https://imgsrv.roll20.net/?src=https%3A//github.com/CatacombNoop/ktms-tokens/raw/main/images_icons/Order_Vicaria.png)
 
 ---
 
@@ -50,7 +50,7 @@
 
 Духи кроме безопасности и нейтрального отношения могут даровать так же свой жизненный опыт, знания, духовную связь и магические силы своим самым лучшим последователям. Через таких последователей духи могут исследовать окружающий их мир и так же направлять свою волю. Многие язычники могут враждовать между собой из-за споров между духами за территорию или что-то иное и являются очень раздробленными, в основном существуют в малых общинах.
 
-![](file:///C:/Users/CB04~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
+[e](https://imgsrv.roll20.net/?src=https%3A//github.com/CatacombNoop/ktms-tokens/raw/main/images_icons/Order_Paganism.png)
 
 ---
 
@@ -66,7 +66,7 @@
 
 Часто люди в таких группах имеют особые силы, дарованные путём ритуалов (Кровавые Охотники и Сангроманты, например)
 
-![](file:///C:/Users/CB04~1/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png)  
+[bl](https://imgsrv.roll20.net/?src=https%3A//github.com/CatacombNoop/ktms-tokens/raw/main/images_icons/Order_Blood3.png)
   
 
 ---
@@ -77,4 +77,4 @@
 
 Это просто сказка, миф, легенда или страшилка.
 
-![](file:///C:/Users/CB04~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)
+[ch](https://imgsrv.roll20.net/?src=https%3A//github.com/CatacombNoop/ktms-tokens/raw/main/images_icons/Chaos2.png)
