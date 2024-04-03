@@ -1,4 +1,4 @@
-[Главная](https://github.com/CatacombNoop/ktms-tokens/blob/main/README.md)
+[Главная Страница](https://github.com/CatacombNoop/ktms-tokens/blob/main/README.md)
 
 # РЕЛИГИИ И ВЕРОВАНИЯ
 - ### ОРДЕН ПОРЯДКА / ВЕРА В АЛГОРИТМ
