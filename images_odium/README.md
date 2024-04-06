@@ -109,6 +109,11 @@ MAD2.png
 </td>
 
 <td valign="bottom">
+<img src="./Map.png" width="100" height="100"><br>
+Map.png
+</td>
+
+<td valign="bottom">
 <img src="./MRC1.sai2" width="100" height="100"><br>
 MRC1.sai2
 </td>
@@ -128,13 +133,13 @@ MS1.png
 MS2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MS3.png" width="100" height="100"><br>
 MS3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NB0.png" width="100" height="100"><br>
 NB0.png
@@ -160,13 +165,13 @@ NB3.png
 NB4.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NB5.png" width="100" height="100"><br>
 NB5.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NB6.png" width="100" height="100"><br>
 NB6.png
@@ -192,13 +197,13 @@ ORC0_1.png
 ORC0_2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ork0.png" width="100" height="100"><br>
 ork0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ork1.png" width="100" height="100"><br>
 ork1.png
@@ -224,13 +229,13 @@ ork4.png
 ork6.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ork7.png" width="100" height="100"><br>
 ork7.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ork8.png" width="100" height="100"><br>
 ork8.png
@@ -256,13 +261,13 @@ PL0_1.png
 PL1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PS0.png" width="100" height="100"><br>
 PS0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SHL1.png" width="100" height="100"><br>
 SHL1.png
@@ -288,13 +293,13 @@ SLD1.png
 SLD10.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD2.png" width="100" height="100"><br>
 SLD2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD3.png" width="100" height="100"><br>
 SLD3.png
@@ -320,13 +325,13 @@ SLD6.png
 SLD7.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD8.png" width="100" height="100"><br>
 SLD8.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD9.png" width="100" height="100"><br>
 SLD9.png
