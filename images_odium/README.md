@@ -264,6 +264,11 @@ PL1.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./PL2.png" width="100" height="100"><br>
+PL2.png
+</td>
+
+<td valign="bottom">
 <img src="./PS0.png" width="100" height="100"><br>
 PS0.png
 </td>
@@ -288,13 +293,13 @@ SLD0.png
 SLD1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD10.png" width="100" height="100"><br>
 SLD10.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD2.png" width="100" height="100"><br>
 SLD2.png
@@ -320,13 +325,13 @@ SLD5.png
 SLD6.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD7.png" width="100" height="100"><br>
 SLD7.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD8.png" width="100" height="100"><br>
 SLD8.png
@@ -352,6 +357,8 @@ SPEAR1.png
 SPEAR2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Troll.png" width="100" height="100"><br>
 Troll.png
