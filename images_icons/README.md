@@ -1020,20 +1020,35 @@ shatter.png
 </td>
 
 <td valign="bottom">
-<img src="./thaumaturgy.png" width="100" height="100"><br>
-thaumaturgy.png
+<img src="./Sword.png" width="100" height="100"><br>
+Sword.png
 </td>
 
 <td valign="bottom">
-<img src="./thunderwave.png" width="100" height="100"><br>
-thunderwave.png
+<img src="./thaumaturgy.png" width="100" height="100"><br>
+thaumaturgy.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./thunderwave.png" width="100" height="100"><br>
+thunderwave.png
+</td>
+
+<td valign="bottom">
 <img src="./_potion.png" width="100" height="100"><br>
 _potion.png
+</td>
+
+<td valign="bottom">
+<img src="./_potion2.png" width="100" height="100"><br>
+_potion2.png
+</td>
+
+<td valign="bottom">
+<img src="./_potion3.png" width="100" height="100"><br>
+_potion3.png
 </td>
 
 </tr></table>
