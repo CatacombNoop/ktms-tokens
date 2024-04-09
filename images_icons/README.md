@@ -1029,4 +1029,11 @@ thaumaturgy.png
 thunderwave.png
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./_potion.png" width="100" height="100"><br>
+_potion.png
+</td>
+
 </tr></table>
