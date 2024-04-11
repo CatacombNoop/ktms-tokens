@@ -18,8 +18,8 @@
 </td>
 
 <td valign="bottom">
-<img src="./0bnkoirdjqa61.png" width="100" height="100"><br>
-0bnkoirdjqa61.png
+<img src="./0bnko1.png" width="100" height="100"><br>
+0bnko1.png
 </td>
 
 <td valign="bottom">
@@ -28,13 +28,13 @@
 </td>
 
 <td valign="bottom">
-<img src="./0GD_ARISTARH.png" width="100" height="100"><br>
-0GD_ARISTARH.png
+<img src="./0GD_ARI.png" width="100" height="100"><br>
+0GD_ARI.png
 </td>
 
 <td valign="bottom">
-<img src="./0GD_ARISTARH2.png" width="100" height="100"><br>
-0GD_ARISTARH2.png
+<img src="./0GD_ARI2.png" width="100" height="100"><br>
+0GD_ARI2.png
 </td>
 
 </tr>
@@ -4956,40 +4956,40 @@ __FEDOT3.png
 </td>
 
 <td valign="bottom">
-<img src="./__FED_REBORN0.png" width="100" height="100"><br>
-__FED_REBORN0.png
+<img src="./__FED_R.png" width="100" height="100"><br>
+__FED_R.png
 </td>
 
 <td valign="bottom">
-<img src="./__FED_REBORN1.png" width="100" height="100"><br>
-__FED_REBORN1.png
+<img src="./__FED_R0.png" width="100" height="100"><br>
+__FED_R0.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./__FED_REBORN2.png" width="100" height="100"><br>
-__FED_REBORN2.png
+<img src="./__FED_R1.png" width="100" height="100"><br>
+__FED_R1.png
 </td>
 
 <td valign="bottom">
-<img src="./__FED_REBORN3.png" width="100" height="100"><br>
-__FED_REBORN3.png
+<img src="./__FED_R3.png" width="100" height="100"><br>
+__FED_R3.png
 </td>
 
 <td valign="bottom">
-<img src="./__FED_REBORN4.png" width="100" height="100"><br>
-__FED_REBORN4.png
+<img src="./__FED_R4.png" width="100" height="100"><br>
+__FED_R4.png
 </td>
 
 <td valign="bottom">
-<img src="./__FED_REBORN5.png" width="100" height="100"><br>
-__FED_REBORN5.png
+<img src="./__FED_R5.png" width="100" height="100"><br>
+__FED_R5.png
 </td>
 
 <td valign="bottom">
-<img src="./__FED_REBORN6.png" width="100" height="100"><br>
-__FED_REBORN6.png
+<img src="./__FED_R6.png" width="100" height="100"><br>
+__FED_R6.png
 </td>
 
 <td valign="bottom">
