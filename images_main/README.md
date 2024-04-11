@@ -55,8 +55,8 @@
 </td>
 
 <td valign="bottom">
-<img src="./0GD_LATANDER_ANGEL.png" width="100" height="100"><br>
-0GD_LATANDER_ANGEL.png
+<img src="./0GD_LT_ANGEL.png" width="100" height="100"><br>
+0GD_LT_ANGEL.png
 </td>
 
 <td valign="bottom">
