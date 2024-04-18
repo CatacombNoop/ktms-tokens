@@ -28,17 +28,22 @@ F11.png
 </td>
 
 <td valign="bottom">
+<img src="./F12.png" width="100" height="100"><br>
+F12.png
+</td>
+
+<td valign="bottom">
 <img src="./F2.png" width="100" height="100"><br>
 F2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F3.png" width="100" height="100"><br>
 F3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F4.png" width="100" height="100"><br>
 F4.png
@@ -64,6 +69,8 @@ F7.png
 F8.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F9.png" width="100" height="100"><br>
 F9.png
