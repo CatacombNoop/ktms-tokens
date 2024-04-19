@@ -50,8 +50,77 @@ F15.png
 </td>
 
 <td valign="bottom">
+<img src="./F16.png" width="100" height="100"><br>
+F16.png
+</td>
+
+<td valign="bottom">
+<img src="./F17.png" width="100" height="100"><br>
+F17.png
+</td>
+
+<td valign="bottom">
+<img src="./F18.png" width="100" height="100"><br>
+F18.png
+</td>
+
+<td valign="bottom">
+<img src="./F19.png" width="100" height="100"><br>
+F19.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
 <img src="./F2.png" width="100" height="100"><br>
 F2.png
+</td>
+
+<td valign="bottom">
+<img src="./F20.png" width="100" height="100"><br>
+F20.png
+</td>
+
+<td valign="bottom">
+<img src="./F21.png" width="100" height="100"><br>
+F21.png
+</td>
+
+<td valign="bottom">
+<img src="./F22.png" width="100" height="100"><br>
+F22.png
+</td>
+
+<td valign="bottom">
+<img src="./F23.png" width="100" height="100"><br>
+F23.png
+</td>
+
+<td valign="bottom">
+<img src="./F24.png" width="100" height="100"><br>
+F24.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./F25.png" width="100" height="100"><br>
+F25.png
+</td>
+
+<td valign="bottom">
+<img src="./F26.png" width="100" height="100"><br>
+F26.png
+</td>
+
+<td valign="bottom">
+<img src="./F27.png" width="100" height="100"><br>
+F27.png
+</td>
+
+<td valign="bottom">
+<img src="./F28.png" width="100" height="100"><br>
+F28.png
 </td>
 
 <td valign="bottom">
@@ -64,13 +133,13 @@ F3.png
 F4.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F5.png" width="100" height="100"><br>
 F5.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F6.png" width="100" height="100"><br>
 F6.png
