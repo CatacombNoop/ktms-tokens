@@ -33,4 +33,9 @@
 0TP_TIH_SG2.png
 </td>
 
+<td valign="bottom">
+<img src="./Rad_sova.png" width="100" height="100"><br>
+Rad_sova.png
+</td>
+
 </tr></table>
