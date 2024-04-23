@@ -109,4 +109,19 @@
 Rad_sova.png
 </td>
 
+<td valign="bottom">
+<img src="./UNO_0.png" width="100" height="100"><br>
+UNO_0.png
+</td>
+
+<td valign="bottom">
+<img src="./UNO_1.png" width="100" height="100"><br>
+UNO_1.png
+</td>
+
+<td valign="bottom">
+<img src="./UNO_2.png" width="100" height="100"><br>
+UNO_2.png
+</td>
+
 </tr></table>
