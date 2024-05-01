@@ -14,6 +14,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./0GD_CHR0.png" width="100" height="100"><br>
+0GD_CHR0.png
+</td>
+
+<td valign="bottom">
 <img src="./0GD_HEX0.png" width="100" height="100"><br>
 0GD_HEX0.png
 </td>
@@ -33,13 +38,13 @@
 0GD_HEX2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0GD_HEX3.png" width="100" height="100"><br>
 0GD_HEX3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0GD_HEX4.png" width="100" height="100"><br>
 0GD_HEX4.png
@@ -65,13 +70,13 @@
 0GD_HEX8.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0GD_HEX9.png" width="100" height="100"><br>
 0GD_HEX9.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_EGER.png" width="100" height="100"><br>
 0TP_EGER.png
@@ -97,13 +102,13 @@
 0TP_TIH2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_TIH3.png" width="100" height="100"><br>
 0TP_TIH3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_TIH4.png" width="100" height="100"><br>
 0TP_TIH4.png
@@ -129,13 +134,13 @@
 PIR0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Rad_sova.png" width="100" height="100"><br>
 Rad_sova.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_0.png" width="100" height="100"><br>
 UNO_0.png
