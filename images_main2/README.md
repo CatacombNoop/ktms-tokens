@@ -78,6 +78,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./0GD_JES.png" width="100" height="100"><br>
+0GD_JES.png
+</td>
+
+<td valign="bottom">
 <img src="./0TP_EGER.png" width="100" height="100"><br>
 0TP_EGER.png
 </td>
@@ -97,13 +102,13 @@
 0TP_TIH1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_TIH2.png" width="100" height="100"><br>
 0TP_TIH2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_TIH3.png" width="100" height="100"><br>
 0TP_TIH3.png
@@ -129,13 +134,13 @@
 0TP_TIH_SG2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PIR0.png" width="100" height="100"><br>
 PIR0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Rad_sova.png" width="100" height="100"><br>
 Rad_sova.png
