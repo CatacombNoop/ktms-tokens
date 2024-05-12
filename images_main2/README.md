@@ -137,6 +137,16 @@
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./ABER_CR.png" width="100" height="100"><br>
+ABER_CR.png
+</td>
+
+<td valign="bottom">
+<img src="./MTH.png" width="100" height="100"><br>
+MTH.png
+</td>
+
+<td valign="bottom">
 <img src="./PIR0.png" width="100" height="100"><br>
 PIR0.png
 </td>
@@ -156,6 +166,8 @@ UNO_0.png
 UNO_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_2.png" width="100" height="100"><br>
 UNO_2.png
