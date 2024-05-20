@@ -83,6 +83,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./0GD_SHAI.png" width="100" height="100"><br>
+0GD_SHAI.png
+</td>
+
+<td valign="bottom">
 <img src="./0GD_SNEK.png" width="100" height="100"><br>
 0GD_SNEK.png
 </td>
@@ -97,13 +102,13 @@
 0TP_EGER1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_TIH0.png" width="100" height="100"><br>
 0TP_TIH0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_TIH1.png" width="100" height="100"><br>
 0TP_TIH1.png
@@ -129,13 +134,13 @@
 0TP_TIH_DV.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_TIH_SG.png" width="100" height="100"><br>
 0TP_TIH_SG.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_TIH_SG2.png" width="100" height="100"><br>
 0TP_TIH_SG2.png
@@ -161,13 +166,13 @@ PIR0.png
 Rad_sova.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_0.png" width="100" height="100"><br>
 UNO_0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_1.png" width="100" height="100"><br>
 UNO_1.png
