@@ -152,6 +152,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./0UD_EZMN.png" width="100" height="100"><br>
+0UD_EZMN.png
+</td>
+
+<td valign="bottom">
 <img src="./ABER_CR.png" width="100" height="100"><br>
 ABER_CR.png
 </td>
@@ -161,13 +166,13 @@ ABER_CR.png
 DEVIL0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PIR0.png" width="100" height="100"><br>
 PIR0.png
