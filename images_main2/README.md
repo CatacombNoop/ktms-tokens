@@ -174,6 +174,11 @@ DEVIL0.png
 </td>
 
 <td valign="bottom">
+<img src="./HSS.png" width="100" height="100"><br>
+HSS.png
+</td>
+
+<td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
 </td>
@@ -193,13 +198,13 @@ Rad_sova.png
 UNO_0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_1.png" width="100" height="100"><br>
 UNO_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_2.png" width="100" height="100"><br>
 UNO_2.png
