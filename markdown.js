@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const image_folder = [];
-image_folder.push("./images_main/", "./images_main2/", "./images_mudrog/", "./images_sfx/", "./images_icons/", "./images_icons2/", "./images_odium/", "./wiki_img/", "./images_mark/");
+image_folder.push("./images_main/", "./images_main2/", "./images_mudrog/", "./images_sfx/", "./images_icons/", "./images_icons2/", "./images_odium/", "./wiki_img/", "./images_mark/", "./images_maps/");
 const ROOT_DIR = './images_';
 const README_FILENAME = 'README.md';
 const NB_IMAGES_PER_LINE = 6;
@@ -24,6 +24,8 @@ mdContent += ` |
 [Токены Марка](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_mark/README.md)`;
 mdContent += ` |
 [Одиум](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_odium/README.md)`;
+mdContent += ` |
+[Карты](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_maps/README.md)`;
 mdContent += ` |
 <table><tr>`;
 

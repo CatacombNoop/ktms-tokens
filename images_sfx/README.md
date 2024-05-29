@@ -6,6 +6,7 @@
 [Эффекты](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_sfx/README.md) |
 [Токены Марка](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_mark/README.md) |
 [Одиум](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_odium/README.md) |
+[Карты](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_maps/README.md) |
 <table><tr>
 <tr>
 <td valign="bottom">
@@ -218,6 +219,11 @@ Space3_3.png
 <td valign="bottom">
 <img src="./table.png" width="100" height="100"><br>
 table.png
+</td>
+
+<td valign="bottom">
+<img src="./__MAP_Snow0.jpg" width="100" height="100"><br>
+__MAP_Snow0.jpg
 </td>
 
 <td valign="bottom">

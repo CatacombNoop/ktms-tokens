@@ -6,6 +6,7 @@
 [Эффекты](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_sfx/README.md) |
 [Токены Марка](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_mark/README.md) |
 [Одиум](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_odium/README.md) |
+[Карты](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_maps/README.md) |
 <table><tr>
 <tr>
 <td valign="bottom">
