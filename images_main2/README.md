@@ -180,6 +180,11 @@ DEV_SC.png
 </td>
 
 <td valign="bottom">
+<img src="./DEV_SC2.png" width="100" height="100"><br>
+DEV_SC2.png
+</td>
+
+<td valign="bottom">
 <img src="./HSS.png" width="100" height="100"><br>
 HSS.png
 </td>
@@ -194,13 +199,13 @@ MTH.png
 PIR0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Rad_sova.png" width="100" height="100"><br>
 Rad_sova.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_0.png" width="100" height="100"><br>
 UNO_0.png
