@@ -355,17 +355,12 @@ Quicksilver Mountains - Quicksilver Dragon Lair 2.jpg
 </td>
 
 <td valign="bottom">
-<img src="./Quicksilver Mountains - Quicksilver Dragon.jpg" width="100" height="100"><br>
-Quicksilver Mountains - Quicksilver Dragon.jpg
-</td>
-
-</tr>
-<tr>
-<td valign="bottom">
 <img src="./Quicksilver Mountains - Quicksilver puddle cavern.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Quicksilver puddle cavern.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Quicksilver puddles hall.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Quicksilver puddles hall.jpg
@@ -391,8 +386,6 @@ Quicksilver Mountains - snowy ravine path.jpg
 SnowBridge Archway.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SnowBridge Cave Entrance.jpg" width="100" height="100"><br>
 SnowBridge Cave Entrance.jpg
