@@ -185,8 +185,30 @@
 </td>
 
 <td valign="bottom">
+<img src="./0UD_EZMN0.png" width="100" height="100"><br>
+0UD_EZMN0.png
+</td>
+
+<td valign="bottom">
+<img src="./0UD_EZMN1.png" width="100" height="100"><br>
+0UD_EZMN1.png
+</td>
+
+<td valign="bottom">
 <img src="./ABER_CR.png" width="100" height="100"><br>
 ABER_CR.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./DEMON0.png" width="100" height="100"><br>
+DEMON0.png
+</td>
+
+<td valign="bottom">
+<img src="./DEMON1.png" width="100" height="100"><br>
+DEMON1.png
 </td>
 
 <td valign="bottom">
@@ -199,8 +221,6 @@ DEVIL0.png
 DEV_SC.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DEV_SC2.png" width="100" height="100"><br>
 DEV_SC2.png
@@ -211,6 +231,8 @@ DEV_SC2.png
 HSS.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
@@ -227,17 +249,22 @@ Rad_sova.png
 </td>
 
 <td valign="bottom">
+<img src="./SHdd.png" width="100" height="100"><br>
+SHdd.png
+</td>
+
+<td valign="bottom">
 <img src="./UNO_0.png" width="100" height="100"><br>
 UNO_0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_1.png" width="100" height="100"><br>
 UNO_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_2.png" width="100" height="100"><br>
 UNO_2.png
