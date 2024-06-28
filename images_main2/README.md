@@ -234,6 +234,16 @@ HSS.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./IOG0.png" width="100" height="100"><br>
+IOG0.png
+</td>
+
+<td valign="bottom">
+<img src="./IOG1.png" width="100" height="100"><br>
+IOG1.png
+</td>
+
+<td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
 </td>
@@ -253,6 +263,18 @@ Rad_sova.png
 SHdd.png
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./SHDH.png" width="100" height="100"><br>
+SHDH.png
+</td>
+
+<td valign="bottom">
+<img src="./SHDH2.png" width="100" height="100"><br>
+SHDH2.png
+</td>
+
 <td valign="bottom">
 <img src="./UNO_0.png" width="100" height="100"><br>
 UNO_0.png
@@ -263,8 +285,6 @@ UNO_0.png
 UNO_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_2.png" width="100" height="100"><br>
 UNO_2.png
