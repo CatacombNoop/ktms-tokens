@@ -25,6 +25,38 @@
 </td>
 
 <td valign="bottom">
+<img src="./0GD_ERI0.png" width="100" height="100"><br>
+0GD_ERI0.png
+</td>
+
+<td valign="bottom">
+<img src="./0GD_ERI1.png" width="100" height="100"><br>
+0GD_ERI1.png
+</td>
+
+<td valign="bottom">
+<img src="./0GD_ERI2.png" width="100" height="100"><br>
+0GD_ERI2.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./0GD_ERI3.png" width="100" height="100"><br>
+0GD_ERI3.png
+</td>
+
+<td valign="bottom">
+<img src="./0GD_ERI4.png" width="100" height="100"><br>
+0GD_ERI4.png
+</td>
+
+<td valign="bottom">
+<img src="./0GD_ERI5.png" width="100" height="100"><br>
+0GD_ERI5.png
+</td>
+
+<td valign="bottom">
 <img src="./0GD_HEX0.png" width="100" height="100"><br>
 0GD_HEX0.png
 </td>
