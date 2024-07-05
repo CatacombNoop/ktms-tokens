@@ -185,6 +185,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./0TP_LAZ_S.png" width="100" height="100"><br>
+0TP_LAZ_S.png
+</td>
+
+<td valign="bottom">
 <img src="./0TP_RAD_N.png" width="100" height="100"><br>
 0TP_RAD_N.png
 </td>
@@ -194,13 +199,13 @@
 0TP_RAD_SPEC.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_TIH0.png" width="100" height="100"><br>
 0TP_TIH0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_TIH1.png" width="100" height="100"><br>
 0TP_TIH1.png
@@ -226,13 +231,13 @@
 0TP_TIH5.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_TIH_DV.png" width="100" height="100"><br>
 0TP_TIH_DV.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_TIH_SG.png" width="100" height="100"><br>
 0TP_TIH_SG.png
@@ -258,13 +263,13 @@
 0UD_EZMN1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ABER_CR.png" width="100" height="100"><br>
 ABER_CR.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DEMON0.png" width="100" height="100"><br>
 DEMON0.png
@@ -290,13 +295,13 @@ DEV_SC.png
 DEV_SC2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./HSS.png" width="100" height="100"><br>
 HSS.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./IOG0.png" width="100" height="100"><br>
 IOG0.png
@@ -322,13 +327,13 @@ MTH.png
 PIR0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Rad_sova.png" width="100" height="100"><br>
 Rad_sova.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SHdd.png" width="100" height="100"><br>
 SHdd.png
@@ -354,13 +359,13 @@ SLD.png
 UNO_0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_1.png" width="100" height="100"><br>
 UNO_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_2.png" width="100" height="100"><br>
 UNO_2.png
