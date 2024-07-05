@@ -3582,17 +3582,22 @@ RADDELIA.png
 </td>
 
 <td valign="bottom">
+<img src="./RAND.png" width="100" height="100"><br>
+RAND.png
+</td>
+
+<td valign="bottom">
 <img src="./Rat.png" width="100" height="100"><br>
 Rat.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./rats.png" width="100" height="100"><br>
 rats.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Rats2.png" width="100" height="100"><br>
 Rats2.png
@@ -3618,13 +3623,13 @@ RB13.png
 RB14.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./REIN.png" width="100" height="100"><br>
 REIN.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./REIN_HR.png" width="100" height="100"><br>
 REIN_HR.png
@@ -3650,13 +3655,13 @@ REo_PAL.png
 Respected.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Respected2.png" width="100" height="100"><br>
 Respected2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./rgogog.png" width="100" height="100"><br>
 rgogog.png
@@ -3682,13 +3687,13 @@ rnd_kn2.png
 ROBOT.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ROCK00.png" width="100" height="100"><br>
 ROCK00.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ROCK01.png" width="100" height="100"><br>
 ROCK01.png
@@ -3714,13 +3719,13 @@ Roderik.png
 Rose.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ROT.png" width="100" height="100"><br>
 ROT.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RotTroll.png" width="100" height="100"><br>
 RotTroll.png
@@ -3746,13 +3751,13 @@ sciens.png
 shadow.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./shadow2.png" width="100" height="100"><br>
 shadow2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Shadow3.png" width="100" height="100"><br>
 Shadow3.png
@@ -3778,13 +3783,13 @@ SIGG.png
 SIGMA0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SIGMA1.png" width="100" height="100"><br>
 SIGMA1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SIGMA2.png" width="100" height="100"><br>
 SIGMA2.png
@@ -3810,13 +3815,13 @@ SIGMA5.png
 SIGMA6.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SIGMA7.png" width="100" height="100"><br>
 SIGMA7.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Simon.png" width="100" height="100"><br>
 Simon.png
@@ -3842,13 +3847,13 @@ Skell.png
 Skill_body.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Slime.png" width="100" height="100"><br>
 Slime.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Slime2.png" width="100" height="100"><br>
 Slime2.png
@@ -3874,16 +3879,11 @@ Sneg1.png
 Sneg2.png
 </td>
 
-<td valign="bottom">
-<img src="./Sneg3.png" width="100" height="100"><br>
-Sneg3.png
-</td>
-
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./Son_Of_Destruction.png" width="100" height="100"><br>
-Son_Of_Destruction.png
+<img src="./Sneg3.png" width="100" height="100"><br>
+Sneg3.png
 </td>
 
 <td valign="bottom">
