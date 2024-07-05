@@ -148,6 +148,11 @@ F30.png
 </td>
 
 <td valign="bottom">
+<img src="./F31.png" width="100" height="100"><br>
+F31.png
+</td>
+
+<td valign="bottom">
 <img src="./F4.png" width="100" height="100"><br>
 F4.png
 </td>
@@ -162,13 +167,13 @@ F5.png
 F6.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F7.png" width="100" height="100"><br>
 F7.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F8.png" width="100" height="100"><br>
 F8.png
