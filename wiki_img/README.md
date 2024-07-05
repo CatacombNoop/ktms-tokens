@@ -131,12 +131,22 @@ F28.png
 </td>
 
 <td valign="bottom">
-<img src="./F3.png" width="100" height="100"><br>
-F3.png
+<img src="./F29.png" width="100" height="100"><br>
+F29.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./F3.png" width="100" height="100"><br>
+F3.png
+</td>
+
+<td valign="bottom">
+<img src="./F30.png" width="100" height="100"><br>
+F30.png
+</td>
+
 <td valign="bottom">
 <img src="./F4.png" width="100" height="100"><br>
 F4.png
@@ -157,6 +167,8 @@ F6.png
 F7.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F8.png" width="100" height="100"><br>
 F8.png
@@ -167,8 +179,6 @@ F8.png
 F9.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Vilia 2023-06-14-10-56.png" width="100" height="100"><br>
 Vilia 2023-06-14-10-56.png

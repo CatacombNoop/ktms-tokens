@@ -303,6 +303,11 @@ IOG1.png
 </td>
 
 <td valign="bottom">
+<img src="./KRO.png" width="100" height="100"><br>
+KRO.png
+</td>
+
+<td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
 </td>
@@ -322,13 +327,13 @@ Rad_sova.png
 SHdd.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SHDH.png" width="100" height="100"><br>
 SHDH.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SHDH2.png" width="100" height="100"><br>
 SHDH2.png
