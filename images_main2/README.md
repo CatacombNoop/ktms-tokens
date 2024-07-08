@@ -276,6 +276,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./0UD_KRO.png" width="100" height="100"><br>
+0UD_KRO.png
+</td>
+
+<td valign="bottom">
 <img src="./ABER_CR.png" width="100" height="100"><br>
 ABER_CR.png
 </td>
@@ -290,13 +295,13 @@ DEMON0.png
 DEMON1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DEVIL0.png" width="100" height="100"><br>
 DEVIL0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DEV_SC.png" width="100" height="100"><br>
 DEV_SC.png
@@ -320,11 +325,6 @@ IOG0.png
 <td valign="bottom">
 <img src="./IOG1.png" width="100" height="100"><br>
 IOG1.png
-</td>
-
-<td valign="bottom">
-<img src="./KRO.png" width="100" height="100"><br>
-KRO.png
 </td>
 
 </tr>
