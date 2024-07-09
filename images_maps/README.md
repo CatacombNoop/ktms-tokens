@@ -195,12 +195,17 @@ Glacial Cavern Entrance Chamber.jpg
 </td>
 
 <td valign="bottom">
-<img src="./Ice Canyon Shrine.jpg" width="100" height="100"><br>
-Ice Canyon Shrine.jpg
+<img src="./GL_GrandCathedral_Original_Day22.jpg" width="100" height="100"><br>
+GL_GrandCathedral_Original_Day22.jpg
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./Ice Canyon Shrine.jpg" width="100" height="100"><br>
+Ice Canyon Shrine.jpg
+</td>
+
 <td valign="bottom">
 <img src="./Ice cavern Stair Path.jpg" width="100" height="100"><br>
 Ice cavern Stair Path.jpg
@@ -226,13 +231,13 @@ Icegate 2.jpg
 Icegate.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Iceheart Chamber.jpg" width="100" height="100"><br>
 Iceheart Chamber.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Iceheart Relic Room.jpg" width="100" height="100"><br>
 Iceheart Relic Room.jpg
@@ -258,13 +263,13 @@ Icelord's Lair.jpg
 Quicksilver Mountains - Abandoned Quicksilver Dragon Nest.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - cavern path 1.jpg" width="100" height="100"><br>
 Quicksilver Mountains - cavern path 1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - cavern path 2.jpg" width="100" height="100"><br>
 Quicksilver Mountains - cavern path 2.jpg
@@ -290,13 +295,13 @@ Quicksilver Mountains - Dragons Landing Pass.jpg
 Quicksilver Mountains - Entrance to the Dragon Lair.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Forgotten Quicksilver Mine Chamber.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Forgotten Quicksilver Mine Chamber.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Frozen creek path.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Frozen creek path.jpg
@@ -322,13 +327,13 @@ Quicksilver Mountains - Ironstrike pass.jpg
 Quicksilver Mountains - MountainFoot Tavern.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - MountainFoot Village.jpg" width="100" height="100"><br>
 Quicksilver Mountains - MountainFoot Village.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Old Bridge Crossing.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Old Bridge Crossing.jpg
@@ -354,13 +359,13 @@ Quicksilver Mountains - Quicksilver Dragon Lair 1.jpg
 Quicksilver Mountains - Quicksilver Dragon Lair 2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Quicksilver puddle cavern.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Quicksilver puddle cavern.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Quicksilver puddles hall.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Quicksilver puddles hall.jpg
@@ -386,6 +391,8 @@ Quicksilver Mountains - snowy ravine path.jpg
 SnowBridge Archway.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SnowBridge Cave Entrance.jpg" width="100" height="100"><br>
 SnowBridge Cave Entrance.jpg
