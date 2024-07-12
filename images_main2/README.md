@@ -387,12 +387,17 @@ SHDH2.png
 </td>
 
 <td valign="bottom">
-<img src="./SLD.png" width="100" height="100"><br>
-SLD.png
+<img src="./SKRIPKA.png" width="100" height="100"><br>
+SKRIPKA.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./SLD.png" width="100" height="100"><br>
+SLD.png
+</td>
+
 <td valign="bottom">
 <img src="./UNO_0.png" width="100" height="100"><br>
 UNO_0.png
