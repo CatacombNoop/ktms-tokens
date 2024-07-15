@@ -308,6 +308,11 @@ ABER_CR.png
 </td>
 
 <td valign="bottom">
+<img src="./ALEXEY.png" width="100" height="100"><br>
+ALEXEY.png
+</td>
+
+<td valign="bottom">
 <img src="./DEMON0.png" width="100" height="100"><br>
 DEMON0.png
 </td>
@@ -322,13 +327,13 @@ DEMON1.png
 DEVIL0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DEV_SC.png" width="100" height="100"><br>
 DEV_SC.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DEV_SC2.png" width="100" height="100"><br>
 DEV_SC2.png
@@ -354,13 +359,13 @@ IOG1.png
 komissarov.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PIR0.png" width="100" height="100"><br>
 PIR0.png
@@ -386,13 +391,13 @@ SHDH.png
 SHDH2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SKRIPKA.png" width="100" height="100"><br>
 SKRIPKA.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD.png" width="100" height="100"><br>
 SLD.png
