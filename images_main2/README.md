@@ -180,6 +180,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./0TP_BLIGHT.png" width="100" height="100"><br>
+0TP_BLIGHT.png
+</td>
+
+<td valign="bottom">
 <img src="./0TP_EGER.png" width="100" height="100"><br>
 0TP_EGER.png
 </td>
@@ -194,13 +199,13 @@
 0TP_JS0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_JS1.png" width="100" height="100"><br>
 0TP_JS1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_LAZ_S.png" width="100" height="100"><br>
 0TP_LAZ_S.png
@@ -226,13 +231,13 @@
 0TP_TIH1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_TIH2.png" width="100" height="100"><br>
 0TP_TIH2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_TIH3.png" width="100" height="100"><br>
 0TP_TIH3.png
@@ -258,13 +263,13 @@
 0TP_TIH_AL1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_TIH_AL2.png" width="100" height="100"><br>
 0TP_TIH_AL2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_TIH_DV.png" width="100" height="100"><br>
 0TP_TIH_DV.png
@@ -290,13 +295,13 @@
 0UD_EZMN0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0UD_EZMN1.png" width="100" height="100"><br>
 0UD_EZMN1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0UD_KRO.png" width="100" height="100"><br>
 0UD_KRO.png
@@ -322,13 +327,13 @@ DEMON0.png
 DEMON1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DEVIL0.png" width="100" height="100"><br>
 DEVIL0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DEV_SC.png" width="100" height="100"><br>
 DEV_SC.png
@@ -354,13 +359,13 @@ IOG0.png
 IOG1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./komissarov.png" width="100" height="100"><br>
 komissarov.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
@@ -386,13 +391,13 @@ SHdd.png
 SHDH.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SHDH2.png" width="100" height="100"><br>
 SHDH2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SKRIPKA.png" width="100" height="100"><br>
 SKRIPKA.png
