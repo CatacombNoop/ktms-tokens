@@ -259,12 +259,17 @@ Icelord's Lair.jpg
 </td>
 
 <td valign="bottom">
-<img src="./Quicksilver Mountains - Abandoned Quicksilver Dragon Nest.jpg" width="100" height="100"><br>
-Quicksilver Mountains - Abandoned Quicksilver Dragon Nest.jpg
+<img src="./lpfk030cg1da1.jpg" width="100" height="100"><br>
+lpfk030cg1da1.jpg
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./Quicksilver Mountains - Abandoned Quicksilver Dragon Nest.jpg" width="100" height="100"><br>
+Quicksilver Mountains - Abandoned Quicksilver Dragon Nest.jpg
+</td>
+
 <td valign="bottom">
 <img src="./Quicksilver Mountains - cavern path 1.jpg" width="100" height="100"><br>
 Quicksilver Mountains - cavern path 1.jpg
@@ -290,13 +295,13 @@ Quicksilver Mountains - Cold Canyon Trail.jpg
 Quicksilver Mountains - Dragons Landing Pass.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Entrance to the Dragon Lair.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Entrance to the Dragon Lair.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Forgotten Quicksilver Mine Chamber.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Forgotten Quicksilver Mine Chamber.jpg
@@ -322,13 +327,13 @@ Quicksilver Mountains - Glacial Pass.jpg
 Quicksilver Mountains - Ironstrike pass.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - MountainFoot Tavern.jpg" width="100" height="100"><br>
 Quicksilver Mountains - MountainFoot Tavern.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - MountainFoot Village.jpg" width="100" height="100"><br>
 Quicksilver Mountains - MountainFoot Village.jpg
@@ -354,13 +359,13 @@ Quicksilver Mountains - Old Cavern City ruins 2.jpg
 Quicksilver Mountains - Quicksilver Dragon Lair 1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Quicksilver Dragon Lair 2.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Quicksilver Dragon Lair 2.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Quicksilver puddle cavern.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Quicksilver puddle cavern.jpg
@@ -386,13 +391,13 @@ Quicksilver Mountains - Silverspire pass.jpg
 Quicksilver Mountains - snowy ravine path.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SnowBridge Archway.jpg" width="100" height="100"><br>
 SnowBridge Archway.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SnowBridge Cave Entrance.jpg" width="100" height="100"><br>
 SnowBridge Cave Entrance.jpg
