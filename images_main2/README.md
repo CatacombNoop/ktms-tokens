@@ -362,6 +362,11 @@ DEV_SC2.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./GOLD_DRAG.png" width="100" height="100"><br>
+GOLD_DRAG.png
+</td>
+
+<td valign="bottom">
 <img src="./HAT.png" width="100" height="100"><br>
 HAT.png
 </td>
@@ -386,13 +391,13 @@ IOG1.png
 komissarov.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PIR0.png" width="100" height="100"><br>
 PIR0.png
@@ -418,13 +423,13 @@ SHDH.png
 SHDH2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SKRIPKA.png" width="100" height="100"><br>
 SKRIPKA.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD.png" width="100" height="100"><br>
 SLD.png
