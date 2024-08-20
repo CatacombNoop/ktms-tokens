@@ -190,6 +190,11 @@ F9.png
 </td>
 
 <td valign="bottom">
+<img src="./Malarw.png" width="100" height="100"><br>
+Malarw.png
+</td>
+
+<td valign="bottom">
 <img src="./Vilia 2023-06-14-10-56.png" width="100" height="100"><br>
 Vilia 2023-06-14-10-56.png
 </td>
