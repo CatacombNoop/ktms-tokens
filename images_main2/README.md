@@ -362,6 +362,21 @@ DEV_SC2.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./ELF_S0.png" width="100" height="100"><br>
+ELF_S0.png
+</td>
+
+<td valign="bottom">
+<img src="./ELF_S1.png" width="100" height="100"><br>
+ELF_S1.png
+</td>
+
+<td valign="bottom">
+<img src="./ELF_S2.png" width="100" height="100"><br>
+ELF_S2.png
+</td>
+
+<td valign="bottom">
 <img src="./GOLD_DRAG.png" width="100" height="100"><br>
 GOLD_DRAG.png
 </td>
@@ -376,6 +391,8 @@ HAT.png
 HSS.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./IOG0.png" width="100" height="100"><br>
 IOG0.png
@@ -391,8 +408,6 @@ IOG1.png
 komissarov.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
@@ -408,6 +423,8 @@ PIR0.png
 Rad_sova.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SHdd.png" width="100" height="100"><br>
 SHdd.png
@@ -423,8 +440,6 @@ SHDH.png
 SHDH2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SKRIPKA.png" width="100" height="100"><br>
 SKRIPKA.png
@@ -433,6 +448,23 @@ SKRIPKA.png
 <td valign="bottom">
 <img src="./SLD.png" width="100" height="100"><br>
 SLD.png
+</td>
+
+<td valign="bottom">
+<img src="./SLD1.png" width="100" height="100"><br>
+SLD1.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./SLD2.png" width="100" height="100"><br>
+SLD2.png
+</td>
+
+<td valign="bottom">
+<img src="./SLD2_2.png" width="100" height="100"><br>
+SLD2_2.png
 </td>
 
 <td valign="bottom">
@@ -465,6 +497,11 @@ TPC_4.png
 <td valign="bottom">
 <img src="./TPC_5.png" width="100" height="100"><br>
 TPC_5.png
+</td>
+
+<td valign="bottom">
+<img src="./TS_Vamp.png" width="100" height="100"><br>
+TS_Vamp.png
 </td>
 
 <td valign="bottom">
