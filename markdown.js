@@ -27,6 +27,8 @@ mdContent += ` |
 mdContent += ` |
 [Карты](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_maps/README.md)`;
 mdContent += ` |
+[**Вики**](https://github.com/CatacombNoop/ktms-tokens/wiki)`;
+mdContent += ` |
 <table><tr>`;
 
 

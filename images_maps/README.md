@@ -7,6 +7,7 @@
 [Токены Марка](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_mark/README.md) |
 [Одиум](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_odium/README.md) |
 [Карты](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_maps/README.md) |
+[**Вики**](https://github.com/CatacombNoop/ktms-tokens/wiki) |
 <table><tr>
 <tr>
 <td valign="bottom">

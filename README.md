@@ -17,3 +17,5 @@ Token and text storage for roll20\
 [Одиум](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_odium/README.md)
 |
 [Карты](https://github.com/CatacombNoop/ktms-tokens/blob/main/images_maps/README.md)
+|
+[**Вики**](https://github.com/CatacombNoop/ktms-tokens/wiki)
