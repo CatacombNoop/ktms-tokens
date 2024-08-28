@@ -415,17 +415,22 @@ komissarov.png
 </td>
 
 <td valign="bottom">
+<img src="./komissarov2.png" width="100" height="100"><br>
+komissarov2.png
+</td>
+
+<td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PIR0.png" width="100" height="100"><br>
 PIR0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Rad_sova.png" width="100" height="100"><br>
 Rad_sova.png
@@ -451,13 +456,13 @@ SHDH2.png
 SKRIPKA.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD.png" width="100" height="100"><br>
 SLD.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD1.png" width="100" height="100"><br>
 SLD1.png
@@ -483,13 +488,13 @@ TPC_0.png
 TPC_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_2.png" width="100" height="100"><br>
 TPC_2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_3.png" width="100" height="100"><br>
 TPC_3.png
@@ -515,13 +520,13 @@ TS_Vamp.png
 UNO_0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_1.png" width="100" height="100"><br>
 UNO_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_2.png" width="100" height="100"><br>
 UNO_2.png
