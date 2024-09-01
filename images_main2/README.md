@@ -427,6 +427,11 @@ Memory0.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./Memory1.png" width="100" height="100"><br>
+Memory1.png
+</td>
+
+<td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
 </td>
@@ -451,13 +456,13 @@ SHdd.png
 SHDH.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SHDH2.png" width="100" height="100"><br>
 SHDH2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SKRIPKA.png" width="100" height="100"><br>
 SKRIPKA.png
@@ -483,13 +488,13 @@ SLD2.png
 SLD2_2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_0.png" width="100" height="100"><br>
 TPC_0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_1.png" width="100" height="100"><br>
 TPC_1.png
@@ -515,13 +520,13 @@ TPC_4.png
 TPC_5.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TS_Vamp.png" width="100" height="100"><br>
 TS_Vamp.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_0.png" width="100" height="100"><br>
 UNO_0.png
