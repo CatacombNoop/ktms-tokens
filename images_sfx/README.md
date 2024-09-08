@@ -240,6 +240,16 @@ Space_ER_t.png
 </td>
 
 <td valign="bottom">
+<img src="./Space_KP.png" width="100" height="100"><br>
+Space_KP.png
+</td>
+
+<td valign="bottom">
+<img src="./Space_KP_t.png" width="100" height="100"><br>
+Space_KP_t.png
+</td>
+
+<td valign="bottom">
 <img src="./Spark_Explosion.png" width="100" height="100"><br>
 Spark_Explosion.png
 </td>
@@ -254,6 +264,8 @@ Spark_Explosion2.png
 table.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./__MAP_Snow0.jpg" width="100" height="100"><br>
 __MAP_Snow0.jpg
