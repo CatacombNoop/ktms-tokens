@@ -107,6 +107,11 @@ Darkness_spell.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./DivineWeapon.png" width="100" height="100"><br>
+DivineWeapon.png
+</td>
+
+<td valign="bottom">
 <img src="./Electro.png" width="100" height="100"><br>
 Electro.png
 </td>
@@ -131,13 +136,13 @@ Fire_hell.png
 FrostHit.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Golden sword.png" width="100" height="100"><br>
 Golden sword.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Golden sword222.png" width="100" height="100"><br>
 Golden sword222.png
@@ -163,13 +168,13 @@ MindSlash.png
 point.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./POINT3.png" width="100" height="100"><br>
 POINT3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Shot_M.png" width="100" height="100"><br>
 Shot_M.png
@@ -195,13 +200,13 @@ Smoke.png
 Space.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space2.png" width="100" height="100"><br>
 Space2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space3.png" width="100" height="100"><br>
 Space3.png
@@ -227,13 +232,13 @@ Space_ER.png
 Space_ER1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space_ER1_t.png" width="100" height="100"><br>
 Space_ER1_t.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space_ER_t.png" width="100" height="100"><br>
 Space_ER_t.png
@@ -259,13 +264,13 @@ Spark_Explosion.png
 Spark_Explosion2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./table.png" width="100" height="100"><br>
 table.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./__MAP_Snow0.jpg" width="100" height="100"><br>
 __MAP_Snow0.jpg
