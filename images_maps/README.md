@@ -415,6 +415,23 @@ Quicksilver Mountains - snowy ravine path.jpg
 </td>
 
 <td valign="bottom">
+<img src="./Ship0-8x23.png" width="100" height="100"><br>
+Ship0-8x23.png
+</td>
+
+<td valign="bottom">
+<img src="./Ship1-8x23.png" width="100" height="100"><br>
+Ship1-8x23.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Ship2-8x23.png" width="100" height="100"><br>
+Ship2-8x23.png
+</td>
+
+<td valign="bottom">
 <img src="./SnowBridge Archway.jpg" width="100" height="100"><br>
 SnowBridge Archway.jpg
 </td>
