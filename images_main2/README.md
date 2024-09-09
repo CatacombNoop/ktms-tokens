@@ -383,17 +383,22 @@ DEVIL0.png
 </td>
 
 <td valign="bottom">
+<img src="./DEV_CP.png" width="100" height="100"><br>
+DEV_CP.png
+</td>
+
+<td valign="bottom">
 <img src="./DEV_SC.png" width="100" height="100"><br>
 DEV_SC.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DEV_SC2.png" width="100" height="100"><br>
 DEV_SC2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ELF_S0.png" width="100" height="100"><br>
 ELF_S0.png
@@ -419,13 +424,13 @@ GOLD_DRAG.png
 HAT.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./HSS.png" width="100" height="100"><br>
 HSS.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./IOG0.png" width="100" height="100"><br>
 IOG0.png
@@ -451,13 +456,13 @@ komissarov2.png
 Memory0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Memory1.png" width="100" height="100"><br>
 Memory1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
@@ -483,13 +488,18 @@ SHdd.png
 SHDH.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SHDH2.png" width="100" height="100"><br>
 SHDH2.png
 </td>
 
-</tr>
-<tr>
+<td valign="bottom">
+<img src="./SHDH3.png" width="100" height="100"><br>
+SHDH3.png
+</td>
+
 <td valign="bottom">
 <img src="./SKRIPKA.png" width="100" height="100"><br>
 SKRIPKA.png
@@ -510,6 +520,8 @@ SLD1.png
 SLD2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD2_2.png" width="100" height="100"><br>
 SLD2_2.png
@@ -520,8 +532,6 @@ SLD2_2.png
 TPC_0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_1.png" width="100" height="100"><br>
 TPC_1.png
@@ -542,6 +552,8 @@ TPC_3.png
 TPC_4.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_5.png" width="100" height="100"><br>
 TPC_5.png
@@ -552,8 +564,6 @@ TPC_5.png
 TS_Vamp.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_0.png" width="100" height="100"><br>
 UNO_0.png
