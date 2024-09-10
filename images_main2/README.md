@@ -181,6 +181,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./0GD_KRL.png" width="100" height="100"><br>
+0GD_KRL.png
+</td>
+
+<td valign="bottom">
 <img src="./0GD_SHAI.png" width="100" height="100"><br>
 0GD_SHAI.png
 </td>
@@ -195,13 +200,13 @@
 0GD_VELS.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_BLIGHT.png" width="100" height="100"><br>
 0TP_BLIGHT.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_EGER.png" width="100" height="100"><br>
 0TP_EGER.png
@@ -227,13 +232,13 @@
 0TP_JS0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_JS1.png" width="100" height="100"><br>
 0TP_JS1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_LAZ_S.png" width="100" height="100"><br>
 0TP_LAZ_S.png
@@ -259,13 +264,13 @@
 0TP_TIH0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_TIH1.png" width="100" height="100"><br>
 0TP_TIH1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_TIH2.png" width="100" height="100"><br>
 0TP_TIH2.png
@@ -291,13 +296,13 @@
 0TP_TIH5_AR.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_TIH6.png" width="100" height="100"><br>
 0TP_TIH6.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_TIH7.png" width="100" height="100"><br>
 0TP_TIH7.png
@@ -323,13 +328,13 @@
 0TP_TIH_AL2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0TP_TIH_DV.png" width="100" height="100"><br>
 0TP_TIH_DV.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0TP_TIH_SG.png" width="100" height="100"><br>
 0TP_TIH_SG.png
@@ -355,13 +360,13 @@
 0UD_EZMN1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0UD_KRO.png" width="100" height="100"><br>
 0UD_KRO.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ABER_CR.png" width="100" height="100"><br>
 ABER_CR.png
@@ -387,13 +392,13 @@ DEMON1.png
 DEVIL0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DEV_CP.png" width="100" height="100"><br>
 DEV_CP.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DEV_SC.png" width="100" height="100"><br>
 DEV_SC.png
@@ -419,13 +424,13 @@ ELF_S1.png
 ELF_S2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./GOLD_DRAG.png" width="100" height="100"><br>
 GOLD_DRAG.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./HAT.png" width="100" height="100"><br>
 HAT.png
@@ -451,13 +456,13 @@ IOG1.png
 komissarov.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./komissarov2.png" width="100" height="100"><br>
 komissarov2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Memory0.png" width="100" height="100"><br>
 Memory0.png
@@ -483,13 +488,13 @@ PIR0.png
 Rad_sova.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SHdd.png" width="100" height="100"><br>
 SHdd.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SHDH.png" width="100" height="100"><br>
 SHDH.png
@@ -515,13 +520,13 @@ SKRIPKA.png
 SLD.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD1.png" width="100" height="100"><br>
 SLD1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD2.png" width="100" height="100"><br>
 SLD2.png
@@ -547,13 +552,13 @@ TPC_1.png
 TPC_2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_3.png" width="100" height="100"><br>
 TPC_3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_4.png" width="100" height="100"><br>
 TPC_4.png
@@ -579,6 +584,8 @@ UNO_0.png
 UNO_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_2.png" width="100" height="100"><br>
 UNO_2.png
