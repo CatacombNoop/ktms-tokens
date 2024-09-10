@@ -203,6 +203,26 @@ Malarw.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./SWORDD.png" width="100" height="100"><br>
+SWORDD.png
+</td>
+
+<td valign="bottom">
+<img src="./SWORDD2.png" width="100" height="100"><br>
+SWORDD2.png
+</td>
+
+<td valign="bottom">
+<img src="./SWORDD3.png" width="100" height="100"><br>
+SWORDD3.png
+</td>
+
+<td valign="bottom">
+<img src="./SWORDDD.jpg" width="100" height="100"><br>
+SWORDDD.jpg
+</td>
+
+<td valign="bottom">
 <img src="./Vilia 2023-06-14-10-56.png" width="100" height="100"><br>
 Vilia 2023-06-14-10-56.png
 </td>
