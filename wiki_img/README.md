@@ -218,8 +218,8 @@ SWORDD3.png
 </td>
 
 <td valign="bottom">
-<img src="./SWORDDD.jpg" width="100" height="100"><br>
-SWORDDD.jpg
+<img src="./SWORDD4.png" width="100" height="100"><br>
+SWORDD4.png
 </td>
 
 <td valign="bottom">
