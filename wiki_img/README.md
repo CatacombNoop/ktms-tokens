@@ -203,6 +203,16 @@ Malarw.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./Skill_Check_DC_0.png" width="100" height="100"><br>
+Skill_Check_DC_0.png
+</td>
+
+<td valign="bottom">
+<img src="./Skill_Check_DC_1.png" width="100" height="100"><br>
+Skill_Check_DC_1.png
+</td>
+
+<td valign="bottom">
 <img src="./SWORDD.png" width="100" height="100"><br>
 SWORDD.png
 </td>
@@ -222,6 +232,8 @@ SWORDD3.png
 SWORDD4.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Vilia 2023-06-14-10-56.png" width="100" height="100"><br>
 Vilia 2023-06-14-10-56.png
