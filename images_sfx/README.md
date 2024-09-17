@@ -85,6 +85,11 @@ CR0.png
 </td>
 
 <td valign="bottom">
+<img src="./CR0_Cone.png" width="100" height="100"><br>
+CR0_Cone.png
+</td>
+
+<td valign="bottom">
 <img src="./CR1.png" width="100" height="100"><br>
 CR1.png
 </td>
@@ -99,13 +104,13 @@ CR2.png
 Cut.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Darkness_spell.png" width="100" height="100"><br>
 Darkness_spell.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DivineWeapon.png" width="100" height="100"><br>
 DivineWeapon.png
@@ -131,13 +136,13 @@ Electro_Cone.png
 Fireball.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Fireball2.png" width="100" height="100"><br>
 Fireball2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Fireball_Cone.png" width="100" height="100"><br>
 Fireball_Cone.png
@@ -163,13 +168,13 @@ Golden sword.png
 Golden sword222.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Graav.png" width="100" height="100"><br>
 Graav.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./GreenFire.png" width="100" height="100"><br>
 GreenFire.png
@@ -195,13 +200,13 @@ MindSlash_Cone.png
 point.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./POINT3.png" width="100" height="100"><br>
 POINT3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Shot_M.png" width="100" height="100"><br>
 Shot_M.png
@@ -227,13 +232,13 @@ Smoke.png
 Space.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space2.png" width="100" height="100"><br>
 Space2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space3.png" width="100" height="100"><br>
 Space3.png
@@ -259,13 +264,13 @@ Space_ER.png
 Space_ER1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space_ER1_t.png" width="100" height="100"><br>
 Space_ER1_t.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space_ER_t.png" width="100" height="100"><br>
 Space_ER_t.png
@@ -291,13 +296,13 @@ Spark_Explosion.png
 Spark_Explosion2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./table.png" width="100" height="100"><br>
 table.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./__MAP_Snow0.jpg" width="100" height="100"><br>
 __MAP_Snow0.jpg
