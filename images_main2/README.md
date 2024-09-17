@@ -592,6 +592,16 @@ TPM_0.png
 </td>
 
 <td valign="bottom">
+<img src="./TPM_1.png" width="100" height="100"><br>
+TPM_1.png
+</td>
+
+<td valign="bottom">
+<img src="./TPM_2.png" width="100" height="100"><br>
+TPM_2.png
+</td>
+
+<td valign="bottom">
 <img src="./TS_Vamp.png" width="100" height="100"><br>
 TS_Vamp.png
 </td>
@@ -606,6 +616,8 @@ UNO_0.png
 UNO_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_2.png" width="100" height="100"><br>
 UNO_2.png
