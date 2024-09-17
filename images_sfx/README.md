@@ -122,6 +122,11 @@ Electro.png
 </td>
 
 <td valign="bottom">
+<img src="./Electro_Cone.png" width="100" height="100"><br>
+Electro_Cone.png
+</td>
+
+<td valign="bottom">
 <img src="./Fireball.png" width="100" height="100"><br>
 Fireball.png
 </td>
@@ -131,13 +136,13 @@ Fireball.png
 Fireball2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Fire_hell.png" width="100" height="100"><br>
 Fire_hell.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./FrostHit.png" width="100" height="100"><br>
 FrostHit.png
@@ -163,13 +168,13 @@ Graav.png
 GreenFire.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./lamp.png" width="100" height="100"><br>
 lamp.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MindSlash.png" width="100" height="100"><br>
 MindSlash.png
@@ -195,13 +200,13 @@ Shot_M.png
 Shot_M2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Shot_M22.png" width="100" height="100"><br>
 Shot_M22.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Smoke.png" width="100" height="100"><br>
 Smoke.png
@@ -227,13 +232,13 @@ Space3.png
 Space3_2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space3_3.png" width="100" height="100"><br>
 Space3_3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space_ER.png" width="100" height="100"><br>
 Space_ER.png
@@ -259,13 +264,13 @@ Space_ER_t.png
 Space_KP.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space_KP_t.png" width="100" height="100"><br>
 Space_KP_t.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Spark_Explosion.png" width="100" height="100"><br>
 Spark_Explosion.png
