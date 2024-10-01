@@ -336,8 +336,40 @@ NPC44.png
 </td>
 
 <td valign="bottom">
+<img src="./NPC45.png" width="100" height="100"><br>
+NPC45.png
+</td>
+
+<td valign="bottom">
+<img src="./NPC46.png" width="100" height="100"><br>
+NPC46.png
+</td>
+
+<td valign="bottom">
+<img src="./NPC47.png" width="100" height="100"><br>
+NPC47.png
+</td>
+
+<td valign="bottom">
+<img src="./NPC48.png" width="100" height="100"><br>
+NPC48.png
+</td>
+
+<td valign="bottom">
+<img src="./NPC49.png" width="100" height="100"><br>
+NPC49.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
 <img src="./NPC5.png" width="100" height="100"><br>
 NPC5.png
+</td>
+
+<td valign="bottom">
+<img src="./NPC50.png" width="100" height="100"><br>
+NPC50.png
 </td>
 
 <td valign="bottom">
