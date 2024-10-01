@@ -282,6 +282,11 @@ NPC36.png
 </td>
 
 <td valign="bottom">
+<img src="./NPC36_2.png" width="100" height="100"><br>
+NPC36_2.png
+</td>
+
+<td valign="bottom">
 <img src="./NPC37.png" width="100" height="100"><br>
 NPC37.png
 </td>
@@ -291,13 +296,13 @@ NPC37.png
 NPC38.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC39.png" width="100" height="100"><br>
 NPC39.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC4.png" width="100" height="100"><br>
 NPC4.png
@@ -323,13 +328,13 @@ NPC42.png
 NPC43.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC44.png" width="100" height="100"><br>
 NPC44.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC5.png" width="100" height="100"><br>
 NPC5.png
@@ -355,13 +360,13 @@ NPC8.png
 NPC9.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PAS0.png" width="100" height="100"><br>
 PAS0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./planer.png" width="100" height="100"><br>
 planer.png
@@ -387,13 +392,13 @@ PLN0.png
 PLN1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN12.png" width="100" height="100"><br>
 PLN12.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN122.png" width="100" height="100"><br>
 PLN122.png
@@ -419,13 +424,13 @@ PLN2_2.png
 PLN2_3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN2_4.png" width="100" height="100"><br>
 PLN2_4.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN3.png" width="100" height="100"><br>
 PLN3.png
@@ -451,13 +456,13 @@ PLN5.png
 PLN6.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./RND0.png" width="100" height="100"><br>
 RND0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RND1.png" width="100" height="100"><br>
 RND1.png
@@ -483,13 +488,13 @@ Solditer.png
 Solditer1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Solditer2.png" width="100" height="100"><br>
 Solditer2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Solditer3.png" width="100" height="100"><br>
 Solditer3.png
