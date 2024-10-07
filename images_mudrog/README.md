@@ -459,6 +459,21 @@ NPC65.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./NPC66.png" width="100" height="100"><br>
+NPC66.png
+</td>
+
+<td valign="bottom">
+<img src="./NPC67.png" width="100" height="100"><br>
+NPC67.png
+</td>
+
+<td valign="bottom">
+<img src="./NPC68.png" width="100" height="100"><br>
+NPC68.png
+</td>
+
+<td valign="bottom">
 <img src="./NPC7.png" width="100" height="100"><br>
 NPC7.png
 </td>
@@ -473,6 +488,8 @@ NPC8.png
 NPC9.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PAS0.png" width="100" height="100"><br>
 PAS0.png
@@ -488,8 +505,6 @@ PC0.png
 PC1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PC1_S.png" width="100" height="100"><br>
 PC1_S.png
@@ -505,6 +520,8 @@ PC2.png
 PC3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PC3_1.png" width="100" height="100"><br>
 PC3_1.png
@@ -520,8 +537,6 @@ PC3_2.png
 PC3_3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./planer.png" width="100" height="100"><br>
 planer.png
@@ -537,6 +552,8 @@ planer2.png
 planer3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN0.png" width="100" height="100"><br>
 PLN0.png
@@ -552,8 +569,6 @@ PLN1.png
 PLN12.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN122.png" width="100" height="100"><br>
 PLN122.png
@@ -569,6 +584,8 @@ PLN2.png
 PLN2_0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN2_2.png" width="100" height="100"><br>
 PLN2_2.png
@@ -584,8 +601,6 @@ PLN2_3.png
 PLN2_4.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN3.png" width="100" height="100"><br>
 PLN3.png
@@ -601,6 +616,8 @@ PLN32.png
 PLN4.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN5.png" width="100" height="100"><br>
 PLN5.png
@@ -616,8 +633,6 @@ PLN6.png
 RND0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RND1.png" width="100" height="100"><br>
 RND1.png
@@ -633,6 +648,8 @@ RND2.png
 RND3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Solditer.png" width="100" height="100"><br>
 Solditer.png
@@ -648,8 +665,6 @@ Solditer1.png
 Solditer2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Solditer3.png" width="100" height="100"><br>
 Solditer3.png
@@ -665,6 +680,8 @@ UND0.png
 UND1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UND2.png" width="100" height="100"><br>
 UND2.png
@@ -680,8 +697,6 @@ YAG0.png
 YAG1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./КФЕ2.png" width="100" height="100"><br>
 КФЕ2.png
