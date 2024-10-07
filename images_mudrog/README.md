@@ -555,6 +555,38 @@ planer3.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./planer4.png" width="100" height="100"><br>
+planer4.png
+</td>
+
+<td valign="bottom">
+<img src="./planer5.png" width="100" height="100"><br>
+planer5.png
+</td>
+
+<td valign="bottom">
+<img src="./planer6.png" width="100" height="100"><br>
+planer6.png
+</td>
+
+<td valign="bottom">
+<img src="./planer67.png" width="100" height="100"><br>
+planer67.png
+</td>
+
+<td valign="bottom">
+<img src="./planer8.png" width="100" height="100"><br>
+planer8.png
+</td>
+
+<td valign="bottom">
+<img src="./planer9.png" width="100" height="100"><br>
+planer9.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
 <img src="./PLN0.png" width="100" height="100"><br>
 PLN0.png
 </td>

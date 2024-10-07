@@ -11,6 +11,11 @@
 <table><tr>
 <tr>
 <td valign="bottom">
+<img src="./0000ROAD_MAP.jpg" width="100" height="100"><br>
+0000ROAD_MAP.jpg
+</td>
+
+<td valign="bottom">
 <img src="./01Village.png" width="100" height="100"><br>
 01Village.png
 </td>
@@ -35,13 +40,13 @@
 0Jungle_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0Rain_village.png" width="100" height="100"><br>
 0Rain_village.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Cold Creek Ravine Path.jpg" width="100" height="100"><br>
 Cold Creek Ravine Path.jpg
@@ -67,13 +72,13 @@ Dark-ice Chamber.jpg
 Frozen Cave Door Path.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Frozen Cavern bridge.jpg" width="100" height="100"><br>
 Frozen Cavern bridge.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Frozen Cavern Dead End.jpg" width="100" height="100"><br>
 Frozen Cavern Dead End.jpg
@@ -99,13 +104,13 @@ Frozen Cavern Paths 3.jpg
 Frozen Cavern Paths.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Frozen Cavern Ritual Room.jpg" width="100" height="100"><br>
 Frozen Cavern Ritual Room.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Frozen Cavern Stairway.jpg" width="100" height="100"><br>
 Frozen Cavern Stairway.jpg
@@ -131,13 +136,13 @@ Frozen Church.jpg
 Frozen Crystal Chamber.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Frozen Falls Stairway 2.jpg" width="100" height="100"><br>
 Frozen Falls Stairway 2.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Frozen Falls Stairway.jpg" width="100" height="100"><br>
 Frozen Falls Stairway.jpg
@@ -163,13 +168,13 @@ Frozen House.jpg
 Frozen Mountain.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Frozen Path Bridge Crossroad.jpg" width="100" height="100"><br>
 Frozen Path Bridge Crossroad.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Frozen Ravine Path.jpg" width="100" height="100"><br>
 Frozen Ravine Path.jpg
@@ -195,13 +200,13 @@ Frozen Tavern Holdout.jpg
 Frozen Tavern.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Frozen Temple Exit.jpg" width="100" height="100"><br>
 Frozen Temple Exit.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Frozen Temple Pathway 2.jpg" width="100" height="100"><br>
 Frozen Temple Pathway 2.jpg
@@ -227,13 +232,13 @@ Frozen Temple Rooms 2.jpg
 Frozen Temple ruins.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Frozen Village.jpg" width="100" height="100"><br>
 Frozen Village.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Glacial Cavern Entrance Chamber.jpg" width="100" height="100"><br>
 Glacial Cavern Entrance Chamber.jpg
@@ -259,13 +264,13 @@ Ice cavern Stair Path.jpg
 Iceblast Cave.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Icebound Peaks Path.jpg" width="100" height="100"><br>
 Icebound Peaks Path.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Icegate 2.jpg" width="100" height="100"><br>
 Icegate 2.jpg
@@ -291,13 +296,13 @@ Iceheart Relic Room.jpg
 Iceheart Throne Room.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Icehearth Village.jpg" width="100" height="100"><br>
 Icehearth Village.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Icelord's Lair.jpg" width="100" height="100"><br>
 Icelord's Lair.jpg
@@ -323,13 +328,13 @@ Quicksilver Mountains - Abandoned Quicksilver Dragon Nest.jpg
 Quicksilver Mountains - cavern path 1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - cavern path 2.jpg" width="100" height="100"><br>
 Quicksilver Mountains - cavern path 2.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - cavern path 3.jpg" width="100" height="100"><br>
 Quicksilver Mountains - cavern path 3.jpg
@@ -355,13 +360,13 @@ Quicksilver Mountains - Entrance to the Dragon Lair.jpg
 Quicksilver Mountains - Forgotten Quicksilver Mine Chamber.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Frozen creek path.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Frozen creek path.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Frozen River Pass.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Frozen River Pass.jpg
@@ -387,13 +392,13 @@ Quicksilver Mountains - MountainFoot Tavern.jpg
 Quicksilver Mountains - MountainFoot Village.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Old Bridge Crossing.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Old Bridge Crossing.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Old Cavern City ruins 1.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Old Cavern City ruins 1.jpg
@@ -419,13 +424,13 @@ Quicksilver Mountains - Quicksilver Dragon Lair 2.jpg
 Quicksilver Mountains - Quicksilver puddle cavern.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - Quicksilver puddles hall.jpg" width="100" height="100"><br>
 Quicksilver Mountains - Quicksilver puddles hall.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Quicksilver Mountains - ravine path.jpg" width="100" height="100"><br>
 Quicksilver Mountains - ravine path.jpg
@@ -451,13 +456,13 @@ Ship0-8x23.png
 Ship1-8x23.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Ship2-8x23.png" width="100" height="100"><br>
 Ship2-8x23.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SnowBridge Archway.jpg" width="100" height="100"><br>
 SnowBridge Archway.jpg
