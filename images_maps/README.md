@@ -473,4 +473,9 @@ SnowBridge Archway.jpg
 SnowBridge Cave Entrance.jpg
 </td>
 
+<td valign="bottom">
+<img src="./Warehouse_HD_-_Gridless.jpg" width="100" height="100"><br>
+Warehouse_HD_-_Gridless.jpg
+</td>
+
 </tr></table>
