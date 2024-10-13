@@ -208,6 +208,75 @@ POINT3.png
 </td>
 
 <td valign="bottom">
+<img src="./SG_Ballista (2x2).png" width="100" height="100"><br>
+SG_Ballista (2x2).png
+</td>
+
+<td valign="bottom">
+<img src="./SG_Ballista, great (5x3).png" width="100" height="100"><br>
+SG_Ballista, great (5x3).png
+</td>
+
+<td valign="bottom">
+<img src="./SG_Cannon (3x3).png" width="100" height="100"><br>
+SG_Cannon (3x3).png
+</td>
+
+<td valign="bottom">
+<img src="./SG_Cannon, great (3x4).png" width="100" height="100"><br>
+SG_Cannon, great (3x4).png
+</td>
+
+<td valign="bottom">
+<img src="./SG_Cannon, swivel (3x3).png" width="100" height="100"><br>
+SG_Cannon, swivel (3x3).png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./SG_Catapult (3x3).png" width="100" height="100"><br>
+SG_Catapult (3x3).png
+</td>
+
+<td valign="bottom">
+<img src="./SG_Catapult, great (4x4).png" width="100" height="100"><br>
+SG_Catapult, great (4x4).png
+</td>
+
+<td valign="bottom">
+<img src="./SG_Siege Ladder (1x6).png" width="100" height="100"><br>
+SG_Siege Ladder (1x6).png
+</td>
+
+<td valign="bottom">
+<img src="./SG_Siege Ladder, raised (1x2).png" width="100" height="100"><br>
+SG_Siege Ladder, raised (1x2).png
+</td>
+
+<td valign="bottom">
+<img src="./SG_Siege Ram (3x4).png" width="100" height="100"><br>
+SG_Siege Ram (3x4).png
+</td>
+
+<td valign="bottom">
+<img src="./SG_Siege Tower (4x4).png" width="100" height="100"><br>
+SG_Siege Tower (4x4).png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./SG_Siege Tower, bridge (4x3).png" width="100" height="100"><br>
+SG_Siege Tower, bridge (4x3).png
+</td>
+
+<td valign="bottom">
+<img src="./SG_Trebuchet (3x4).png" width="100" height="100"><br>
+SG_Trebuchet (3x4).png
+</td>
+
+<td valign="bottom">
 <img src="./Shot_M.png" width="100" height="100"><br>
 Shot_M.png
 </td>
@@ -227,13 +296,13 @@ Shot_M22.png
 Smoke.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space.png" width="100" height="100"><br>
 Space.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space2.png" width="100" height="100"><br>
 Space2.png
@@ -259,13 +328,13 @@ Space3_3.png
 Space_ER.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space_ER1.png" width="100" height="100"><br>
 Space_ER1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space_ER1_t.png" width="100" height="100"><br>
 Space_ER1_t.png
@@ -291,13 +360,13 @@ Space_KP_t.png
 Spark_Explosion.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Spark_Explosion2.png" width="100" height="100"><br>
 Spark_Explosion2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./table.png" width="100" height="100"><br>
 table.png
