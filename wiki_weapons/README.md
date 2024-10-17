@@ -186,6 +186,11 @@ SHT_G3.png
 </td>
 
 <td valign="bottom">
+<img src="./SHT_G4.png" width="100" height="100"><br>
+SHT_G4.png
+</td>
+
+<td valign="bottom">
 <img src="./SMG_BR.png" width="100" height="100"><br>
 SMG_BR.png
 </td>
@@ -195,13 +200,13 @@ SMG_BR.png
 SNPBRZ.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./STATION_MG.png" width="100" height="100"><br>
 STATION_MG.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./STATION_RF.png" width="100" height="100"><br>
 STATION_RF.png
