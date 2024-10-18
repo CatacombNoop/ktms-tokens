@@ -75,6 +75,11 @@ KST_AS3.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./KST_AS4.png" width="100" height="100"><br>
+KST_AS4.png
+</td>
+
+<td valign="bottom">
 <img src="./LAZ_PIST.png" width="100" height="100"><br>
 LAZ_PIST.png
 </td>
@@ -99,16 +104,21 @@ MG_BS.png
 MG_BS1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MG_BS2.png" width="100" height="100"><br>
 MG_BS2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MG_MIN.png" width="100" height="100"><br>
 MG_MIN.png
+</td>
+
+<td valign="bottom">
+<img src="./MOD0.png" width="100" height="100"><br>
+MOD0.png
 </td>
 
 <td valign="bottom">
@@ -126,6 +136,8 @@ PB.png
 PE.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PIST.png" width="100" height="100"><br>
 PIST.png
@@ -136,8 +148,6 @@ PIST.png
 PPBS.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./R16.png" width="100" height="100"><br>
 R16.png
@@ -158,6 +168,8 @@ SBORN_REV.png
 SBORN_REV2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SBORN_REV3.png" width="100" height="100"><br>
 SBORN_REV3.png
@@ -168,8 +180,6 @@ SBORN_REV3.png
 SBORN_SHT.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SHT_G.png" width="100" height="100"><br>
 SHT_G.png
@@ -190,6 +200,8 @@ SHT_G3.png
 SHT_G4.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SMG_BR.png" width="100" height="100"><br>
 SMG_BR.png
@@ -200,8 +212,6 @@ SMG_BR.png
 SNPBRZ.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./STATION_MG.png" width="100" height="100"><br>
 STATION_MG.png
@@ -222,6 +232,8 @@ SVMD.png
 TECH_MGN.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TECH_UNK.png" width="100" height="100"><br>
 TECH_UNK.png
