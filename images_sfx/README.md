@@ -292,12 +292,17 @@ Shot_M22.png
 </td>
 
 <td valign="bottom">
-<img src="./Smoke.png" width="100" height="100"><br>
-Smoke.png
+<img src="./Sky_fire.png" width="100" height="100"><br>
+Sky_fire.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./Smoke.png" width="100" height="100"><br>
+Smoke.png
+</td>
+
 <td valign="bottom">
 <img src="./Space.png" width="100" height="100"><br>
 Space.png
@@ -323,13 +328,13 @@ Space3_2.png
 Space3_3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space_ER.png" width="100" height="100"><br>
 Space_ER.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space_ER1.png" width="100" height="100"><br>
 Space_ER1.png
@@ -355,13 +360,13 @@ Space_KP.png
 Space_KP_t.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Spark_Explosion.png" width="100" height="100"><br>
 Spark_Explosion.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Spark_Explosion2.png" width="100" height="100"><br>
 Spark_Explosion2.png
