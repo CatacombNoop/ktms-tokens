@@ -16,6 +16,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./AdamantHammer.png" width="100" height="100"><br>
+AdamantHammer.png
+</td>
+
+<td valign="bottom">
 <img src="./Astral0.jpg" width="100" height="100"><br>
 Astral0.jpg
 </td>
@@ -35,13 +40,13 @@ Erynthul.jpg
 F0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F1.png" width="100" height="100"><br>
 F1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F10.png" width="100" height="100"><br>
 F10.png
@@ -67,13 +72,13 @@ F13.png
 F14.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F15.png" width="100" height="100"><br>
 F15.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F16.png" width="100" height="100"><br>
 F16.png
@@ -99,13 +104,13 @@ F19.png
 F2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F20.png" width="100" height="100"><br>
 F20.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F21.png" width="100" height="100"><br>
 F21.png
@@ -131,13 +136,13 @@ F24.png
 F25.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F26.png" width="100" height="100"><br>
 F26.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F27.png" width="100" height="100"><br>
 F27.png
@@ -163,13 +168,13 @@ F3.png
 F30.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F31.png" width="100" height="100"><br>
 F31.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F32.png" width="100" height="100"><br>
 F32.png
@@ -195,16 +200,21 @@ F6.png
 F7.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F8.png" width="100" height="100"><br>
 F8.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F9.png" width="100" height="100"><br>
 F9.png
+</td>
+
+<td valign="bottom">
+<img src="./MagicGun.png" width="100" height="100"><br>
+MagicGun.png
 </td>
 
 <td valign="bottom">
@@ -222,6 +232,8 @@ Skill_Check_DC_0.png
 Skill_Check_DC_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SWORDD.png" width="100" height="100"><br>
 SWORDD.png
@@ -232,8 +244,6 @@ SWORDD.png
 SWORDD2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SWORDD3.png" width="100" height="100"><br>
 SWORDD3.png
