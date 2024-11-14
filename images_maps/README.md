@@ -16,6 +16,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./00CB_BALC.jpg" width="100" height="100"><br>
+00CB_BALC.jpg
+</td>
+
+<td valign="bottom">
 <img src="./01Village.png" width="100" height="100"><br>
 01Village.png
 </td>
@@ -35,13 +40,13 @@
 0Jungle_0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0Jungle_1.png" width="100" height="100"><br>
 0Jungle_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0Rain_village.png" width="100" height="100"><br>
 0Rain_village.png
@@ -67,13 +72,13 @@
 0_Border_2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./0_Border_2_AST.jpg" width="100" height="100"><br>
 0_Border_2_AST.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./0_Border_2_AST2.jpg" width="100" height="100"><br>
 0_Border_2_AST2.jpg
@@ -99,16 +104,11 @@ Cold Creek Ravine Path.jpg
 Cyberpunk Back Alley HD - Gridless (1).jpg
 </td>
 
-<td valign="bottom">
-<img src="./Cyberpunk Balconies HD [cars] - GRIDDED.jpg" width="100" height="100"><br>
-Cyberpunk Balconies HD [cars] - GRIDDED.jpg
-</td>
-
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./Cyberpunk Balconies HD [cars] - Gridless.jpg" width="100" height="100"><br>
-Cyberpunk Balconies HD [cars] - Gridless.jpg
+<img src="./Cyberpunk Balconies HD [cars] - GRIDDED.jpg" width="100" height="100"><br>
+Cyberpunk Balconies HD [cars] - GRIDDED.jpg
 </td>
 
 <td valign="bottom">
