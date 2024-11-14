@@ -107,8 +107,8 @@ Cyberpunk Balconies HD [cars] - GRIDDED.jpg
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./Cyberpunk Balconies HD [no cars] - GRIDDED.jpg" width="100" height="100"><br>
-Cyberpunk Balconies HD [no cars] - GRIDDED.jpg
+<img src="./Cyberpunk Balconies HD-no cars-GRIDDED.jpg" width="100" height="100"><br>
+Cyberpunk Balconies HD-no cars-GRIDDED.jpg
 </td>
 
 <td valign="bottom">
