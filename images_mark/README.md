@@ -11,6 +11,11 @@
 <table><tr>
 <tr>
 <td valign="bottom">
+<img src="./teqilla_sunset.png" width="100" height="100"><br>
+teqilla_sunset.png
+</td>
+
+<td valign="bottom">
 <img src="./token_1_14.png" width="100" height="100"><br>
 token_1_14.png
 </td>
@@ -35,6 +40,8 @@ token_2_8.png
 token_3_3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_4_2.png" width="100" height="100"><br>
 token_4_2.png
