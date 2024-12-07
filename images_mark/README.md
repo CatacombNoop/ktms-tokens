@@ -16,6 +16,11 @@ teqilla_sunset.png
 </td>
 
 <td valign="bottom">
+<img src="./tequilla_up.png" width="100" height="100"><br>
+tequilla_up.png
+</td>
+
+<td valign="bottom">
 <img src="./token_1_14.png" width="100" height="100"><br>
 token_1_14.png
 </td>
@@ -35,16 +40,26 @@ token_2_7.png
 token_2_8.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_3_3.png" width="100" height="100"><br>
 token_3_3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_4_2.png" width="100" height="100"><br>
 token_4_2.png
+</td>
+
+<td valign="bottom">
+<img src="./еаа.png" width="100" height="100"><br>
+еаа.png
+</td>
+
+<td valign="bottom">
+<img src="./еаа2.png" width="100" height="100"><br>
+еаа2.png
 </td>
 
 </tr></table>
