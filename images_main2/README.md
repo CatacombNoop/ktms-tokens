@@ -867,4 +867,9 @@ UNO_2.png
 UNO_3.png
 </td>
 
+<td valign="bottom">
+<img src="./VARFOLOMEI.png" width="100" height="100"><br>
+VARFOLOMEI.png
+</td>
+
 </tr></table>
