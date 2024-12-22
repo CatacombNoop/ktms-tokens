@@ -880,6 +880,16 @@ TPC_7.png
 </td>
 
 <td valign="bottom">
+<img src="./TPC_8.png" width="100" height="100"><br>
+TPC_8.png
+</td>
+
+<td valign="bottom">
+<img src="./TPC_9.png" width="100" height="100"><br>
+TPC_9.png
+</td>
+
+<td valign="bottom">
 <img src="./TPC_AUT.png" width="100" height="100"><br>
 TPC_AUT.png
 </td>
@@ -894,6 +904,8 @@ TPM_0.png
 TPM_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPM_2.png" width="100" height="100"><br>
 TPM_2.png
@@ -904,8 +916,6 @@ TPM_2.png
 TPM_3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TS_Vamp.png" width="100" height="100"><br>
 TS_Vamp.png
@@ -926,6 +936,8 @@ UNO_1.png
 UNO_2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_3.png" width="100" height="100"><br>
 UNO_3.png
