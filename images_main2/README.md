@@ -907,6 +907,11 @@ TPC_13.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./TPC_14.png" width="100" height="100"><br>
+TPC_14.png
+</td>
+
+<td valign="bottom">
 <img src="./TPC_2.png" width="100" height="100"><br>
 TPC_2.png
 </td>
@@ -931,13 +936,13 @@ TPC_5.png
 TPC_6.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_7.png" width="100" height="100"><br>
 TPC_7.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_8.png" width="100" height="100"><br>
 TPC_8.png
@@ -963,13 +968,13 @@ TPM_0.png
 TPM_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPM_2.png" width="100" height="100"><br>
 TPM_2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPM_3.png" width="100" height="100"><br>
 TPM_3.png
@@ -995,13 +1000,13 @@ UNO_1.png
 UNO_2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_3.png" width="100" height="100"><br>
 UNO_3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./VARFOLOMEI.png" width="100" height="100"><br>
 VARFOLOMEI.png
