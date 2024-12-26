@@ -36,12 +36,27 @@ Erynthul.jpg
 </td>
 
 <td valign="bottom">
-<img src="./F0.png" width="100" height="100"><br>
-F0.png
+<img src="./EST_0.png" width="100" height="100"><br>
+EST_0.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./EST_1.png" width="100" height="100"><br>
+EST_1.png
+</td>
+
+<td valign="bottom">
+<img src="./EST_2.png" width="100" height="100"><br>
+EST_2.png
+</td>
+
+<td valign="bottom">
+<img src="./F0.png" width="100" height="100"><br>
+F0.png
+</td>
+
 <td valign="bottom">
 <img src="./F1.png" width="100" height="100"><br>
 F1.png
@@ -57,6 +72,8 @@ F10.png
 F11.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F12.png" width="100" height="100"><br>
 F12.png
@@ -72,8 +89,6 @@ F13.png
 F14.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F15.png" width="100" height="100"><br>
 F15.png
@@ -89,6 +104,8 @@ F16.png
 F17.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F18.png" width="100" height="100"><br>
 F18.png
@@ -104,8 +121,6 @@ F19.png
 F2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F20.png" width="100" height="100"><br>
 F20.png
@@ -121,6 +136,8 @@ F21.png
 F22.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F23.png" width="100" height="100"><br>
 F23.png
@@ -136,8 +153,6 @@ F24.png
 F25.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F26.png" width="100" height="100"><br>
 F26.png
@@ -153,6 +168,8 @@ F27.png
 F28.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F29.png" width="100" height="100"><br>
 F29.png
@@ -168,8 +185,6 @@ F3.png
 F30.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F31.png" width="100" height="100"><br>
 F31.png
@@ -185,6 +200,8 @@ F32.png
 F4.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F5.png" width="100" height="100"><br>
 F5.png
@@ -200,8 +217,6 @@ F6.png
 F7.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F8.png" width="100" height="100"><br>
 F8.png
@@ -217,6 +232,8 @@ F9.png
 ISLAND_MAP.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MagicGun.png" width="100" height="100"><br>
 MagicGun.png
@@ -232,8 +249,6 @@ Malarw.png
 Skill_Check_DC_0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Skill_Check_DC_1.png" width="100" height="100"><br>
 Skill_Check_DC_1.png
@@ -249,6 +264,8 @@ SWORDD.png
 SWORDD2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SWORDD3.png" width="100" height="100"><br>
 SWORDD3.png
