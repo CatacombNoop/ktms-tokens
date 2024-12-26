@@ -53,6 +53,16 @@ EST_2.png
 </td>
 
 <td valign="bottom">
+<img src="./EST_3.png" width="100" height="100"><br>
+EST_3.png
+</td>
+
+<td valign="bottom">
+<img src="./EST_4.png" width="100" height="100"><br>
+EST_4.png
+</td>
+
+<td valign="bottom">
 <img src="./F0.png" width="100" height="100"><br>
 F0.png
 </td>
@@ -62,6 +72,8 @@ F0.png
 F1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F10.png" width="100" height="100"><br>
 F10.png
@@ -72,8 +84,6 @@ F10.png
 F11.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F12.png" width="100" height="100"><br>
 F12.png
@@ -94,6 +104,8 @@ F14.png
 F15.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F16.png" width="100" height="100"><br>
 F16.png
@@ -104,8 +116,6 @@ F16.png
 F17.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F18.png" width="100" height="100"><br>
 F18.png
@@ -126,6 +136,8 @@ F2.png
 F20.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F21.png" width="100" height="100"><br>
 F21.png
@@ -136,8 +148,6 @@ F21.png
 F22.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F23.png" width="100" height="100"><br>
 F23.png
@@ -158,6 +168,8 @@ F25.png
 F26.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F27.png" width="100" height="100"><br>
 F27.png
@@ -168,8 +180,6 @@ F27.png
 F28.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F29.png" width="100" height="100"><br>
 F29.png
@@ -190,6 +200,8 @@ F30.png
 F31.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F32.png" width="100" height="100"><br>
 F32.png
@@ -200,8 +212,6 @@ F32.png
 F4.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F5.png" width="100" height="100"><br>
 F5.png
@@ -222,6 +232,8 @@ F7.png
 F8.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F9.png" width="100" height="100"><br>
 F9.png
@@ -232,8 +244,6 @@ F9.png
 ISLAND_MAP.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MagicGun.png" width="100" height="100"><br>
 MagicGun.png
@@ -254,6 +264,8 @@ Skill_Check_DC_0.png
 Skill_Check_DC_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SWORDD.png" width="100" height="100"><br>
 SWORDD.png
@@ -264,8 +276,6 @@ SWORDD.png
 SWORDD2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SWORDD3.png" width="100" height="100"><br>
 SWORDD3.png
