@@ -794,6 +794,33 @@ komissarov2.png
 </td>
 
 <td valign="bottom">
+<img src="./LZ_0.png" width="100" height="100"><br>
+LZ_0.png
+</td>
+
+<td valign="bottom">
+<img src="./LZ_1.png" width="100" height="100"><br>
+LZ_1.png
+</td>
+
+<td valign="bottom">
+<img src="./LZ_2.png" width="100" height="100"><br>
+LZ_2.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./LZ_3.png" width="100" height="100"><br>
+LZ_3.png
+</td>
+
+<td valign="bottom">
+<img src="./LZ_4.png" width="100" height="100"><br>
+LZ_4.png
+</td>
+
+<td valign="bottom">
 <img src="./Memory0.png" width="100" height="100"><br>
 Memory0.png
 </td>
@@ -808,13 +835,13 @@ Memory1.png
 Memory2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Memory3.png" width="100" height="100"><br>
 Memory3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
@@ -840,13 +867,13 @@ Rad_sova.png
 SHdd.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SHDH.png" width="100" height="100"><br>
 SHDH.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SHDH2.png" width="100" height="100"><br>
 SHDH2.png
@@ -872,13 +899,13 @@ SLD.png
 SLD1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD2.png" width="100" height="100"><br>
 SLD2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD2_2.png" width="100" height="100"><br>
 SLD2_2.png
@@ -904,13 +931,13 @@ TPC_10.png
 TPC_11.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_12.png" width="100" height="100"><br>
 TPC_12.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_13.png" width="100" height="100"><br>
 TPC_13.png
@@ -929,6 +956,11 @@ TPC_15.png
 <td valign="bottom">
 <img src="./TPC_16.png" width="100" height="100"><br>
 TPC_16.png
+</td>
+
+<td valign="bottom">
+<img src="./TPC_17.png" width="100" height="100"><br>
+TPC_17.png
 </td>
 
 <td valign="bottom">
