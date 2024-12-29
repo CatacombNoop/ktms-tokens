@@ -826,6 +826,11 @@ LZ_5.png
 </td>
 
 <td valign="bottom">
+<img src="./LZ_6.png" width="100" height="100"><br>
+LZ_6.png
+</td>
+
+<td valign="bottom">
 <img src="./Memory0.png" width="100" height="100"><br>
 Memory0.png
 </td>
@@ -835,13 +840,13 @@ Memory0.png
 Memory1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Memory2.png" width="100" height="100"><br>
 Memory2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Memory3.png" width="100" height="100"><br>
 Memory3.png
@@ -867,13 +872,13 @@ PIR0.png
 Rad_sova.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SHdd.png" width="100" height="100"><br>
 SHdd.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SHDH.png" width="100" height="100"><br>
 SHDH.png
@@ -899,13 +904,13 @@ SKRIPKA.png
 SLD.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD1.png" width="100" height="100"><br>
 SLD1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLD2.png" width="100" height="100"><br>
 SLD2.png
@@ -931,13 +936,13 @@ TPC_1.png
 TPC_10.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_11.png" width="100" height="100"><br>
 TPC_11.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_12.png" width="100" height="100"><br>
 TPC_12.png
@@ -963,13 +968,13 @@ TPC_15.png
 TPC_16.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_17.png" width="100" height="100"><br>
 TPC_17.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_2.png" width="100" height="100"><br>
 TPC_2.png
@@ -995,13 +1000,13 @@ TPC_5.png
 TPC_6.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_7.png" width="100" height="100"><br>
 TPC_7.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_8.png" width="100" height="100"><br>
 TPC_8.png
@@ -1027,13 +1032,13 @@ TPM_0.png
 TPM_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPM_2.png" width="100" height="100"><br>
 TPM_2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPM_3.png" width="100" height="100"><br>
 TPM_3.png
@@ -1059,13 +1064,13 @@ UNO_1.png
 UNO_2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_3.png" width="100" height="100"><br>
 UNO_3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./VARFOLOMEI.png" width="100" height="100"><br>
 VARFOLOMEI.png
