@@ -996,12 +996,17 @@ TPC_17.png
 </td>
 
 <td valign="bottom">
-<img src="./TPC_18.png" width="100" height="100"><br>
-TPC_18.png
+<img src="./TPC_17_1.png" width="100" height="100"><br>
+TPC_17_1.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./TPC_18.png" width="100" height="100"><br>
+TPC_18.png
+</td>
+
 <td valign="bottom">
 <img src="./TPC_2.png" width="100" height="100"><br>
 TPC_2.png
@@ -1027,13 +1032,13 @@ TPC_5.png
 TPC_6.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_7.png" width="100" height="100"><br>
 TPC_7.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_8.png" width="100" height="100"><br>
 TPC_8.png
@@ -1059,13 +1064,13 @@ TPM_0.png
 TPM_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPM_2.png" width="100" height="100"><br>
 TPM_2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPM_3.png" width="100" height="100"><br>
 TPM_3.png
@@ -1091,13 +1096,13 @@ UNO_0.png
 UNO_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_2.png" width="100" height="100"><br>
 UNO_2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_3.png" width="100" height="100"><br>
 UNO_3.png
