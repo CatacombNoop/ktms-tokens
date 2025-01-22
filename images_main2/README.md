@@ -708,12 +708,17 @@
 </td>
 
 <td valign="bottom">
-<img src="./0UD_SLD0.png" width="100" height="100"><br>
-0UD_SLD0.png
+<img src="./0UD_MAG0.png" width="100" height="100"><br>
+0UD_MAG0.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./0UD_SLD0.png" width="100" height="100"><br>
+0UD_SLD0.png
+</td>
+
 <td valign="bottom">
 <img src="./0UD_SLD1.png" width="100" height="100"><br>
 0UD_SLD1.png
@@ -739,13 +744,13 @@
 0UD_Zombie3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ABER_CR.png" width="100" height="100"><br>
 ABER_CR.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ALEXEY.png" width="100" height="100"><br>
 ALEXEY.png
@@ -771,13 +776,13 @@ Bean_Caster.png
 Crystal_Golem.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DEMON0.png" width="100" height="100"><br>
 DEMON0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DEMON1.png" width="100" height="100"><br>
 DEMON1.png
@@ -803,13 +808,13 @@ DEV_SC.png
 DEV_SC2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DOBRYAK.png" width="100" height="100"><br>
 DOBRYAK.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ELF_S0.png" width="100" height="100"><br>
 ELF_S0.png
@@ -835,13 +840,13 @@ FAM_PANC.png
 GOLD_DRAG.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./HAT.png" width="100" height="100"><br>
 HAT.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./HSS.png" width="100" height="100"><br>
 HSS.png
@@ -867,13 +872,13 @@ JS_WISP.png
 komissarov.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./komissarov2.png" width="100" height="100"><br>
 komissarov2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LZ_0.png" width="100" height="100"><br>
 LZ_0.png
@@ -899,13 +904,13 @@ LZ_3.png
 LZ_4.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LZ_5.png" width="100" height="100"><br>
 LZ_5.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LZ_6.png" width="100" height="100"><br>
 LZ_6.png
@@ -931,13 +936,13 @@ Memory2.png
 Memory3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 MTH.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Noble_0.png" width="100" height="100"><br>
 Noble_0.png
@@ -963,13 +968,13 @@ SHdd.png
 SHDH.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SHDH2.png" width="100" height="100"><br>
 SHDH2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SHDH3.png" width="100" height="100"><br>
 SHDH3.png
@@ -995,13 +1000,13 @@ SLD1.png
 SLD2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD2_2.png" width="100" height="100"><br>
 SLD2_2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TARRASK.png" width="100" height="100"><br>
 TARRASK.png
@@ -1027,13 +1032,13 @@ TPC_10.png
 TPC_11.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_12.png" width="100" height="100"><br>
 TPC_12.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_13.png" width="100" height="100"><br>
 TPC_13.png
@@ -1059,13 +1064,13 @@ TPC_16.png
 TPC_17.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_17_1.png" width="100" height="100"><br>
 TPC_17_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_18.png" width="100" height="100"><br>
 TPC_18.png
@@ -1091,13 +1096,13 @@ TPC_4.png
 TPC_5.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_6.png" width="100" height="100"><br>
 TPC_6.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_7.png" width="100" height="100"><br>
 TPC_7.png
@@ -1123,13 +1128,13 @@ TPC_AUT.png
 TPM_0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPM_1.png" width="100" height="100"><br>
 TPM_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPM_2.png" width="100" height="100"><br>
 TPM_2.png
@@ -1155,13 +1160,13 @@ TS_Vamp.png
 UNO_0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_1.png" width="100" height="100"><br>
 UNO_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_2.png" width="100" height="100"><br>
 UNO_2.png
