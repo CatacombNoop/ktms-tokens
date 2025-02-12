@@ -378,6 +378,11 @@ table.png
 </td>
 
 <td valign="bottom">
+<img src="./WATER.png" width="100" height="100"><br>
+WATER.png
+</td>
+
+<td valign="bottom">
 <img src="./__MAP_Snow0.jpg" width="100" height="100"><br>
 __MAP_Snow0.jpg
 </td>
