@@ -11,6 +11,11 @@
 <table><tr>
 <tr>
 <td valign="bottom">
+<img src="./DAR0.png" width="100" height="100"><br>
+DAR0.png
+</td>
+
+<td valign="bottom">
 <img src="./JS0.png" width="100" height="100"><br>
 JS0.png
 </td>
@@ -35,13 +40,13 @@ JS1_1.png
 JS2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JS2_1.png" width="100" height="100"><br>
 JS2_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./teqilla_sunset.png" width="100" height="100"><br>
 teqilla_sunset.png
@@ -67,13 +72,13 @@ token_1_20.png
 token_2_7.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_2_8.png" width="100" height="100"><br>
 token_2_8.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_3_3.png" width="100" height="100"><br>
 token_3_3.png
