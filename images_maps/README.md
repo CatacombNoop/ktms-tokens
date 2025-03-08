@@ -624,6 +624,11 @@ Ship2-8x23.png
 </td>
 
 <td valign="bottom">
+<img src="./Ship3-Kreis.png" width="100" height="100"><br>
+Ship3-Kreis.png
+</td>
+
+<td valign="bottom">
 <img src="./SnowBridge Archway.jpg" width="100" height="100"><br>
 SnowBridge Archway.jpg
 </td>
