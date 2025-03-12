@@ -95,17 +95,22 @@ LG.png
 </td>
 
 <td valign="bottom">
+<img src="./LN-N.png" width="100" height="100"><br>
+LN-N.png
+</td>
+
+<td valign="bottom">
 <img src="./LN.png" width="100" height="100"><br>
 LN.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LU-C.png" width="100" height="100"><br>
 LU-C.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Mystra.png" width="100" height="100"><br>
 Mystra.png
@@ -131,13 +136,13 @@ NG.png
 NN.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Orc.png" width="100" height="100"><br>
 Orc.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RD-C.png" width="100" height="100"><br>
 RD-C.png
