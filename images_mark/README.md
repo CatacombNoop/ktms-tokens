@@ -11,8 +11,18 @@
 <table><tr>
 <tr>
 <td valign="bottom">
+<img src="./AELF.png" width="100" height="100"><br>
+AELF.png
+</td>
+
+<td valign="bottom">
 <img src="./DAR0.png" width="100" height="100"><br>
 DAR0.png
+</td>
+
+<td valign="bottom">
+<img src="./GLEB.png" width="100" height="100"><br>
+GLEB.png
 </td>
 
 <td valign="bottom">
@@ -30,6 +40,8 @@ JS0_1.png
 JS1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JS1_1.png" width="100" height="100"><br>
 JS1_1.png
@@ -40,8 +52,6 @@ JS1_1.png
 JS2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./JS2_1.png" width="100" height="100"><br>
 JS2_1.png
@@ -58,6 +68,13 @@ tequilla_up.png
 </td>
 
 <td valign="bottom">
+<img src="./TIH.png" width="100" height="100"><br>
+TIH.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
 <img src="./token_1_14.png" width="100" height="100"><br>
 token_1_14.png
 </td>
@@ -72,8 +89,6 @@ token_1_20.png
 token_2_7.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_2_8.png" width="100" height="100"><br>
 token_2_8.png
@@ -89,6 +104,8 @@ token_3_3.png
 token_4_2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./еаа.png" width="100" height="100"><br>
 еаа.png
