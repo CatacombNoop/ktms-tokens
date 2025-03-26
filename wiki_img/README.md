@@ -250,6 +250,11 @@ F9.png
 </td>
 
 <td valign="bottom">
+<img src="./gmod_addon_stuff.png" width="100" height="100"><br>
+gmod_addon_stuff.png
+</td>
+
+<td valign="bottom">
 <img src="./ISLAND_MAP.png" width="100" height="100"><br>
 ISLAND_MAP.png
 </td>
@@ -259,13 +264,13 @@ ISLAND_MAP.png
 MagicGun.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Malarw.png" width="100" height="100"><br>
 Malarw.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Skill_Check_DC_0.png" width="100" height="100"><br>
 Skill_Check_DC_0.png
@@ -291,13 +296,13 @@ SWORDD.png
 SWORDD2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SWORDD3.png" width="100" height="100"><br>
 SWORDD3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SWORDD4.png" width="100" height="100"><br>
 SWORDD4.png
