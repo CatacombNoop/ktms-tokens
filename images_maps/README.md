@@ -602,6 +602,11 @@ Quicksilver Mountains - snowy ravine path.jpg
 </td>
 
 <td valign="bottom">
+<img src="./SCI21.jpg" width="100" height="100"><br>
+SCI21.jpg
+</td>
+
+<td valign="bottom">
 <img src="./SHADOW_FORTRESS.jpg" width="100" height="100"><br>
 SHADOW_FORTRESS.jpg
 </td>
@@ -611,13 +616,13 @@ SHADOW_FORTRESS.jpg
 Ship0-8x23.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Ship1-8x23.png" width="100" height="100"><br>
 Ship1-8x23.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Ship2-8x23.png" width="100" height="100"><br>
 Ship2-8x23.png
