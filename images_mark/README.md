@@ -26,6 +26,11 @@ GLEB.png
 </td>
 
 <td valign="bottom">
+<img src="./GOKU.png" width="100" height="100"><br>
+GOKU.png
+</td>
+
+<td valign="bottom">
 <img src="./JS0.png" width="100" height="100"><br>
 JS0.png
 </td>
@@ -35,13 +40,13 @@ JS0.png
 JS0_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JS1.png" width="100" height="100"><br>
 JS1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./JS1_1.png" width="100" height="100"><br>
 JS1_1.png
@@ -67,13 +72,13 @@ teqilla_sunset.png
 tequilla_up.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TIH.png" width="100" height="100"><br>
 TIH.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_1_14.png" width="100" height="100"><br>
 token_1_14.png
@@ -99,13 +104,13 @@ token_2_8.png
 token_3_3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_4_2.png" width="100" height="100"><br>
 token_4_2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./еаа.png" width="100" height="100"><br>
 еаа.png
