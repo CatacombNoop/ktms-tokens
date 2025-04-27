@@ -1540,12 +1540,17 @@ TPC_LF8.png
 </td>
 
 <td valign="bottom">
-<img src="./TPM_0.png" width="100" height="100"><br>
-TPM_0.png
+<img src="./TPC_REOS.png" width="100" height="100"><br>
+TPC_REOS.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./TPM_0.png" width="100" height="100"><br>
+TPM_0.png
+</td>
+
 <td valign="bottom">
 <img src="./TPM_1.png" width="100" height="100"><br>
 TPM_1.png
@@ -1571,13 +1576,13 @@ TPM_4.png
 TPM_5.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TS_Vamp.png" width="100" height="100"><br>
 TS_Vamp.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_0.png" width="100" height="100"><br>
 UNO_0.png
@@ -1603,6 +1608,8 @@ UNO_3.png
 Uno_raksh.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./VARFOLOMEI.png" width="100" height="100"><br>
 VARFOLOMEI.png
