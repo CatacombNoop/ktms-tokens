@@ -313,4 +313,9 @@ SWORDD4.png
 Vilia 2023-06-14-10-56.png
 </td>
 
+<td valign="bottom">
+<img src="./ZLATO.png" width="100" height="100"><br>
+ZLATO.png
+</td>
+
 </tr></table>
