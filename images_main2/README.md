@@ -1775,4 +1775,19 @@ Uno_raksh.png
 VARFOLOMEI.png
 </td>
 
+<td valign="bottom">
+<img src="./WORM0.png" width="100" height="100"><br>
+WORM0.png
+</td>
+
+<td valign="bottom">
+<img src="./WORM1.png" width="100" height="100"><br>
+WORM1.png
+</td>
+
+<td valign="bottom">
+<img src="./WORM2.png" width="100" height="100"><br>
+WORM2.png
+</td>
+
 </tr></table>
