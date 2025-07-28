@@ -1264,8 +1264,8 @@
 </td>
 
 <td valign="bottom">
-<img src="./0UD_Zombie3.png" width="100" height="100"><br>
-0UD_Zombie3.png
+<img src="./0UD_Zombie3_0.png" width="100" height="100"><br>
+0UD_Zombie3_0.png
 </td>
 
 <td valign="bottom">
