@@ -176,6 +176,11 @@ Graav.png
 </td>
 
 <td valign="bottom">
+<img src="./Graav2.png" width="100" height="100"><br>
+Graav2.png
+</td>
+
+<td valign="bottom">
 <img src="./GreenFire.png" width="100" height="100"><br>
 GreenFire.png
 </td>
@@ -195,13 +200,13 @@ MindSlash.png
 MindSlash_Cone.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./point.png" width="100" height="100"><br>
 point.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./POINT3.png" width="100" height="100"><br>
 POINT3.png
@@ -227,13 +232,13 @@ SG_Cannon (3x3).png
 SG_Cannon, great (3x4).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SG_Cannon, swivel (3x3).png" width="100" height="100"><br>
 SG_Cannon, swivel (3x3).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SG_Catapult (3x3).png" width="100" height="100"><br>
 SG_Catapult (3x3).png
@@ -259,13 +264,13 @@ SG_Siege Ladder, raised (1x2).png
 SG_Siege Ram (3x4).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SG_Siege Tower (4x4).png" width="100" height="100"><br>
 SG_Siege Tower (4x4).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SG_Siege Tower, bridge (4x3).png" width="100" height="100"><br>
 SG_Siege Tower, bridge (4x3).png
@@ -291,13 +296,13 @@ Shot_M2.png
 Shot_M22.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Sky_fire.png" width="100" height="100"><br>
 Sky_fire.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Smoke.png" width="100" height="100"><br>
 Smoke.png
@@ -323,13 +328,13 @@ Space3.png
 Space3_2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space3_3.png" width="100" height="100"><br>
 Space3_3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space_ER.png" width="100" height="100"><br>
 Space_ER.png
@@ -355,13 +360,13 @@ Space_ER_t.png
 Space_KP.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space_KP_t.png" width="100" height="100"><br>
 Space_KP_t.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Spark_Explosion.png" width="100" height="100"><br>
 Spark_Explosion.png
@@ -380,6 +385,18 @@ table.png
 <td valign="bottom">
 <img src="./WATER.png" width="100" height="100"><br>
 WATER.png
+</td>
+
+<td valign="bottom">
+<img src="./WaterHit.png" width="100" height="100"><br>
+WaterHit.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./WindHit.png" width="100" height="100"><br>
+WindHit.png
 </td>
 
 <td valign="bottom">
