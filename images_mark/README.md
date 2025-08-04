@@ -21,8 +21,18 @@ DAR0.png
 </td>
 
 <td valign="bottom">
+<img src="./DAR_F.png" width="100" height="100"><br>
+DAR_F.png
+</td>
+
+<td valign="bottom">
 <img src="./GLEB.png" width="100" height="100"><br>
 GLEB.png
+</td>
+
+<td valign="bottom">
+<img src="./GLEB_F.png" width="100" height="100"><br>
+GLEB_F.png
 </td>
 
 <td valign="bottom">
@@ -30,6 +40,8 @@ GLEB.png
 GOKU.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JS0.png" width="100" height="100"><br>
 JS0.png
@@ -40,8 +52,6 @@ JS0.png
 JS0_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./JS1.png" width="100" height="100"><br>
 JS1.png
@@ -62,6 +72,18 @@ JS2.png
 JS2_1.png
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./JSF0.png" width="100" height="100"><br>
+JSF0.png
+</td>
+
+<td valign="bottom">
+<img src="./JSF1.png" width="100" height="100"><br>
+JSF1.png
+</td>
+
 <td valign="bottom">
 <img src="./teqilla_sunset.png" width="100" height="100"><br>
 teqilla_sunset.png
@@ -72,8 +94,6 @@ teqilla_sunset.png
 tequilla_up.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TIH.png" width="100" height="100"><br>
 TIH.png
@@ -84,6 +104,8 @@ TIH.png
 token_1_14.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_1_20.png" width="100" height="100"><br>
 token_1_20.png
@@ -104,8 +126,6 @@ token_2_8.png
 token_3_3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_4_2.png" width="100" height="100"><br>
 token_4_2.png
@@ -116,6 +136,8 @@ token_4_2.png
 еаа.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./еаа2.png" width="100" height="100"><br>
 еаа2.png
