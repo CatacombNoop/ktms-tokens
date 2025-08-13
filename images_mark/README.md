@@ -139,6 +139,16 @@ token_4_2.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./TRC0.png" width="100" height="100"><br>
+TRC0.png
+</td>
+
+<td valign="bottom">
+<img src="./TRC1.png" width="100" height="100"><br>
+TRC1.png
+</td>
+
+<td valign="bottom">
 <img src="./WFR.png" width="100" height="100"><br>
 WFR.png
 </td>
