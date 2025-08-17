@@ -1680,6 +1680,38 @@ SKRIPKA.png
 </td>
 
 <td valign="bottom">
+<img src="./SLAA_0.png" width="100" height="100"><br>
+SLAA_0.png
+</td>
+
+<td valign="bottom">
+<img src="./SLAA_1.png" width="100" height="100"><br>
+SLAA_1.png
+</td>
+
+<td valign="bottom">
+<img src="./SLAA_2.png" width="100" height="100"><br>
+SLAA_2.png
+</td>
+
+<td valign="bottom">
+<img src="./SLAA_3.png" width="100" height="100"><br>
+SLAA_3.png
+</td>
+
+<td valign="bottom">
+<img src="./SLAA_4.png" width="100" height="100"><br>
+SLAA_4.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./SLAA_5.png" width="100" height="100"><br>
+SLAA_5.png
+</td>
+
+<td valign="bottom">
 <img src="./SLD.png" width="100" height="100"><br>
 SLD.png
 </td>
