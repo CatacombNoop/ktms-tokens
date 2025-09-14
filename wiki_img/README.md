@@ -31,6 +31,18 @@ AST0.png
 </td>
 
 <td valign="bottom">
+<img src="./AST0_1.png" width="100" height="100"><br>
+AST0_1.png
+</td>
+
+<td valign="bottom">
+<img src="./AST0_2.png" width="100" height="100"><br>
+AST0_2.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
 <img src="./AST1.png" width="100" height="100"><br>
 AST1.png
 </td>
@@ -40,8 +52,6 @@ AST1.png
 AST2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./AST2_2.png" width="100" height="100"><br>
 AST2_2.png
@@ -62,6 +72,8 @@ AST4.png
 AST5.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./AST6.png" width="100" height="100"><br>
 AST6.png
@@ -72,8 +84,6 @@ AST6.png
 Astral0.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./cape.png" width="100" height="100"><br>
 cape.png
@@ -94,6 +104,8 @@ EMPTY.png
 Erynthul.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./estel-city.png" width="100" height="100"><br>
 estel-city.png
@@ -104,8 +116,6 @@ estel-city.png
 estel-city0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./EST_0.png" width="100" height="100"><br>
 EST_0.png
@@ -126,6 +136,8 @@ EST_2.png
 EST_3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./EST_4.png" width="100" height="100"><br>
 EST_4.png
@@ -136,8 +148,6 @@ EST_4.png
 F0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F1.png" width="100" height="100"><br>
 F1.png
@@ -158,6 +168,8 @@ F11.png
 F12.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F13.png" width="100" height="100"><br>
 F13.png
@@ -168,8 +180,6 @@ F13.png
 F14.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F15.png" width="100" height="100"><br>
 F15.png
@@ -190,6 +200,8 @@ F17.png
 F18.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F19.png" width="100" height="100"><br>
 F19.png
@@ -200,8 +212,6 @@ F19.png
 F2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F20.png" width="100" height="100"><br>
 F20.png
@@ -222,6 +232,8 @@ F22.png
 F23.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F24.png" width="100" height="100"><br>
 F24.png
@@ -232,8 +244,6 @@ F24.png
 F25.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F26.png" width="100" height="100"><br>
 F26.png
@@ -254,6 +264,8 @@ F28.png
 F29.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F3.png" width="100" height="100"><br>
 F3.png
@@ -264,8 +276,6 @@ F3.png
 F30.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F31.png" width="100" height="100"><br>
 F31.png
@@ -286,6 +296,8 @@ F4.png
 F5.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F6.png" width="100" height="100"><br>
 F6.png
@@ -296,8 +308,6 @@ F6.png
 F7.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F8.png" width="100" height="100"><br>
 F8.png
@@ -318,6 +328,8 @@ gmod_addon_stuff.png
 ISLAND_MAP.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MagicGun.png" width="100" height="100"><br>
 MagicGun.png
@@ -328,8 +340,6 @@ MagicGun.png
 Malarw.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Skill_Check_DC_0.png" width="100" height="100"><br>
 Skill_Check_DC_0.png
@@ -350,6 +360,8 @@ Spark_Container.png
 SWORDD.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SWORDD2.png" width="100" height="100"><br>
 SWORDD2.png
@@ -360,8 +372,6 @@ SWORDD2.png
 SWORDD3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SWORDD4.png" width="100" height="100"><br>
 SWORDD4.png
