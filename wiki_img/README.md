@@ -63,17 +63,22 @@ AST5.png
 </td>
 
 <td valign="bottom">
+<img src="./AST6.png" width="100" height="100"><br>
+AST6.png
+</td>
+
+<td valign="bottom">
 <img src="./Astral0.jpg" width="100" height="100"><br>
 Astral0.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./cape.png" width="100" height="100"><br>
 cape.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Domain-of-Battle.png" width="100" height="100"><br>
 Domain-of-Battle.png
@@ -99,13 +104,13 @@ estel-city.png
 estel-city0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./EST_0.png" width="100" height="100"><br>
 EST_0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./EST_1.png" width="100" height="100"><br>
 EST_1.png
@@ -131,13 +136,13 @@ EST_4.png
 F0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F1.png" width="100" height="100"><br>
 F1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F10.png" width="100" height="100"><br>
 F10.png
@@ -163,13 +168,13 @@ F13.png
 F14.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F15.png" width="100" height="100"><br>
 F15.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F16.png" width="100" height="100"><br>
 F16.png
@@ -195,13 +200,13 @@ F19.png
 F2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F20.png" width="100" height="100"><br>
 F20.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F21.png" width="100" height="100"><br>
 F21.png
@@ -227,13 +232,13 @@ F24.png
 F25.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F26.png" width="100" height="100"><br>
 F26.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F27.png" width="100" height="100"><br>
 F27.png
@@ -259,13 +264,13 @@ F3.png
 F30.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F31.png" width="100" height="100"><br>
 F31.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F32.png" width="100" height="100"><br>
 F32.png
@@ -291,13 +296,13 @@ F6.png
 F7.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F8.png" width="100" height="100"><br>
 F8.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F9.png" width="100" height="100"><br>
 F9.png
@@ -323,13 +328,13 @@ MagicGun.png
 Malarw.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Skill_Check_DC_0.png" width="100" height="100"><br>
 Skill_Check_DC_0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Skill_Check_DC_1.png" width="100" height="100"><br>
 Skill_Check_DC_1.png
@@ -355,13 +360,13 @@ SWORDD2.png
 SWORDD3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SWORDD4.png" width="100" height="100"><br>
 SWORDD4.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Vilia 2023-06-14-10-56.png" width="100" height="100"><br>
 Vilia 2023-06-14-10-56.png
