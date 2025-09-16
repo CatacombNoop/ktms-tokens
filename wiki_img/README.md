@@ -368,6 +368,16 @@ STYX.png
 </td>
 
 <td valign="bottom">
+<img src="./STYX2.png" width="100" height="100"><br>
+STYX2.png
+</td>
+
+<td valign="bottom">
+<img src="./STYX3.png" width="100" height="100"><br>
+STYX3.png
+</td>
+
+<td valign="bottom">
 <img src="./SWORDD.png" width="100" height="100"><br>
 SWORDD.png
 </td>
@@ -382,6 +392,8 @@ SWORDD2.png
 SWORDD3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SWORDD4.png" width="100" height="100"><br>
 SWORDD4.png
@@ -392,8 +404,6 @@ SWORDD4.png
 Vilia 2023-06-14-10-56.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ZLATO.png" width="100" height="100"><br>
 ZLATO.png
