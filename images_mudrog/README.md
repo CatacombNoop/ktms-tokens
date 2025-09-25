@@ -16,10 +16,32 @@ AZR0.png
 </td>
 
 <td valign="bottom">
+<img src="./A_SLD0.png" width="100" height="100"><br>
+A_SLD0.png
+</td>
+
+<td valign="bottom">
+<img src="./A_SLD1.png" width="100" height="100"><br>
+A_SLD1.png
+</td>
+
+<td valign="bottom">
+<img src="./A_SLD2.png" width="100" height="100"><br>
+A_SLD2.png
+</td>
+
+<td valign="bottom">
+<img src="./A_SLD3.png" width="100" height="100"><br>
+A_SLD3.png
+</td>
+
+<td valign="bottom">
 <img src="./BLD0.png" width="100" height="100"><br>
 BLD0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./BLD1.png" width="100" height="100"><br>
 BLD1.png
@@ -40,8 +62,6 @@ BRA0].png
 BRA1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./CROC.png" width="100" height="100"><br>
 CROC.png
@@ -52,6 +72,8 @@ CROC.png
 FEDT0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./FEDT1.png" width="100" height="100"><br>
 FEDT1.png
@@ -72,8 +94,6 @@ FEDT3.png
 GITH.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ILL0.png" width="100" height="100"><br>
 ILL0.png
@@ -84,6 +104,8 @@ ILL0.png
 ILL1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ILL2.png" width="100" height="100"><br>
 ILL2.png
@@ -104,8 +126,6 @@ ILLARIA1.png
 ILLARIA2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./KILLER0.png" width="100" height="100"><br>
 KILLER0.png
@@ -116,6 +136,8 @@ KILLER0.png
 machinegun.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MIKU0.png" width="100" height="100"><br>
 MIKU0.png
@@ -136,8 +158,6 @@ NPC01.png
 NPC02.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC1.png" width="100" height="100"><br>
 NPC1.png
@@ -148,6 +168,8 @@ NPC1.png
 NPC10.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC11.png" width="100" height="100"><br>
 NPC11.png
@@ -168,8 +190,6 @@ NPC13.png
 NPC14.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC15.png" width="100" height="100"><br>
 NPC15.png
@@ -180,6 +200,8 @@ NPC15.png
 NPC16.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC17.png" width="100" height="100"><br>
 NPC17.png
@@ -200,8 +222,6 @@ NPC19.png
 NPC2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC20.png" width="100" height="100"><br>
 NPC20.png
@@ -212,6 +232,8 @@ NPC20.png
 NPC21.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC22.png" width="100" height="100"><br>
 NPC22.png
@@ -232,8 +254,6 @@ NPC24.png
 NPC25.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC26.png" width="100" height="100"><br>
 NPC26.png
@@ -244,6 +264,8 @@ NPC26.png
 NPC27.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC28.png" width="100" height="100"><br>
 NPC28.png
@@ -264,8 +286,6 @@ NPC29.png
 NPC3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC30.png" width="100" height="100"><br>
 NPC30.png
@@ -276,6 +296,8 @@ NPC30.png
 NPC31.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC32.png" width="100" height="100"><br>
 NPC32.png
@@ -296,8 +318,6 @@ NPC33_1.png
 NPC34.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC34_4.png" width="100" height="100"><br>
 NPC34_4.png
@@ -308,6 +328,8 @@ NPC34_4.png
 NPC35.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC36.png" width="100" height="100"><br>
 NPC36.png
@@ -328,8 +350,6 @@ NPC37.png
 NPC38.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC39.png" width="100" height="100"><br>
 NPC39.png
@@ -340,6 +360,8 @@ NPC39.png
 NPC4.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC40.png" width="100" height="100"><br>
 NPC40.png
@@ -360,8 +382,6 @@ NPC42.png
 NPC43.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC44.png" width="100" height="100"><br>
 NPC44.png
@@ -372,6 +392,8 @@ NPC44.png
 NPC45.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC46.png" width="100" height="100"><br>
 NPC46.png
@@ -392,8 +414,6 @@ NPC48.png
 NPC49.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC5.png" width="100" height="100"><br>
 NPC5.png
@@ -404,6 +424,8 @@ NPC5.png
 NPC50.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC51.png" width="100" height="100"><br>
 NPC51.png
@@ -424,13 +446,18 @@ NPC53.png
 NPC54.png
 </td>
 
-</tr>
-<tr>
+<td valign="bottom">
+<img src="./NPC54_2.png" width="100" height="100"><br>
+NPC54_2.png
+</td>
+
 <td valign="bottom">
 <img src="./NPC55.png" width="100" height="100"><br>
 NPC55.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC56.png" width="100" height="100"><br>
 NPC56.png
@@ -456,13 +483,13 @@ NPC58_1.png
 NPC59.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC6.png" width="100" height="100"><br>
 NPC6.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC60.png" width="100" height="100"><br>
 NPC60.png
@@ -488,13 +515,13 @@ NPC63.png
 NPC64.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC65.png" width="100" height="100"><br>
 NPC65.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC66.png" width="100" height="100"><br>
 NPC66.png
@@ -520,13 +547,13 @@ NPC69.png
 NPC7.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC70.png" width="100" height="100"><br>
 NPC70.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC71.png" width="100" height="100"><br>
 NPC71.png
@@ -552,13 +579,13 @@ NPC74.png
 NPC75.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC76.png" width="100" height="100"><br>
 NPC76.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC76_1.png" width="100" height="100"><br>
 NPC76_1.png
@@ -584,13 +611,13 @@ NPC77_1.png
 NPC77_2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC78.png" width="100" height="100"><br>
 NPC78.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC79.png" width="100" height="100"><br>
 NPC79.png
@@ -616,13 +643,13 @@ NPC81.png
 NPC82.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC83.png" width="100" height="100"><br>
 NPC83.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC84.png" width="100" height="100"><br>
 NPC84.png
@@ -648,13 +675,13 @@ PC0.png
 PC1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PC1_S.png" width="100" height="100"><br>
 PC1_S.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PC2.png" width="100" height="100"><br>
 PC2.png
@@ -680,13 +707,13 @@ PC3_1.png
 PC3_2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PC3_3.png" width="100" height="100"><br>
 PC3_3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PC3_4.png" width="100" height="100"><br>
 PC3_4.png
@@ -712,13 +739,13 @@ planer2.png
 planer3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./planer4.png" width="100" height="100"><br>
 planer4.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./planer5.png" width="100" height="100"><br>
 planer5.png
@@ -744,13 +771,13 @@ planer8.png
 planer9.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN0.png" width="100" height="100"><br>
 PLN0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN1.png" width="100" height="100"><br>
 PLN1.png
@@ -776,13 +803,13 @@ PLN2.png
 PLN2_0.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN2_2.png" width="100" height="100"><br>
 PLN2_2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN2_3.png" width="100" height="100"><br>
 PLN2_3.png
@@ -808,13 +835,13 @@ PLN32.png
 PLN4.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN5.png" width="100" height="100"><br>
 PLN5.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN6.png" width="100" height="100"><br>
 PLN6.png
@@ -840,13 +867,13 @@ RND2.png
 RND3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Solditer.png" width="100" height="100"><br>
 Solditer.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Solditer1.png" width="100" height="100"><br>
 Solditer1.png
@@ -872,13 +899,13 @@ UND0.png
 UND1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UND2.png" width="100" height="100"><br>
 UND2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./YAG0.png" width="100" height="100"><br>
 YAG0.png
