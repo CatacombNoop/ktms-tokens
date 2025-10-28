@@ -112,10 +112,32 @@ Darkness_spell.png
 </td>
 
 <td valign="bottom">
+<img src="./DeathCircle.png" width="100" height="100"><br>
+DeathCircle.png
+</td>
+
+<td valign="bottom">
+<img src="./DeathCircle2.png" width="100" height="100"><br>
+DeathCircle2.png
+</td>
+
+<td valign="bottom">
+<img src="./DeathCircle2B.png" width="100" height="100"><br>
+DeathCircle2B.png
+</td>
+
+<td valign="bottom">
+<img src="./DeathCircle3.png" width="100" height="100"><br>
+DeathCircle3.png
+</td>
+
+<td valign="bottom">
 <img src="./DivineWeapon.png" width="100" height="100"><br>
 DivineWeapon.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DivineWeapon2.png" width="100" height="100"><br>
 DivineWeapon2.png
@@ -136,8 +158,6 @@ Electro_Cone.png
 Fireball.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Fireball2.png" width="100" height="100"><br>
 Fireball2.png
@@ -148,9 +168,16 @@ Fireball2.png
 Fireball_Cone.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Fire_hell.png" width="100" height="100"><br>
 Fire_hell.png
+</td>
+
+<td valign="bottom">
+<img src="./ForceCircle.png" width="100" height="100"><br>
+ForceCircle.png
 </td>
 
 <td valign="bottom">
@@ -168,13 +195,13 @@ Golden sword.png
 Golden sword222.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Graav.png" width="100" height="100"><br>
 Graav.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Graav2.png" width="100" height="100"><br>
 Graav2.png
@@ -183,6 +210,11 @@ Graav2.png
 <td valign="bottom">
 <img src="./GreenFire.png" width="100" height="100"><br>
 GreenFire.png
+</td>
+
+<td valign="bottom">
+<img src="./HolyCircle.png" width="100" height="100"><br>
+HolyCircle.png
 </td>
 
 <td valign="bottom">
