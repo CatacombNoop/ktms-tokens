@@ -90,10 +90,22 @@ JSF1.png
 </td>
 
 <td valign="bottom">
+<img src="./MTN.png" width="100" height="100"><br>
+MTN.png
+</td>
+
+<td valign="bottom">
+<img src="./starrrr.png" width="100" height="100"><br>
+starrrr.png
+</td>
+
+<td valign="bottom">
 <img src="./teqilla_sunset.png" width="100" height="100"><br>
 teqilla_sunset.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./tequilla_up.png" width="100" height="100"><br>
 tequilla_up.png
@@ -104,8 +116,6 @@ tequilla_up.png
 TIH.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_1_14.png" width="100" height="100"><br>
 token_1_14.png
@@ -126,6 +136,8 @@ token_2_7.png
 token_2_8.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_3_3.png" width="100" height="100"><br>
 token_3_3.png
@@ -136,8 +148,6 @@ token_3_3.png
 token_4_2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TRC0.png" width="100" height="100"><br>
 TRC0.png
@@ -158,6 +168,8 @@ WFR.png
 еаа.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./еаа2.png" width="100" height="100"><br>
 еаа2.png
