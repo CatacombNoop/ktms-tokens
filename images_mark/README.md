@@ -95,6 +95,18 @@ MTN.png
 </td>
 
 <td valign="bottom">
+<img src="./MTN2.png" width="100" height="100"><br>
+MTN2.png
+</td>
+
+<td valign="bottom">
+<img src="./MTN3.png" width="100" height="100"><br>
+MTN3.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
 <img src="./starrrr.png" width="100" height="100"><br>
 starrrr.png
 </td>
@@ -104,8 +116,6 @@ starrrr.png
 teqilla_sunset.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./tequilla_up.png" width="100" height="100"><br>
 tequilla_up.png
@@ -126,6 +136,8 @@ token_1_14.png
 token_1_20.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_2_7.png" width="100" height="100"><br>
 token_2_7.png
@@ -136,8 +148,6 @@ token_2_7.png
 token_2_8.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_3_3.png" width="100" height="100"><br>
 token_3_3.png
@@ -158,6 +168,8 @@ TRC0.png
 TRC1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WFR.png" width="100" height="100"><br>
 WFR.png
@@ -168,8 +180,6 @@ WFR.png
 еаа.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./еаа2.png" width="100" height="100"><br>
 еаа2.png
