@@ -164,12 +164,17 @@ token_4_2.png
 </td>
 
 <td valign="bottom">
-<img src="./TRC0.png" width="100" height="100"><br>
-TRC0.png
+<img src="./TRADER.png" width="100" height="100"><br>
+TRADER.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./TRC0.png" width="100" height="100"><br>
+TRC0.png
+</td>
+
 <td valign="bottom">
 <img src="./TRC1.png" width="100" height="100"><br>
 TRC1.png
