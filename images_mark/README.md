@@ -31,17 +31,22 @@ DAR_F.png
 </td>
 
 <td valign="bottom">
+<img src="./Drrr.png" width="100" height="100"><br>
+Drrr.png
+</td>
+
+<td valign="bottom">
 <img src="./GLEB.png" width="100" height="100"><br>
 GLEB.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./GLEB_F.png" width="100" height="100"><br>
 GLEB_F.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./GOKU.png" width="100" height="100"><br>
 GOKU.png
@@ -67,13 +72,13 @@ JS1.png
 JS1_1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JS2.png" width="100" height="100"><br>
 JS2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./JS2_1.png" width="100" height="100"><br>
 JS2_1.png
@@ -99,13 +104,13 @@ MTN.png
 MTN2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MTN3.png" width="100" height="100"><br>
 MTN3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MTN4.png" width="100" height="100"><br>
 MTN4.png
@@ -131,13 +136,13 @@ tequilla_up.png
 TIH.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_1_14.png" width="100" height="100"><br>
 token_1_14.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_1_20.png" width="100" height="100"><br>
 token_1_20.png
@@ -163,13 +168,13 @@ token_3_3.png
 token_4_2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TRADER.png" width="100" height="100"><br>
 TRADER.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TRC0.png" width="100" height="100"><br>
 TRC0.png
