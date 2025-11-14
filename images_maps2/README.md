@@ -11,8 +11,18 @@
 <table><tr>
 <tr>
 <td valign="bottom">
+<img src="./BloodCrypt_Grid_32x56.jpg" width="100" height="100"><br>
+BloodCrypt_Grid_32x56.jpg
+</td>
+
+<td valign="bottom">
 <img src="./HellFortress.png" width="100" height="100"><br>
 HellFortress.png
+</td>
+
+<td valign="bottom">
+<img src="./Judith's+Secret+gridless.jpg" width="100" height="100"><br>
+Judith's+Secret+gridless.jpg
 </td>
 
 </tr></table>
