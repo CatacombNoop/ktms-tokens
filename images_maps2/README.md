@@ -21,8 +21,8 @@ HellFortress.png
 </td>
 
 <td valign="bottom">
-<img src="./Judith's+Secret+gridless.jpg" width="100" height="100"><br>
-Judith's+Secret+gridless.jpg
+<img src="./Mns.jpg" width="100" height="100"><br>
+Mns.jpg
 </td>
 
 </tr></table>
