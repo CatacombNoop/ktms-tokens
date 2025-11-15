@@ -1003,6 +1003,16 @@ Solditer3B.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./SPR.png" width="100" height="100"><br>
+SPR.png
+</td>
+
+<td valign="bottom">
+<img src="./SPR_B.png" width="100" height="100"><br>
+SPR_B.png
+</td>
+
+<td valign="bottom">
 <img src="./UND0.png" width="100" height="100"><br>
 UND0.png
 </td>
@@ -1022,6 +1032,8 @@ UND2.png
 YAG0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./YAG1.png" width="100" height="100"><br>
 YAG1.png
