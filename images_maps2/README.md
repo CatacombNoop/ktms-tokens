@@ -16,6 +16,11 @@ BloodCrypt_Grid_32x56.jpg
 </td>
 
 <td valign="bottom">
+<img src="./Entra32x56.jpg" width="100" height="100"><br>
+Entra32x56.jpg
+</td>
+
+<td valign="bottom">
 <img src="./EVI_36x21.jpg" width="100" height="100"><br>
 EVI_36x21.jpg
 </td>
