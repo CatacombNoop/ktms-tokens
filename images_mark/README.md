@@ -43,6 +43,11 @@ Drrr.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./EOL.png" width="100" height="100"><br>
+EOL.png
+</td>
+
+<td valign="bottom">
 <img src="./GLEB.png" width="100" height="100"><br>
 GLEB.png
 </td>
@@ -67,13 +72,13 @@ IO.png
 JS0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JS0_1.png" width="100" height="100"><br>
 JS0_1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./JS1.png" width="100" height="100"><br>
 JS1.png
@@ -99,13 +104,13 @@ JS2_1.png
 JSF0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JSF1.png" width="100" height="100"><br>
 JSF1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MTN.png" width="100" height="100"><br>
 MTN.png
@@ -131,13 +136,18 @@ MTN4.png
 MTN5.png
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./MTN6.png" width="100" height="100"><br>
+MTN6.png
+</td>
+
 <td valign="bottom">
 <img src="./ROMAN.png" width="100" height="100"><br>
 ROMAN.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SEIR.png" width="100" height="100"><br>
 SEIR.png
@@ -149,10 +159,17 @@ starrrr.png
 </td>
 
 <td valign="bottom">
+<img src="./S_TK.png" width="100" height="100"><br>
+S_TK.png
+</td>
+
+<td valign="bottom">
 <img src="./teqilla_sunset.png" width="100" height="100"><br>
 teqilla_sunset.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./tequilla_up.png" width="100" height="100"><br>
 tequilla_up.png
@@ -168,8 +185,6 @@ TIH.png
 TIH1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_1_14.png" width="100" height="100"><br>
 token_1_14.png
@@ -185,6 +200,8 @@ token_1_20.png
 token_2_7.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_2_8.png" width="100" height="100"><br>
 token_2_8.png
@@ -200,8 +217,6 @@ token_3_3.png
 token_4_2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TRADER.png" width="100" height="100"><br>
 TRADER.png
@@ -217,6 +232,8 @@ TRC0.png
 TRC1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WFR.png" width="100" height="100"><br>
 WFR.png
