@@ -880,6 +880,11 @@ planer4.png
 </td>
 
 <td valign="bottom">
+<img src="./planer4B.png" width="100" height="100"><br>
+planer4B.png
+</td>
+
+<td valign="bottom">
 <img src="./planer5.png" width="100" height="100"><br>
 planer5.png
 </td>
@@ -899,13 +904,13 @@ planer67.png
 planer68.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./planer8.png" width="100" height="100"><br>
 planer8.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./planer9.png" width="100" height="100"><br>
 planer9.png
@@ -931,13 +936,13 @@ PLN12.png
 PLN122.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN2.png" width="100" height="100"><br>
 PLN2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN2_0.png" width="100" height="100"><br>
 PLN2_0.png
@@ -963,13 +968,13 @@ PLN2_4.png
 PLN3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN32.png" width="100" height="100"><br>
 PLN32.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN4.png" width="100" height="100"><br>
 PLN4.png
@@ -995,13 +1000,13 @@ RND0.png
 RND1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./RND2.png" width="100" height="100"><br>
 RND2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RND3.png" width="100" height="100"><br>
 RND3.png
@@ -1027,13 +1032,13 @@ Solditer.png
 Solditer1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Solditer2.png" width="100" height="100"><br>
 Solditer2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Solditer3.png" width="100" height="100"><br>
 Solditer3.png
@@ -1059,13 +1064,13 @@ SPR_B.png
 UND0.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UND1.png" width="100" height="100"><br>
 UND1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UND2.png" width="100" height="100"><br>
 UND2.png
