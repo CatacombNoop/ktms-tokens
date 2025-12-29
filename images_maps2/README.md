@@ -68,6 +68,13 @@ Mns.jpg
 </td>
 
 <td valign="bottom">
+<img src="./Ring_Battle.jpg" width="100" height="100"><br>
+Ring_Battle.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
 <img src="./ZVND0.jpg" width="100" height="100"><br>
 ZVND0.jpg
 </td>
