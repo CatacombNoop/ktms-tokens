@@ -75,6 +75,11 @@ Ring_Battle.jpg
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./SPACE_C.jpg" width="100" height="100"><br>
+SPACE_C.jpg
+</td>
+
+<td valign="bottom">
 <img src="./ZVND0.jpg" width="100" height="100"><br>
 ZVND0.jpg
 </td>
