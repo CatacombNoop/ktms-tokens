@@ -427,6 +427,11 @@ Vilia 2023-06-14-10-56.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./WMAP.jpg" width="100" height="100"><br>
+WMAP.jpg
+</td>
+
+<td valign="bottom">
 <img src="./ZLATO.png" width="100" height="100"><br>
 ZLATO.png
 </td>
