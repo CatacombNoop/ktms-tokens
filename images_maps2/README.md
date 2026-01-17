@@ -85,6 +85,11 @@ LAIR.png
 </td>
 
 <td valign="bottom">
+<img src="./LAIR2_j.jpg" width="100" height="100"><br>
+LAIR2_j.jpg
+</td>
+
+<td valign="bottom">
 <img src="./LAIR_j.jpg" width="100" height="100"><br>
 LAIR_j.jpg
 </td>
@@ -99,13 +104,13 @@ Mns.jpg
 Ring_Battle.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SPACE_C.jpg" width="100" height="100"><br>
 SPACE_C.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ZVND0.jpg" width="100" height="100"><br>
 ZVND0.jpg
