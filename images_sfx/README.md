@@ -420,12 +420,22 @@ table.png
 </td>
 
 <td valign="bottom">
-<img src="./WATER.png" width="100" height="100"><br>
-WATER.png
+<img src="./tile_circle.png" width="100" height="100"><br>
+tile_circle.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./tile_cube.png" width="100" height="100"><br>
+tile_cube.png
+</td>
+
+<td valign="bottom">
+<img src="./WATER.png" width="100" height="100"><br>
+WATER.png
+</td>
+
 <td valign="bottom">
 <img src="./WaterHit.png" width="100" height="100"><br>
 WaterHit.png
