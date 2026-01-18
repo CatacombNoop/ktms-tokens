@@ -11,77 +11,77 @@
 <table><tr>
 <tr>
 <td valign="bottom">
-<img src="./0.png" width="75" height="75"><br>
-0.png
+<img src="./0.png" width="100" height="100"><br>
+<sup>0.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./1.png" width="75" height="75"><br>
-1.png
+<img src="./1.png" width="100" height="100"><br>
+<sup>1.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./10.png" width="75" height="75"><br>
-10.png
+<img src="./10.png" width="100" height="100"><br>
+<sup>10.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./100.png" width="75" height="75"><br>
-100.png
+<img src="./100.png" width="100" height="100"><br>
+<sup>100.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./1000.png" width="75" height="75"><br>
-1000.png
+<img src="./1000.png" width="100" height="100"><br>
+<sup>1000.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./2.png" width="75" height="75"><br>
-2.png
-</td>
-
-</tr>
-<tr>
-<td valign="bottom">
-<img src="./20.png" width="75" height="75"><br>
-20.png
-</td>
-
-<td valign="bottom">
-<img src="./2000.png" width="75" height="75"><br>
-2000.png
-</td>
-
-<td valign="bottom">
-<img src="./25.png" width="75" height="75"><br>
-25.png
-</td>
-
-<td valign="bottom">
-<img src="./250.png" width="75" height="75"><br>
-250.png
-</td>
-
-<td valign="bottom">
-<img src="./5.png" width="75" height="75"><br>
-5.png
-</td>
-
-<td valign="bottom">
-<img src="./50.png" width="75" height="75"><br>
-50.png
+<img src="./2.png" width="100" height="100"><br>
+<sup>2.png</sup>
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./500.png" width="75" height="75"><br>
-500.png
+<img src="./20.png" width="100" height="100"><br>
+<sup>20.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./5000.png" width="75" height="75"><br>
-5000.png
+<img src="./2000.png" width="100" height="100"><br>
+<sup>2000.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./25.png" width="100" height="100"><br>
+<sup>25.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./250.png" width="100" height="100"><br>
+<sup>250.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./5.png" width="100" height="100"><br>
+<sup>5.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./50.png" width="100" height="100"><br>
+<sup>50.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./500.png" width="100" height="100"><br>
+<sup>500.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./5000.png" width="100" height="100"><br>
+<sup>5000.png</sup>
 </td>
 
 </tr></table>

@@ -11,151 +11,151 @@
 <table><tr>
 <tr>
 <td valign="bottom">
-<img src="./0.png" width="75" height="75"><br>
-0.png
+<img src="./0.png" width="100" height="100"><br>
+<sup>0.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./AA.png" width="75" height="75"><br>
-AA.png
+<img src="./AA.png" width="100" height="100"><br>
+<sup>AA.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./AC.png" width="75" height="75"><br>
-AC.png
+<img src="./AC.png" width="100" height="100"><br>
+<sup>AC.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./AE.png" width="75" height="75"><br>
-AE.png
+<img src="./AE.png" width="100" height="100"><br>
+<sup>AE.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./AG-AN.png" width="75" height="75"><br>
-AG-AN.png
+<img src="./AG-AN.png" width="100" height="100"><br>
+<sup>AG-AN.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./AG.png" width="75" height="75"><br>
-AG.png
-</td>
-
-</tr>
-<tr>
-<td valign="bottom">
-<img src="./AL.png" width="75" height="75"><br>
-AL.png
-</td>
-
-<td valign="bottom">
-<img src="./AN.png" width="75" height="75"><br>
-AN.png
-</td>
-
-<td valign="bottom">
-<img src="./AN1.png" width="75" height="75"><br>
-AN1.png
-</td>
-
-<td valign="bottom">
-<img src="./CE.png" width="75" height="75"><br>
-CE.png
-</td>
-
-<td valign="bottom">
-<img src="./CG.png" width="75" height="75"><br>
-CG.png
-</td>
-
-<td valign="bottom">
-<img src="./CN.png" width="75" height="75"><br>
-CN.png
+<img src="./AG.png" width="100" height="100"><br>
+<sup>AG.png</sup>
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./Fire.png" width="75" height="75"><br>
-Fire.png
+<img src="./AL.png" width="100" height="100"><br>
+<sup>AL.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./LD-C.png" width="75" height="75"><br>
-LD-C.png
+<img src="./AN.png" width="100" height="100"><br>
+<sup>AN.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./LE.png" width="75" height="75"><br>
-LE.png
+<img src="./AN1.png" width="100" height="100"><br>
+<sup>AN1.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./LG.png" width="75" height="75"><br>
-LG.png
+<img src="./CE.png" width="100" height="100"><br>
+<sup>CE.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./LN-N.png" width="75" height="75"><br>
-LN-N.png
+<img src="./CG.png" width="100" height="100"><br>
+<sup>CG.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./LN.png" width="75" height="75"><br>
-LN.png
-</td>
-
-</tr>
-<tr>
-<td valign="bottom">
-<img src="./LU-C.png" width="75" height="75"><br>
-LU-C.png
-</td>
-
-<td valign="bottom">
-<img src="./Mystra.png" width="75" height="75"><br>
-Mystra.png
-</td>
-
-<td valign="bottom">
-<img src="./N.png" width="75" height="75"><br>
-N.png
-</td>
-
-<td valign="bottom">
-<img src="./NE.png" width="75" height="75"><br>
-NE.png
-</td>
-
-<td valign="bottom">
-<img src="./NG.png" width="75" height="75"><br>
-NG.png
-</td>
-
-<td valign="bottom">
-<img src="./NN.png" width="75" height="75"><br>
-NN.png
+<img src="./CN.png" width="100" height="100"><br>
+<sup>CN.png</sup>
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./Orc.png" width="75" height="75"><br>
-Orc.png
+<img src="./Fire.png" width="100" height="100"><br>
+<sup>Fire.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./RD-C.png" width="75" height="75"><br>
-RD-C.png
+<img src="./LD-C.png" width="100" height="100"><br>
+<sup>LD-C.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./RU-C.png" width="75" height="75"><br>
-RU-C.png
+<img src="./LE.png" width="100" height="100"><br>
+<sup>LE.png</sup>
 </td>
 
 <td valign="bottom">
-<img src="./ShenLi.png" width="75" height="75"><br>
-ShenLi.png
+<img src="./LG.png" width="100" height="100"><br>
+<sup>LG.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./LN-N.png" width="100" height="100"><br>
+<sup>LN-N.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./LN.png" width="100" height="100"><br>
+<sup>LN.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./LU-C.png" width="100" height="100"><br>
+<sup>LU-C.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./Mystra.png" width="100" height="100"><br>
+<sup>Mystra.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./N.png" width="100" height="100"><br>
+<sup>N.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./NE.png" width="100" height="100"><br>
+<sup>NE.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./NG.png" width="100" height="100"><br>
+<sup>NG.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./NN.png" width="100" height="100"><br>
+<sup>NN.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Orc.png" width="100" height="100"><br>
+<sup>Orc.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./RD-C.png" width="100" height="100"><br>
+<sup>RD-C.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./RU-C.png" width="100" height="100"><br>
+<sup>RU-C.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./ShenLi.png" width="100" height="100"><br>
+<sup>ShenLi.png</sup>
 </td>
 
 </tr></table>
