@@ -11,108 +11,108 @@
 <table><tr>
 <tr>
 <td valign="bottom">
-<img src="./BloodCrypt_Grid_32x56.jpg" width="100" height="100"><br>
+<img src="./BloodCrypt_Grid_32x56.jpg" width="75" height="75"><br>
 BloodCrypt_Grid_32x56.jpg
 </td>
 
 <td valign="bottom">
-<img src="./City Streets-Night.jpg" width="100" height="100"><br>
+<img src="./City Streets-Night.jpg" width="75" height="75"><br>
 City Streets-Night.jpg
 </td>
 
 <td valign="bottom">
-<img src="./Entra32x56.jpg" width="100" height="100"><br>
+<img src="./Entra32x56.jpg" width="75" height="75"><br>
 Entra32x56.jpg
 </td>
 
 <td valign="bottom">
-<img src="./EVI_36x21.jpg" width="100" height="100"><br>
+<img src="./EVI_36x21.jpg" width="75" height="75"><br>
 EVI_36x21.jpg
 </td>
 
 <td valign="bottom">
-<img src="./EVI_36x21B.jpg" width="100" height="100"><br>
+<img src="./EVI_36x21B.jpg" width="75" height="75"><br>
 EVI_36x21B.jpg
 </td>
 
 <td valign="bottom">
-<img src="./HellFortress.png" width="100" height="100"><br>
+<img src="./HellFortress.png" width="75" height="75"><br>
 HellFortress.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./Jung.jpg" width="100" height="100"><br>
+<img src="./Jung.jpg" width="75" height="75"><br>
 Jung.jpg
 </td>
 
 <td valign="bottom">
-<img src="./Jung2.jpg" width="100" height="100"><br>
+<img src="./Jung2.jpg" width="75" height="75"><br>
 Jung2.jpg
 </td>
 
 <td valign="bottom">
-<img src="./JungCT.jpg" width="100" height="100"><br>
+<img src="./JungCT.jpg" width="75" height="75"><br>
 JungCT.jpg
 </td>
 
 <td valign="bottom">
-<img src="./JungCT1.jpg" width="100" height="100"><br>
+<img src="./JungCT1.jpg" width="75" height="75"><br>
 JungCT1.jpg
 </td>
 
 <td valign="bottom">
-<img src="./JungCT2.jpg" width="100" height="100"><br>
+<img src="./JungCT2.jpg" width="75" height="75"><br>
 JungCT2.jpg
 </td>
 
 <td valign="bottom">
-<img src="./JungCT3.jpg" width="100" height="100"><br>
+<img src="./JungCT3.jpg" width="75" height="75"><br>
 JungCT3.jpg
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./LAIR-INFO.png" width="100" height="100"><br>
+<img src="./LAIR-INFO.png" width="75" height="75"><br>
 LAIR-INFO.png
 </td>
 
 <td valign="bottom">
-<img src="./LAIR.png" width="100" height="100"><br>
+<img src="./LAIR.png" width="75" height="75"><br>
 LAIR.png
 </td>
 
 <td valign="bottom">
-<img src="./LAIR2_j.jpg" width="100" height="100"><br>
+<img src="./LAIR2_j.jpg" width="75" height="75"><br>
 LAIR2_j.jpg
 </td>
 
 <td valign="bottom">
-<img src="./LAIR_j.jpg" width="100" height="100"><br>
+<img src="./LAIR_j.jpg" width="75" height="75"><br>
 LAIR_j.jpg
 </td>
 
 <td valign="bottom">
-<img src="./Mns.jpg" width="100" height="100"><br>
+<img src="./Mns.jpg" width="75" height="75"><br>
 Mns.jpg
 </td>
 
 <td valign="bottom">
-<img src="./Ring_Battle.jpg" width="100" height="100"><br>
+<img src="./Ring_Battle.jpg" width="75" height="75"><br>
 Ring_Battle.jpg
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./SPACE_C.jpg" width="100" height="100"><br>
+<img src="./SPACE_C.jpg" width="75" height="75"><br>
 SPACE_C.jpg
 </td>
 
 <td valign="bottom">
-<img src="./ZVND0.jpg" width="100" height="100"><br>
+<img src="./ZVND0.jpg" width="75" height="75"><br>
 ZVND0.jpg
 </td>
 

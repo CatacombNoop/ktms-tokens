@@ -11,236 +11,236 @@
 <table><tr>
 <tr>
 <td valign="bottom">
-<img src="./AB24.png" width="100" height="100"><br>
+<img src="./AB24.png" width="75" height="75"><br>
 AB24.png
 </td>
 
 <td valign="bottom">
-<img src="./ABU24.png" width="100" height="100"><br>
+<img src="./ABU24.png" width="75" height="75"><br>
 ABU24.png
 </td>
 
 <td valign="bottom">
-<img src="./BOLT.png" width="100" height="100"><br>
+<img src="./BOLT.png" width="75" height="75"><br>
 BOLT.png
 </td>
 
 <td valign="bottom">
-<img src="./DVS.png" width="100" height="100"><br>
+<img src="./DVS.png" width="75" height="75"><br>
 DVS.png
 </td>
 
 <td valign="bottom">
-<img src="./FLAME.png" width="100" height="100"><br>
+<img src="./FLAME.png" width="75" height="75"><br>
 FLAME.png
 </td>
 
 <td valign="bottom">
-<img src="./GRND.png" width="100" height="100"><br>
+<img src="./GRND.png" width="75" height="75"><br>
 GRND.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./GRND2.png" width="100" height="100"><br>
+<img src="./GRND2.png" width="75" height="75"><br>
 GRND2.png
 </td>
 
 <td valign="bottom">
-<img src="./GRND3.png" width="100" height="100"><br>
+<img src="./GRND3.png" width="75" height="75"><br>
 GRND3.png
 </td>
 
 <td valign="bottom">
-<img src="./IRB.png" width="100" height="100"><br>
+<img src="./IRB.png" width="75" height="75"><br>
 IRB.png
 </td>
 
 <td valign="bottom">
-<img src="./KST_AS.png" width="100" height="100"><br>
+<img src="./KST_AS.png" width="75" height="75"><br>
 KST_AS.png
 </td>
 
 <td valign="bottom">
-<img src="./KST_AS2.png" width="100" height="100"><br>
+<img src="./KST_AS2.png" width="75" height="75"><br>
 KST_AS2.png
 </td>
 
 <td valign="bottom">
-<img src="./KST_AS3.png" width="100" height="100"><br>
+<img src="./KST_AS3.png" width="75" height="75"><br>
 KST_AS3.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./KST_AS4.png" width="100" height="100"><br>
+<img src="./KST_AS4.png" width="75" height="75"><br>
 KST_AS4.png
 </td>
 
 <td valign="bottom">
-<img src="./LAZ_PIST.png" width="100" height="100"><br>
+<img src="./LAZ_PIST.png" width="75" height="75"><br>
 LAZ_PIST.png
 </td>
 
 <td valign="bottom">
-<img src="./LAZ_RIFL.png" width="100" height="100"><br>
+<img src="./LAZ_RIFL.png" width="75" height="75"><br>
 LAZ_RIFL.png
 </td>
 
 <td valign="bottom">
-<img src="./LAZ_RIFL2.png" width="100" height="100"><br>
+<img src="./LAZ_RIFL2.png" width="75" height="75"><br>
 LAZ_RIFL2.png
 </td>
 
 <td valign="bottom">
-<img src="./MG_BS.png" width="100" height="100"><br>
+<img src="./MG_BS.png" width="75" height="75"><br>
 MG_BS.png
 </td>
 
 <td valign="bottom">
-<img src="./MG_BS1.png" width="100" height="100"><br>
+<img src="./MG_BS1.png" width="75" height="75"><br>
 MG_BS1.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./MG_BS2.png" width="100" height="100"><br>
+<img src="./MG_BS2.png" width="75" height="75"><br>
 MG_BS2.png
 </td>
 
 <td valign="bottom">
-<img src="./MG_MIN.png" width="100" height="100"><br>
+<img src="./MG_MIN.png" width="75" height="75"><br>
 MG_MIN.png
 </td>
 
 <td valign="bottom">
-<img src="./MOD0.png" width="100" height="100"><br>
+<img src="./MOD0.png" width="75" height="75"><br>
 MOD0.png
 </td>
 
 <td valign="bottom">
-<img src="./OSH_R.png" width="100" height="100"><br>
+<img src="./OSH_R.png" width="75" height="75"><br>
 OSH_R.png
 </td>
 
 <td valign="bottom">
-<img src="./PB.png" width="100" height="100"><br>
+<img src="./PB.png" width="75" height="75"><br>
 PB.png
 </td>
 
 <td valign="bottom">
-<img src="./PE.png" width="100" height="100"><br>
+<img src="./PE.png" width="75" height="75"><br>
 PE.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./PIST.png" width="100" height="100"><br>
+<img src="./PIST.png" width="75" height="75"><br>
 PIST.png
 </td>
 
 <td valign="bottom">
-<img src="./PPBS.png" width="100" height="100"><br>
+<img src="./PPBS.png" width="75" height="75"><br>
 PPBS.png
 </td>
 
 <td valign="bottom">
-<img src="./PPBS2.png" width="100" height="100"><br>
+<img src="./PPBS2.png" width="75" height="75"><br>
 PPBS2.png
 </td>
 
 <td valign="bottom">
-<img src="./R16.png" width="100" height="100"><br>
+<img src="./R16.png" width="75" height="75"><br>
 R16.png
 </td>
 
 <td valign="bottom">
-<img src="./RPG.png" width="100" height="100"><br>
+<img src="./RPG.png" width="75" height="75"><br>
 RPG.png
 </td>
 
 <td valign="bottom">
-<img src="./SBORN_REV.png" width="100" height="100"><br>
+<img src="./SBORN_REV.png" width="75" height="75"><br>
 SBORN_REV.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./SBORN_REV2.png" width="100" height="100"><br>
+<img src="./SBORN_REV2.png" width="75" height="75"><br>
 SBORN_REV2.png
 </td>
 
 <td valign="bottom">
-<img src="./SBORN_REV3.png" width="100" height="100"><br>
+<img src="./SBORN_REV3.png" width="75" height="75"><br>
 SBORN_REV3.png
 </td>
 
 <td valign="bottom">
-<img src="./SBORN_SHT.png" width="100" height="100"><br>
+<img src="./SBORN_SHT.png" width="75" height="75"><br>
 SBORN_SHT.png
 </td>
 
 <td valign="bottom">
-<img src="./SHT_G.png" width="100" height="100"><br>
+<img src="./SHT_G.png" width="75" height="75"><br>
 SHT_G.png
 </td>
 
 <td valign="bottom">
-<img src="./SHT_G2.png" width="100" height="100"><br>
+<img src="./SHT_G2.png" width="75" height="75"><br>
 SHT_G2.png
 </td>
 
 <td valign="bottom">
-<img src="./SHT_G3.png" width="100" height="100"><br>
+<img src="./SHT_G3.png" width="75" height="75"><br>
 SHT_G3.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./SHT_G4.png" width="100" height="100"><br>
+<img src="./SHT_G4.png" width="75" height="75"><br>
 SHT_G4.png
 </td>
 
 <td valign="bottom">
-<img src="./SMG_BR.png" width="100" height="100"><br>
+<img src="./SMG_BR.png" width="75" height="75"><br>
 SMG_BR.png
 </td>
 
 <td valign="bottom">
-<img src="./SNPBRZ.png" width="100" height="100"><br>
+<img src="./SNPBRZ.png" width="75" height="75"><br>
 SNPBRZ.png
 </td>
 
 <td valign="bottom">
-<img src="./STATION_MG.png" width="100" height="100"><br>
+<img src="./STATION_MG.png" width="75" height="75"><br>
 STATION_MG.png
 </td>
 
 <td valign="bottom">
-<img src="./STATION_RF.png" width="100" height="100"><br>
+<img src="./STATION_RF.png" width="75" height="75"><br>
 STATION_RF.png
 </td>
 
 <td valign="bottom">
-<img src="./SVMD.png" width="100" height="100"><br>
+<img src="./SVMD.png" width="75" height="75"><br>
 SVMD.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./TECH_MGN.png" width="100" height="100"><br>
+<img src="./TECH_MGN.png" width="75" height="75"><br>
 TECH_MGN.png
 </td>
 
 <td valign="bottom">
-<img src="./TECH_UNK.png" width="100" height="100"><br>
+<img src="./TECH_UNK.png" width="75" height="75"><br>
 TECH_UNK.png
 </td>
 

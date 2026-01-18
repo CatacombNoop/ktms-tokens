@@ -11,1088 +11,1088 @@
 <table><tr>
 <tr>
 <td valign="bottom">
-<img src="./AUTT0.png" width="100" height="100"><br>
+<img src="./AUTT0.png" width="75" height="75"><br>
 AUTT0.png
 </td>
 
 <td valign="bottom">
-<img src="./AUTT1.png" width="100" height="100"><br>
+<img src="./AUTT1.png" width="75" height="75"><br>
 AUTT1.png
 </td>
 
 <td valign="bottom">
-<img src="./AZR0.png" width="100" height="100"><br>
+<img src="./AZR0.png" width="75" height="75"><br>
 AZR0.png
 </td>
 
 <td valign="bottom">
-<img src="./A_SLD0.png" width="100" height="100"><br>
+<img src="./A_SLD0.png" width="75" height="75"><br>
 A_SLD0.png
 </td>
 
 <td valign="bottom">
-<img src="./A_SLD1.png" width="100" height="100"><br>
+<img src="./A_SLD1.png" width="75" height="75"><br>
 A_SLD1.png
 </td>
 
 <td valign="bottom">
-<img src="./A_SLD1_A.png" width="100" height="100"><br>
+<img src="./A_SLD1_A.png" width="75" height="75"><br>
 A_SLD1_A.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./A_SLD2.png" width="100" height="100"><br>
+<img src="./A_SLD2.png" width="75" height="75"><br>
 A_SLD2.png
 </td>
 
 <td valign="bottom">
-<img src="./A_SLD3.png" width="100" height="100"><br>
+<img src="./A_SLD3.png" width="75" height="75"><br>
 A_SLD3.png
 </td>
 
 <td valign="bottom">
-<img src="./BLD0.png" width="100" height="100"><br>
+<img src="./BLD0.png" width="75" height="75"><br>
 BLD0.png
 </td>
 
 <td valign="bottom">
-<img src="./BLD1.png" width="100" height="100"><br>
+<img src="./BLD1.png" width="75" height="75"><br>
 BLD1.png
 </td>
 
 <td valign="bottom">
-<img src="./BLD2.png" width="100" height="100"><br>
+<img src="./BLD2.png" width="75" height="75"><br>
 BLD2.png
 </td>
 
 <td valign="bottom">
-<img src="./BRA0].png" width="100" height="100"><br>
+<img src="./BRA0].png" width="75" height="75"><br>
 BRA0].png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./BRA1.png" width="100" height="100"><br>
+<img src="./BRA1.png" width="75" height="75"><br>
 BRA1.png
 </td>
 
 <td valign="bottom">
-<img src="./CROC.png" width="100" height="100"><br>
+<img src="./CROC.png" width="75" height="75"><br>
 CROC.png
 </td>
 
 <td valign="bottom">
-<img src="./DOC.png" width="100" height="100"><br>
+<img src="./DOC.png" width="75" height="75"><br>
 DOC.png
 </td>
 
 <td valign="bottom">
-<img src="./FEDT0.png" width="100" height="100"><br>
+<img src="./FEDT0.png" width="75" height="75"><br>
 FEDT0.png
 </td>
 
 <td valign="bottom">
-<img src="./FEDT1.png" width="100" height="100"><br>
+<img src="./FEDT1.png" width="75" height="75"><br>
 FEDT1.png
 </td>
 
 <td valign="bottom">
-<img src="./FEDT2.png" width="100" height="100"><br>
+<img src="./FEDT2.png" width="75" height="75"><br>
 FEDT2.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./FEDT3.png" width="100" height="100"><br>
+<img src="./FEDT3.png" width="75" height="75"><br>
 FEDT3.png
 </td>
 
 <td valign="bottom">
-<img src="./FEDT4.png" width="100" height="100"><br>
+<img src="./FEDT4.png" width="75" height="75"><br>
 FEDT4.png
 </td>
 
 <td valign="bottom">
-<img src="./GITH.png" width="100" height="100"><br>
+<img src="./GITH.png" width="75" height="75"><br>
 GITH.png
 </td>
 
 <td valign="bottom">
-<img src="./ILL0.png" width="100" height="100"><br>
+<img src="./ILL0.png" width="75" height="75"><br>
 ILL0.png
 </td>
 
 <td valign="bottom">
-<img src="./ILL1.png" width="100" height="100"><br>
+<img src="./ILL1.png" width="75" height="75"><br>
 ILL1.png
 </td>
 
 <td valign="bottom">
-<img src="./ILL2.png" width="100" height="100"><br>
+<img src="./ILL2.png" width="75" height="75"><br>
 ILL2.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./ILLARIA0.png" width="100" height="100"><br>
+<img src="./ILLARIA0.png" width="75" height="75"><br>
 ILLARIA0.png
 </td>
 
 <td valign="bottom">
-<img src="./ILLARIA1.png" width="100" height="100"><br>
+<img src="./ILLARIA1.png" width="75" height="75"><br>
 ILLARIA1.png
 </td>
 
 <td valign="bottom">
-<img src="./ILLARIA2.png" width="100" height="100"><br>
+<img src="./ILLARIA2.png" width="75" height="75"><br>
 ILLARIA2.png
 </td>
 
 <td valign="bottom">
-<img src="./INF.png" width="100" height="100"><br>
+<img src="./INF.png" width="75" height="75"><br>
 INF.png
 </td>
 
 <td valign="bottom">
-<img src="./KILLER0.png" width="100" height="100"><br>
+<img src="./KILLER0.png" width="75" height="75"><br>
 KILLER0.png
 </td>
 
 <td valign="bottom">
-<img src="./machinegun.png" width="100" height="100"><br>
+<img src="./machinegun.png" width="75" height="75"><br>
 machinegun.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./MIKU0.png" width="100" height="100"><br>
+<img src="./MIKU0.png" width="75" height="75"><br>
 MIKU0.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC0.png" width="100" height="100"><br>
+<img src="./NPC0.png" width="75" height="75"><br>
 NPC0.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC01.png" width="100" height="100"><br>
+<img src="./NPC01.png" width="75" height="75"><br>
 NPC01.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC02.png" width="100" height="100"><br>
+<img src="./NPC02.png" width="75" height="75"><br>
 NPC02.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC1.png" width="100" height="100"><br>
+<img src="./NPC1.png" width="75" height="75"><br>
 NPC1.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC10.png" width="100" height="100"><br>
+<img src="./NPC10.png" width="75" height="75"><br>
 NPC10.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC11.png" width="100" height="100"><br>
+<img src="./NPC11.png" width="75" height="75"><br>
 NPC11.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC12.png" width="100" height="100"><br>
+<img src="./NPC12.png" width="75" height="75"><br>
 NPC12.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC13.png" width="100" height="100"><br>
+<img src="./NPC13.png" width="75" height="75"><br>
 NPC13.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC14.png" width="100" height="100"><br>
+<img src="./NPC14.png" width="75" height="75"><br>
 NPC14.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC15.png" width="100" height="100"><br>
+<img src="./NPC15.png" width="75" height="75"><br>
 NPC15.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC16.png" width="100" height="100"><br>
+<img src="./NPC16.png" width="75" height="75"><br>
 NPC16.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC17.png" width="100" height="100"><br>
+<img src="./NPC17.png" width="75" height="75"><br>
 NPC17.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC18.png" width="100" height="100"><br>
+<img src="./NPC18.png" width="75" height="75"><br>
 NPC18.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC19.png" width="100" height="100"><br>
+<img src="./NPC19.png" width="75" height="75"><br>
 NPC19.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC2.png" width="100" height="100"><br>
+<img src="./NPC2.png" width="75" height="75"><br>
 NPC2.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC20.png" width="100" height="100"><br>
+<img src="./NPC20.png" width="75" height="75"><br>
 NPC20.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC21.png" width="100" height="100"><br>
+<img src="./NPC21.png" width="75" height="75"><br>
 NPC21.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC22.png" width="100" height="100"><br>
+<img src="./NPC22.png" width="75" height="75"><br>
 NPC22.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC23.png" width="100" height="100"><br>
+<img src="./NPC23.png" width="75" height="75"><br>
 NPC23.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC24.png" width="100" height="100"><br>
+<img src="./NPC24.png" width="75" height="75"><br>
 NPC24.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC25.png" width="100" height="100"><br>
+<img src="./NPC25.png" width="75" height="75"><br>
 NPC25.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC26.png" width="100" height="100"><br>
+<img src="./NPC26.png" width="75" height="75"><br>
 NPC26.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC27.png" width="100" height="100"><br>
+<img src="./NPC27.png" width="75" height="75"><br>
 NPC27.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC28.png" width="100" height="100"><br>
+<img src="./NPC28.png" width="75" height="75"><br>
 NPC28.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC282.png" width="100" height="100"><br>
+<img src="./NPC282.png" width="75" height="75"><br>
 NPC282.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC29.png" width="100" height="100"><br>
+<img src="./NPC29.png" width="75" height="75"><br>
 NPC29.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC3.png" width="100" height="100"><br>
+<img src="./NPC3.png" width="75" height="75"><br>
 NPC3.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC30.png" width="100" height="100"><br>
+<img src="./NPC30.png" width="75" height="75"><br>
 NPC30.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC31.png" width="100" height="100"><br>
+<img src="./NPC31.png" width="75" height="75"><br>
 NPC31.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC32.png" width="100" height="100"><br>
+<img src="./NPC32.png" width="75" height="75"><br>
 NPC32.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC33.png" width="100" height="100"><br>
+<img src="./NPC33.png" width="75" height="75"><br>
 NPC33.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC33_1.png" width="100" height="100"><br>
+<img src="./NPC33_1.png" width="75" height="75"><br>
 NPC33_1.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC34.png" width="100" height="100"><br>
+<img src="./NPC34.png" width="75" height="75"><br>
 NPC34.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC34_4.png" width="100" height="100"><br>
+<img src="./NPC34_4.png" width="75" height="75"><br>
 NPC34_4.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC35.png" width="100" height="100"><br>
+<img src="./NPC35.png" width="75" height="75"><br>
 NPC35.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC36.png" width="100" height="100"><br>
+<img src="./NPC36.png" width="75" height="75"><br>
 NPC36.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC36_2.png" width="100" height="100"><br>
+<img src="./NPC36_2.png" width="75" height="75"><br>
 NPC36_2.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC37.png" width="100" height="100"><br>
+<img src="./NPC37.png" width="75" height="75"><br>
 NPC37.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC38.png" width="100" height="100"><br>
+<img src="./NPC38.png" width="75" height="75"><br>
 NPC38.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC39.png" width="100" height="100"><br>
+<img src="./NPC39.png" width="75" height="75"><br>
 NPC39.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC4.png" width="100" height="100"><br>
+<img src="./NPC4.png" width="75" height="75"><br>
 NPC4.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC40.png" width="100" height="100"><br>
+<img src="./NPC40.png" width="75" height="75"><br>
 NPC40.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC41.png" width="100" height="100"><br>
+<img src="./NPC41.png" width="75" height="75"><br>
 NPC41.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC42.png" width="100" height="100"><br>
+<img src="./NPC42.png" width="75" height="75"><br>
 NPC42.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC43.png" width="100" height="100"><br>
+<img src="./NPC43.png" width="75" height="75"><br>
 NPC43.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC44.png" width="100" height="100"><br>
+<img src="./NPC44.png" width="75" height="75"><br>
 NPC44.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC45.png" width="100" height="100"><br>
+<img src="./NPC45.png" width="75" height="75"><br>
 NPC45.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC46.png" width="100" height="100"><br>
+<img src="./NPC46.png" width="75" height="75"><br>
 NPC46.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC47.png" width="100" height="100"><br>
+<img src="./NPC47.png" width="75" height="75"><br>
 NPC47.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC48.png" width="100" height="100"><br>
+<img src="./NPC48.png" width="75" height="75"><br>
 NPC48.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC49.png" width="100" height="100"><br>
+<img src="./NPC49.png" width="75" height="75"><br>
 NPC49.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC49B.png" width="100" height="100"><br>
+<img src="./NPC49B.png" width="75" height="75"><br>
 NPC49B.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC5.png" width="100" height="100"><br>
+<img src="./NPC5.png" width="75" height="75"><br>
 NPC5.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC50.png" width="100" height="100"><br>
+<img src="./NPC50.png" width="75" height="75"><br>
 NPC50.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC51.png" width="100" height="100"><br>
+<img src="./NPC51.png" width="75" height="75"><br>
 NPC51.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC52.png" width="100" height="100"><br>
+<img src="./NPC52.png" width="75" height="75"><br>
 NPC52.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC53.png" width="100" height="100"><br>
+<img src="./NPC53.png" width="75" height="75"><br>
 NPC53.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC54.png" width="100" height="100"><br>
+<img src="./NPC54.png" width="75" height="75"><br>
 NPC54.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC54_2.png" width="100" height="100"><br>
+<img src="./NPC54_2.png" width="75" height="75"><br>
 NPC54_2.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC54_3.png" width="100" height="100"><br>
+<img src="./NPC54_3.png" width="75" height="75"><br>
 NPC54_3.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC54_4.png" width="100" height="100"><br>
+<img src="./NPC54_4.png" width="75" height="75"><br>
 NPC54_4.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC54_5.png" width="100" height="100"><br>
+<img src="./NPC54_5.png" width="75" height="75"><br>
 NPC54_5.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC54_6.png" width="100" height="100"><br>
+<img src="./NPC54_6.png" width="75" height="75"><br>
 NPC54_6.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC55.png" width="100" height="100"><br>
+<img src="./NPC55.png" width="75" height="75"><br>
 NPC55.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC56.png" width="100" height="100"><br>
+<img src="./NPC56.png" width="75" height="75"><br>
 NPC56.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC57.png" width="100" height="100"><br>
+<img src="./NPC57.png" width="75" height="75"><br>
 NPC57.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC58.png" width="100" height="100"><br>
+<img src="./NPC58.png" width="75" height="75"><br>
 NPC58.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC58B.png" width="100" height="100"><br>
+<img src="./NPC58B.png" width="75" height="75"><br>
 NPC58B.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC58_1.png" width="100" height="100"><br>
+<img src="./NPC58_1.png" width="75" height="75"><br>
 NPC58_1.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC59.png" width="100" height="100"><br>
+<img src="./NPC59.png" width="75" height="75"><br>
 NPC59.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC6.png" width="100" height="100"><br>
+<img src="./NPC6.png" width="75" height="75"><br>
 NPC6.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC60.png" width="100" height="100"><br>
+<img src="./NPC60.png" width="75" height="75"><br>
 NPC60.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC61.png" width="100" height="100"><br>
+<img src="./NPC61.png" width="75" height="75"><br>
 NPC61.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC62.png" width="100" height="100"><br>
+<img src="./NPC62.png" width="75" height="75"><br>
 NPC62.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC63.png" width="100" height="100"><br>
+<img src="./NPC63.png" width="75" height="75"><br>
 NPC63.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC64.png" width="100" height="100"><br>
+<img src="./NPC64.png" width="75" height="75"><br>
 NPC64.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC65.png" width="100" height="100"><br>
+<img src="./NPC65.png" width="75" height="75"><br>
 NPC65.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC66.png" width="100" height="100"><br>
+<img src="./NPC66.png" width="75" height="75"><br>
 NPC66.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC67.png" width="100" height="100"><br>
+<img src="./NPC67.png" width="75" height="75"><br>
 NPC67.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC68.png" width="100" height="100"><br>
+<img src="./NPC68.png" width="75" height="75"><br>
 NPC68.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC69.png" width="100" height="100"><br>
+<img src="./NPC69.png" width="75" height="75"><br>
 NPC69.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC7.png" width="100" height="100"><br>
+<img src="./NPC7.png" width="75" height="75"><br>
 NPC7.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC70.png" width="100" height="100"><br>
+<img src="./NPC70.png" width="75" height="75"><br>
 NPC70.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC71.png" width="100" height="100"><br>
+<img src="./NPC71.png" width="75" height="75"><br>
 NPC71.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC72.png" width="100" height="100"><br>
+<img src="./NPC72.png" width="75" height="75"><br>
 NPC72.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC73.png" width="100" height="100"><br>
+<img src="./NPC73.png" width="75" height="75"><br>
 NPC73.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC74.png" width="100" height="100"><br>
+<img src="./NPC74.png" width="75" height="75"><br>
 NPC74.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC75.png" width="100" height="100"><br>
+<img src="./NPC75.png" width="75" height="75"><br>
 NPC75.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC76.png" width="100" height="100"><br>
+<img src="./NPC76.png" width="75" height="75"><br>
 NPC76.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC76B.png" width="100" height="100"><br>
+<img src="./NPC76B.png" width="75" height="75"><br>
 NPC76B.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC76C.png" width="100" height="100"><br>
+<img src="./NPC76C.png" width="75" height="75"><br>
 NPC76C.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC76_1.png" width="100" height="100"><br>
+<img src="./NPC76_1.png" width="75" height="75"><br>
 NPC76_1.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC76_2.png" width="100" height="100"><br>
+<img src="./NPC76_2.png" width="75" height="75"><br>
 NPC76_2.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC77.png" width="100" height="100"><br>
+<img src="./NPC77.png" width="75" height="75"><br>
 NPC77.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC77_1.png" width="100" height="100"><br>
+<img src="./NPC77_1.png" width="75" height="75"><br>
 NPC77_1.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC77_2.png" width="100" height="100"><br>
+<img src="./NPC77_2.png" width="75" height="75"><br>
 NPC77_2.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC78.png" width="100" height="100"><br>
+<img src="./NPC78.png" width="75" height="75"><br>
 NPC78.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC79.png" width="100" height="100"><br>
+<img src="./NPC79.png" width="75" height="75"><br>
 NPC79.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC8.png" width="100" height="100"><br>
+<img src="./NPC8.png" width="75" height="75"><br>
 NPC8.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC80.png" width="100" height="100"><br>
+<img src="./NPC80.png" width="75" height="75"><br>
 NPC80.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC81.png" width="100" height="100"><br>
+<img src="./NPC81.png" width="75" height="75"><br>
 NPC81.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC82.png" width="100" height="100"><br>
+<img src="./NPC82.png" width="75" height="75"><br>
 NPC82.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC83.png" width="100" height="100"><br>
+<img src="./NPC83.png" width="75" height="75"><br>
 NPC83.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC84.png" width="100" height="100"><br>
+<img src="./NPC84.png" width="75" height="75"><br>
 NPC84.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC85.png" width="100" height="100"><br>
+<img src="./NPC85.png" width="75" height="75"><br>
 NPC85.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC9.png" width="100" height="100"><br>
+<img src="./NPC9.png" width="75" height="75"><br>
 NPC9.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC_HACK.png" width="100" height="100"><br>
+<img src="./NPC_HACK.png" width="75" height="75"><br>
 NPC_HACK.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./NPC_VM0.png" width="100" height="100"><br>
+<img src="./NPC_VM0.png" width="75" height="75"><br>
 NPC_VM0.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC_VM1.png" width="100" height="100"><br>
+<img src="./NPC_VM1.png" width="75" height="75"><br>
 NPC_VM1.png
 </td>
 
 <td valign="bottom">
-<img src="./NPC_VM2.png" width="100" height="100"><br>
+<img src="./NPC_VM2.png" width="75" height="75"><br>
 NPC_VM2.png
 </td>
 
 <td valign="bottom">
-<img src="./PAS0.png" width="100" height="100"><br>
+<img src="./PAS0.png" width="75" height="75"><br>
 PAS0.png
 </td>
 
 <td valign="bottom">
-<img src="./PC0.png" width="100" height="100"><br>
+<img src="./PC0.png" width="75" height="75"><br>
 PC0.png
 </td>
 
 <td valign="bottom">
-<img src="./PC0_A.png" width="100" height="100"><br>
+<img src="./PC0_A.png" width="75" height="75"><br>
 PC0_A.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./PC0_B.png" width="100" height="100"><br>
+<img src="./PC0_B.png" width="75" height="75"><br>
 PC0_B.png
 </td>
 
 <td valign="bottom">
-<img src="./PC1.png" width="100" height="100"><br>
+<img src="./PC1.png" width="75" height="75"><br>
 PC1.png
 </td>
 
 <td valign="bottom">
-<img src="./PC1_S.png" width="100" height="100"><br>
+<img src="./PC1_S.png" width="75" height="75"><br>
 PC1_S.png
 </td>
 
 <td valign="bottom">
-<img src="./PC2.png" width="100" height="100"><br>
+<img src="./PC2.png" width="75" height="75"><br>
 PC2.png
 </td>
 
 <td valign="bottom">
-<img src="./PC2_B.png" width="100" height="100"><br>
+<img src="./PC2_B.png" width="75" height="75"><br>
 PC2_B.png
 </td>
 
 <td valign="bottom">
-<img src="./PC2_C.png" width="100" height="100"><br>
+<img src="./PC2_C.png" width="75" height="75"><br>
 PC2_C.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./PC3.png" width="100" height="100"><br>
+<img src="./PC3.png" width="75" height="75"><br>
 PC3.png
 </td>
 
 <td valign="bottom">
-<img src="./PC3_1.png" width="100" height="100"><br>
+<img src="./PC3_1.png" width="75" height="75"><br>
 PC3_1.png
 </td>
 
 <td valign="bottom">
-<img src="./PC3_2.png" width="100" height="100"><br>
+<img src="./PC3_2.png" width="75" height="75"><br>
 PC3_2.png
 </td>
 
 <td valign="bottom">
-<img src="./PC3_3.png" width="100" height="100"><br>
+<img src="./PC3_3.png" width="75" height="75"><br>
 PC3_3.png
 </td>
 
 <td valign="bottom">
-<img src="./PC3_4.png" width="100" height="100"><br>
+<img src="./PC3_4.png" width="75" height="75"><br>
 PC3_4.png
 </td>
 
 <td valign="bottom">
-<img src="./PC3_5.png" width="100" height="100"><br>
+<img src="./PC3_5.png" width="75" height="75"><br>
 PC3_5.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./PC3_6.png" width="100" height="100"><br>
+<img src="./PC3_6.png" width="75" height="75"><br>
 PC3_6.png
 </td>
 
 <td valign="bottom">
-<img src="./PC3_6B.png" width="100" height="100"><br>
+<img src="./PC3_6B.png" width="75" height="75"><br>
 PC3_6B.png
 </td>
 
 <td valign="bottom">
-<img src="./PC3_6C.png" width="100" height="100"><br>
+<img src="./PC3_6C.png" width="75" height="75"><br>
 PC3_6C.png
 </td>
 
 <td valign="bottom">
-<img src="./PC3_6D.png" width="100" height="100"><br>
+<img src="./PC3_6D.png" width="75" height="75"><br>
 PC3_6D.png
 </td>
 
 <td valign="bottom">
-<img src="./planer.png" width="100" height="100"><br>
+<img src="./planer.png" width="75" height="75"><br>
 planer.png
 </td>
 
 <td valign="bottom">
-<img src="./planer2.png" width="100" height="100"><br>
+<img src="./planer2.png" width="75" height="75"><br>
 planer2.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./planer3.png" width="100" height="100"><br>
+<img src="./planer3.png" width="75" height="75"><br>
 planer3.png
 </td>
 
 <td valign="bottom">
-<img src="./planer4.png" width="100" height="100"><br>
+<img src="./planer4.png" width="75" height="75"><br>
 planer4.png
 </td>
 
 <td valign="bottom">
-<img src="./planer4B.png" width="100" height="100"><br>
+<img src="./planer4B.png" width="75" height="75"><br>
 planer4B.png
 </td>
 
 <td valign="bottom">
-<img src="./planer5.png" width="100" height="100"><br>
+<img src="./planer5.png" width="75" height="75"><br>
 planer5.png
 </td>
 
 <td valign="bottom">
-<img src="./planer6.png" width="100" height="100"><br>
+<img src="./planer6.png" width="75" height="75"><br>
 planer6.png
 </td>
 
 <td valign="bottom">
-<img src="./planer67.png" width="100" height="100"><br>
+<img src="./planer67.png" width="75" height="75"><br>
 planer67.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./planer68.png" width="100" height="100"><br>
+<img src="./planer68.png" width="75" height="75"><br>
 planer68.png
 </td>
 
 <td valign="bottom">
-<img src="./planer8.png" width="100" height="100"><br>
+<img src="./planer8.png" width="75" height="75"><br>
 planer8.png
 </td>
 
 <td valign="bottom">
-<img src="./planer9.png" width="100" height="100"><br>
+<img src="./planer9.png" width="75" height="75"><br>
 planer9.png
 </td>
 
 <td valign="bottom">
-<img src="./PLN0.png" width="100" height="100"><br>
+<img src="./PLN0.png" width="75" height="75"><br>
 PLN0.png
 </td>
 
 <td valign="bottom">
-<img src="./PLN1.png" width="100" height="100"><br>
+<img src="./PLN1.png" width="75" height="75"><br>
 PLN1.png
 </td>
 
 <td valign="bottom">
-<img src="./PLN12.png" width="100" height="100"><br>
+<img src="./PLN12.png" width="75" height="75"><br>
 PLN12.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./PLN122.png" width="100" height="100"><br>
+<img src="./PLN122.png" width="75" height="75"><br>
 PLN122.png
 </td>
 
 <td valign="bottom">
-<img src="./PLN2.png" width="100" height="100"><br>
+<img src="./PLN2.png" width="75" height="75"><br>
 PLN2.png
 </td>
 
 <td valign="bottom">
-<img src="./PLN2_0.png" width="100" height="100"><br>
+<img src="./PLN2_0.png" width="75" height="75"><br>
 PLN2_0.png
 </td>
 
 <td valign="bottom">
-<img src="./PLN2_2.png" width="100" height="100"><br>
+<img src="./PLN2_2.png" width="75" height="75"><br>
 PLN2_2.png
 </td>
 
 <td valign="bottom">
-<img src="./PLN2_3.png" width="100" height="100"><br>
+<img src="./PLN2_3.png" width="75" height="75"><br>
 PLN2_3.png
 </td>
 
 <td valign="bottom">
-<img src="./PLN2_4.png" width="100" height="100"><br>
+<img src="./PLN2_4.png" width="75" height="75"><br>
 PLN2_4.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./PLN3.png" width="100" height="100"><br>
+<img src="./PLN3.png" width="75" height="75"><br>
 PLN3.png
 </td>
 
 <td valign="bottom">
-<img src="./PLN32.png" width="100" height="100"><br>
+<img src="./PLN32.png" width="75" height="75"><br>
 PLN32.png
 </td>
 
 <td valign="bottom">
-<img src="./PLN4.png" width="100" height="100"><br>
+<img src="./PLN4.png" width="75" height="75"><br>
 PLN4.png
 </td>
 
 <td valign="bottom">
-<img src="./PLN5.png" width="100" height="100"><br>
+<img src="./PLN5.png" width="75" height="75"><br>
 PLN5.png
 </td>
 
 <td valign="bottom">
-<img src="./PLN6.png" width="100" height="100"><br>
+<img src="./PLN6.png" width="75" height="75"><br>
 PLN6.png
 </td>
 
 <td valign="bottom">
-<img src="./RND0.png" width="100" height="100"><br>
+<img src="./RND0.png" width="75" height="75"><br>
 RND0.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./RND1.png" width="100" height="100"><br>
+<img src="./RND1.png" width="75" height="75"><br>
 RND1.png
 </td>
 
 <td valign="bottom">
-<img src="./RND2.png" width="100" height="100"><br>
+<img src="./RND2.png" width="75" height="75"><br>
 RND2.png
 </td>
 
 <td valign="bottom">
-<img src="./RND3.png" width="100" height="100"><br>
+<img src="./RND3.png" width="75" height="75"><br>
 RND3.png
 </td>
 
 <td valign="bottom">
-<img src="./RND4.png" width="100" height="100"><br>
+<img src="./RND4.png" width="75" height="75"><br>
 RND4.png
 </td>
 
 <td valign="bottom">
-<img src="./RND5.png" width="100" height="100"><br>
+<img src="./RND5.png" width="75" height="75"><br>
 RND5.png
 </td>
 
 <td valign="bottom">
-<img src="./Solditer.png" width="100" height="100"><br>
+<img src="./Solditer.png" width="75" height="75"><br>
 Solditer.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./Solditer1.png" width="100" height="100"><br>
+<img src="./Solditer1.png" width="75" height="75"><br>
 Solditer1.png
 </td>
 
 <td valign="bottom">
-<img src="./Solditer2.png" width="100" height="100"><br>
+<img src="./Solditer2.png" width="75" height="75"><br>
 Solditer2.png
 </td>
 
 <td valign="bottom">
-<img src="./Solditer3.png" width="100" height="100"><br>
+<img src="./Solditer3.png" width="75" height="75"><br>
 Solditer3.png
 </td>
 
 <td valign="bottom">
-<img src="./Solditer3B.png" width="100" height="100"><br>
+<img src="./Solditer3B.png" width="75" height="75"><br>
 Solditer3B.png
 </td>
 
 <td valign="bottom">
-<img src="./SPR.png" width="100" height="100"><br>
+<img src="./SPR.png" width="75" height="75"><br>
 SPR.png
 </td>
 
 <td valign="bottom">
-<img src="./SPR_B.png" width="100" height="100"><br>
+<img src="./SPR_B.png" width="75" height="75"><br>
 SPR_B.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./UND0.png" width="100" height="100"><br>
+<img src="./UND0.png" width="75" height="75"><br>
 UND0.png
 </td>
 
 <td valign="bottom">
-<img src="./UND1.png" width="100" height="100"><br>
+<img src="./UND1.png" width="75" height="75"><br>
 UND1.png
 </td>
 
 <td valign="bottom">
-<img src="./UND2.png" width="100" height="100"><br>
+<img src="./UND2.png" width="75" height="75"><br>
 UND2.png
 </td>
 
 <td valign="bottom">
-<img src="./YAG0.png" width="100" height="100"><br>
+<img src="./YAG0.png" width="75" height="75"><br>
 YAG0.png
 </td>
 
 <td valign="bottom">
-<img src="./YAG1.png" width="100" height="100"><br>
+<img src="./YAG1.png" width="75" height="75"><br>
 YAG1.png
 </td>
 
 <td valign="bottom">
-<img src="./КФЕ2.png" width="100" height="100"><br>
+<img src="./КФЕ2.png" width="75" height="75"><br>
 КФЕ2.png
 </td>
 

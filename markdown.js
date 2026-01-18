@@ -46,7 +46,7 @@ fs.readdirSync(element).forEach((image) => {
     nbImages++;
     mdContent += `
 <td valign="bottom">
-<img src="./${image}" width="100" height="100"><br>
+<img src="./${image}" width="75" height="75"><br>
 ${image}
 </td>
 `;
