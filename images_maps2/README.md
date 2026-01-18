@@ -95,6 +95,18 @@
 </td>
 
 <td valign="bottom">
+<img src="./LAIR_REO.jpg" width="100" height="100"><br>
+<sup>LAIR_REO.jpg</sup>
+</td>
+
+<td valign="bottom">
+<img src="./LAIR_REO.png" width="100" height="100"><br>
+<sup>LAIR_REO.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
 <img src="./Mns.jpg" width="100" height="100"><br>
 <sup>Mns.jpg</sup>
 </td>
@@ -104,8 +116,6 @@
 <sup>Ring_Battle.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SPACE_C.jpg" width="100" height="100"><br>
 <sup>SPACE_C.jpg</sup>
