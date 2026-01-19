@@ -420,12 +420,17 @@
 </td>
 
 <td valign="bottom">
-<img src="./tile_circle.png" width="100" height="100"><br>
-<sup>tile_circle.png</sup>
+<img src="./TENT.png" width="100" height="100"><br>
+<sup>TENT.png</sup>
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./tile_circle.png" width="100" height="100"><br>
+<sup>tile_circle.png</sup>
+</td>
+
 <td valign="bottom">
 <img src="./tile_cube.png" width="100" height="100"><br>
 <sup>tile_cube.png</sup>
@@ -451,6 +456,8 @@
 <sup>__MAP_Snow0.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ЫShine.png" width="100" height="100"><br>
 <sup>ЫShine.png</sup>
