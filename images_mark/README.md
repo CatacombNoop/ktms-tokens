@@ -139,6 +139,11 @@
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./JSF3.png" width="100" height="100"><br>
+<sup>JSF3.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./MTN.png" width="100" height="100"><br>
 <sup>MTN.png</sup>
 </td>
@@ -163,13 +168,13 @@
 <sup>MTN5.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MTN6.png" width="100" height="100"><br>
 <sup>MTN6.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MTN7.png" width="100" height="100"><br>
 <sup>MTN7.png</sup>
@@ -195,13 +200,13 @@
 <sup>SEIR.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./starrrr.png" width="100" height="100"><br>
 <sup>starrrr.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./S_TK.png" width="100" height="100"><br>
 <sup>S_TK.png</sup>
@@ -227,13 +232,13 @@
 <sup>TIH1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_1_14.png" width="100" height="100"><br>
 <sup>token_1_14.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_1_20.png" width="100" height="100"><br>
 <sup>token_1_20.png</sup>
@@ -259,13 +264,13 @@
 <sup>token_4_2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TRADER.png" width="100" height="100"><br>
 <sup>TRADER.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TRC0.png" width="100" height="100"><br>
 <sup>TRC0.png</sup>
