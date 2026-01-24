@@ -90,8 +90,8 @@
 </td>
 
 <td valign="bottom">
-<img src="./LAIR_DEEP_INFO.png" width="100" height="100"><br>
-<sup>LAIR_DEEP_INFO.png</sup>
+<img src="./LAIR_DEEP_INFO2.png" width="100" height="100"><br>
+<sup>LAIR_DEEP_INFO2.png</sup>
 </td>
 
 <td valign="bottom">
