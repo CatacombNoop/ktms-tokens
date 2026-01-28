@@ -437,6 +437,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Stone.png" width="100" height="100"><br>
+<sup>Stone.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./table.png" width="100" height="100"><br>
 <sup>table.png</sup>
 </td>
@@ -451,13 +456,13 @@
 <sup>tile_circle.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./tile_cube.png" width="100" height="100"><br>
 <sup>tile_cube.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WATER.png" width="100" height="100"><br>
 <sup>WATER.png</sup>
