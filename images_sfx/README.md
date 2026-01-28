@@ -267,6 +267,11 @@
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./Secret_Trap.png" width="100" height="100"><br>
+<sup>Secret_Trap.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./SG_Ballista (2x2).png" width="100" height="100"><br>
 <sup>SG_Ballista (2x2).png</sup>
 </td>
@@ -291,13 +296,13 @@
 <sup>SG_Cannon, swivel (3x3).png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SG_Catapult (3x3).png" width="100" height="100"><br>
 <sup>SG_Catapult (3x3).png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SG_Catapult, great (4x4).png" width="100" height="100"><br>
 <sup>SG_Catapult, great (4x4).png</sup>
@@ -323,13 +328,13 @@
 <sup>SG_Siege Tower (4x4).png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SG_Siege Tower, bridge (4x3).png" width="100" height="100"><br>
 <sup>SG_Siege Tower, bridge (4x3).png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SG_Trebuchet (3x4).png" width="100" height="100"><br>
 <sup>SG_Trebuchet (3x4).png</sup>
@@ -355,13 +360,13 @@
 <sup>Sky_fire.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Smoke.png" width="100" height="100"><br>
 <sup>Smoke.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space.png" width="100" height="100"><br>
 <sup>Space.png</sup>
@@ -387,13 +392,13 @@
 <sup>Space3_3.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space_ER.png" width="100" height="100"><br>
 <sup>Space_ER.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space_ER1.png" width="100" height="100"><br>
 <sup>Space_ER1.png</sup>
@@ -419,13 +424,13 @@
 <sup>Space_KP_t.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Spark_Explosion.png" width="100" height="100"><br>
 <sup>Spark_Explosion.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Spark_Explosion2.png" width="100" height="100"><br>
 <sup>Spark_Explosion2.png</sup>
@@ -451,13 +456,13 @@
 <sup>table.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TENT.png" width="100" height="100"><br>
 <sup>TENT.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./tile_circle.png" width="100" height="100"><br>
 <sup>tile_circle.png</sup>
@@ -483,13 +488,13 @@
 <sup>WindHit.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./__MAP_Snow0.jpg" width="100" height="100"><br>
 <sup>__MAP_Snow0.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ЫShine.png" width="100" height="100"><br>
 <sup>ЫShine.png</sup>
