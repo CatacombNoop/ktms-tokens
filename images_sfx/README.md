@@ -58,8 +58,8 @@
 </td>
 
 <td valign="bottom">
-<img src="./Chest3.png" width="100" height="100"><br>
-<sup>Chest3.png</sup>
+<img src="./Chest2.png" width="100" height="100"><br>
+<sup>Chest2.png</sup>
 </td>
 
 <td valign="bottom">
