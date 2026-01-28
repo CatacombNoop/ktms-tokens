@@ -58,6 +58,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Chest3.png" width="100" height="100"><br>
+<sup>Chest3.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./chesy2.png" width="100" height="100"><br>
 <sup>chesy2.png</sup>
 </td>
@@ -67,13 +72,13 @@
 <sup>circ.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./cloud.png" width="100" height="100"><br>
 <sup>cloud.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Cone_Shot.png" width="100" height="100"><br>
 <sup>Cone_Shot.png</sup>
@@ -99,13 +104,13 @@
 <sup>CR1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./CR2.png" width="100" height="100"><br>
 <sup>CR2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Cut.png" width="100" height="100"><br>
 <sup>Cut.png</sup>
@@ -131,13 +136,13 @@
 <sup>DeathCircle2B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DeathCircle3.png" width="100" height="100"><br>
 <sup>DeathCircle3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DivineWeapon.png" width="100" height="100"><br>
 <sup>DivineWeapon.png</sup>
@@ -163,13 +168,13 @@
 <sup>Fireball.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Fireball2.png" width="100" height="100"><br>
 <sup>Fireball2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Fireball_Cone.png" width="100" height="100"><br>
 <sup>Fireball_Cone.png</sup>
@@ -195,13 +200,13 @@
 <sup>Golden sword.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Golden sword222.png" width="100" height="100"><br>
 <sup>Golden sword222.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Graav.png" width="100" height="100"><br>
 <sup>Graav.png</sup>
@@ -227,13 +232,13 @@
 <sup>lamp.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MindSlash.png" width="100" height="100"><br>
 <sup>MindSlash.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MindSlash_Cone.png" width="100" height="100"><br>
 <sup>MindSlash_Cone.png</sup>
@@ -259,13 +264,13 @@
 <sup>SG_Ballista, great (5x3).png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SG_Cannon (3x3).png" width="100" height="100"><br>
 <sup>SG_Cannon (3x3).png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SG_Cannon, great (3x4).png" width="100" height="100"><br>
 <sup>SG_Cannon, great (3x4).png</sup>
@@ -291,13 +296,13 @@
 <sup>SG_Siege Ladder (1x6).png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SG_Siege Ladder, raised (1x2).png" width="100" height="100"><br>
 <sup>SG_Siege Ladder, raised (1x2).png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SG_Siege Ram (3x4).png" width="100" height="100"><br>
 <sup>SG_Siege Ram (3x4).png</sup>
@@ -323,13 +328,13 @@
 <sup>Shot_M.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Shot_M2.png" width="100" height="100"><br>
 <sup>Shot_M2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Shot_M22.png" width="100" height="100"><br>
 <sup>Shot_M22.png</sup>
@@ -355,13 +360,13 @@
 <sup>Space2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space3.png" width="100" height="100"><br>
 <sup>Space3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space3_2.png" width="100" height="100"><br>
 <sup>Space3_2.png</sup>
@@ -387,13 +392,13 @@
 <sup>Space_ER1_t.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space_ER_t.png" width="100" height="100"><br>
 <sup>Space_ER_t.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space_KP.png" width="100" height="100"><br>
 <sup>Space_KP.png</sup>
@@ -415,6 +420,18 @@
 </td>
 
 <td valign="bottom">
+<img src="./Stair_DW.png" width="100" height="100"><br>
+<sup>Stair_DW.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Stair_UP.png" width="100" height="100"><br>
+<sup>Stair_UP.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./table.png" width="100" height="100"><br>
 <sup>table.png</sup>
 </td>
@@ -424,8 +441,6 @@
 <sup>TENT.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./tile_circle.png" width="100" height="100"><br>
 <sup>tile_circle.png</sup>
@@ -441,6 +456,8 @@
 <sup>WATER.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WaterHit.png" width="100" height="100"><br>
 <sup>WaterHit.png</sup>
@@ -456,8 +473,6 @@
 <sup>__MAP_Snow0.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ЫShine.png" width="100" height="100"><br>
 <sup>ЫShine.png</sup>
