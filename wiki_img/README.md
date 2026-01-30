@@ -432,6 +432,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./WMAP_CUT" width="100" height="100"><br>
+<sup>WMAP_CUT</sup>
+</td>
+
+<td valign="bottom">
 <img src="./ZLATO.png" width="100" height="100"><br>
 <sup>ZLATO.png</sup>
 </td>
