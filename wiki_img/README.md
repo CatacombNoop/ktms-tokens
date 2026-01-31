@@ -427,6 +427,11 @@
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./WISE_SHRINE.png" width="100" height="100"><br>
+<sup>WISE_SHRINE.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./WMAP.jpg" width="100" height="100"><br>
 <sup>WMAP.jpg</sup>
 </td>
