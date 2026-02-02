@@ -112,6 +112,21 @@
 </td>
 
 <td valign="bottom">
+<img src="./crg0_7x9.png" width="100" height="100"><br>
+<sup>crg0_7x9.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./crg1_7x9.png" width="100" height="100"><br>
+<sup>crg1_7x9.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./crg2_7x9.png" width="100" height="100"><br>
+<sup>crg2_7x9.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Cut.png" width="100" height="100"><br>
 <sup>Cut.png</sup>
 </td>
@@ -121,6 +136,8 @@
 <sup>Darkness_spell.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DeathCircle.png" width="100" height="100"><br>
 <sup>DeathCircle.png</sup>
@@ -136,8 +153,6 @@
 <sup>DeathCircle2B.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DeathCircle3.png" width="100" height="100"><br>
 <sup>DeathCircle3.png</sup>
@@ -153,6 +168,8 @@
 <sup>DivineWeapon2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Electro.png" width="100" height="100"><br>
 <sup>Electro.png</sup>
@@ -168,8 +185,6 @@
 <sup>Fireball.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Fireball2.png" width="100" height="100"><br>
 <sup>Fireball2.png</sup>
@@ -185,6 +200,8 @@
 <sup>Fire_hell.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ForceCircle.png" width="100" height="100"><br>
 <sup>ForceCircle.png</sup>
@@ -200,8 +217,6 @@
 <sup>Golden sword.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Golden sword222.png" width="100" height="100"><br>
 <sup>Golden sword222.png</sup>
@@ -217,6 +232,8 @@
 <sup>Graav2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./GreenFire.png" width="100" height="100"><br>
 <sup>GreenFire.png</sup>
@@ -232,8 +249,6 @@
 <sup>lamp.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MindSlash.png" width="100" height="100"><br>
 <sup>MindSlash.png</sup>
@@ -249,6 +264,8 @@
 <sup>point.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./POINT3.png" width="100" height="100"><br>
 <sup>POINT3.png</sup>
@@ -264,8 +281,6 @@
 <sup>Secret_Open.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Secret_Trap.png" width="100" height="100"><br>
 <sup>Secret_Trap.png</sup>
@@ -281,6 +296,8 @@
 <sup>SG_Ballista, great (5x3).png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SG_Cannon (3x3).png" width="100" height="100"><br>
 <sup>SG_Cannon (3x3).png</sup>
@@ -296,8 +313,6 @@
 <sup>SG_Cannon, swivel (3x3).png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SG_Catapult (3x3).png" width="100" height="100"><br>
 <sup>SG_Catapult (3x3).png</sup>
@@ -313,6 +328,8 @@
 <sup>SG_Siege Ladder (1x6).png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SG_Siege Ladder, raised (1x2).png" width="100" height="100"><br>
 <sup>SG_Siege Ladder, raised (1x2).png</sup>
@@ -328,8 +345,6 @@
 <sup>SG_Siege Tower (4x4).png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SG_Siege Tower, bridge (4x3).png" width="100" height="100"><br>
 <sup>SG_Siege Tower, bridge (4x3).png</sup>
@@ -345,6 +360,8 @@
 <sup>Shot_M.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Shot_M2.png" width="100" height="100"><br>
 <sup>Shot_M2.png</sup>
@@ -360,8 +377,6 @@
 <sup>Sky_fire.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Smoke.png" width="100" height="100"><br>
 <sup>Smoke.png</sup>
@@ -377,6 +392,8 @@
 <sup>Space2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space3.png" width="100" height="100"><br>
 <sup>Space3.png</sup>
@@ -392,8 +409,6 @@
 <sup>Space3_3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space_ER.png" width="100" height="100"><br>
 <sup>Space_ER.png</sup>
@@ -409,6 +424,8 @@
 <sup>Space_ER1_t.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space_ER_t.png" width="100" height="100"><br>
 <sup>Space_ER_t.png</sup>
@@ -424,8 +441,6 @@
 <sup>Space_KP_t.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Spark_Explosion.png" width="100" height="100"><br>
 <sup>Spark_Explosion.png</sup>
@@ -441,6 +456,8 @@
 <sup>Stair_DW.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Stair_UP.png" width="100" height="100"><br>
 <sup>Stair_UP.png</sup>
@@ -456,8 +473,6 @@
 <sup>table.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TENT.png" width="100" height="100"><br>
 <sup>TENT.png</sup>
@@ -473,6 +488,8 @@
 <sup>tile_cube.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WATER.png" width="100" height="100"><br>
 <sup>WATER.png</sup>
@@ -488,8 +505,6 @@
 <sup>WindHit.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./__MAP_Snow0.jpg" width="100" height="100"><br>
 <sup>__MAP_Snow0.jpg</sup>
