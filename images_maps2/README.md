@@ -122,6 +122,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./LAST ROOM.jpg" width="100" height="100"><br>
+<sup>LAST ROOM.jpg</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Mns.jpg" width="100" height="100"><br>
 <sup>Mns.jpg</sup>
 </td>
@@ -131,13 +136,13 @@
 <sup>Ring_Battle.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./row-1-column-1.jpg" width="100" height="100"><br>
 <sup>row-1-column-1.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./row-1-column-2.jpg" width="100" height="100"><br>
 <sup>row-1-column-2.jpg</sup>
