@@ -299,6 +299,48 @@
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./WX0.png" width="100" height="100"><br>
+<sup>WX0.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./WX1.png" width="100" height="100"><br>
+<sup>WX1.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./WX2.png" width="100" height="100"><br>
+<sup>WX2.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./WX3.png" width="100" height="100"><br>
+<sup>WX3.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./WX4.png" width="100" height="100"><br>
+<sup>WX4.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./WX5.png" width="100" height="100"><br>
+<sup>WX5.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./WX6.png" width="100" height="100"><br>
+<sup>WX6.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./WX7.png" width="100" height="100"><br>
+<sup>WX7.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./еаа.png" width="100" height="100"><br>
 <sup>еаа.png</sup>
 </td>

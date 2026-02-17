@@ -36,12 +36,17 @@
 </td>
 
 <td valign="bottom">
-<img src="./HellFortress.png" width="100" height="100"><br>
-<sup>HellFortress.png</sup>
+<img src="./gr_map.png" width="100" height="100"><br>
+<sup>gr_map.png</sup>
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./HellFortress.png" width="100" height="100"><br>
+<sup>HellFortress.png</sup>
+</td>
+
 <td valign="bottom">
 <img src="./Jung.jpg" width="100" height="100"><br>
 <sup>Jung.jpg</sup>
@@ -67,13 +72,13 @@
 <sup>JungCT2.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JungCT3.jpg" width="100" height="100"><br>
 <sup>JungCT3.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LAIR-INFO.png" width="100" height="100"><br>
 <sup>LAIR-INFO.png</sup>
@@ -99,13 +104,13 @@
 <sup>LAIR_j.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LAIR_REO.jpg" width="100" height="100"><br>
 <sup>LAIR_REO.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LAIR_REO.png" width="100" height="100"><br>
 <sup>LAIR_REO.png</sup>
@@ -131,13 +136,13 @@
 <sup>Mns.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Ring_Battle.jpg" width="100" height="100"><br>
 <sup>Ring_Battle.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./row-1-column-1.jpg" width="100" height="100"><br>
 <sup>row-1-column-1.jpg</sup>
@@ -163,6 +168,8 @@
 <sup>SPACE_C.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ZVND0.jpg" width="100" height="100"><br>
 <sup>ZVND0.jpg</sup>
