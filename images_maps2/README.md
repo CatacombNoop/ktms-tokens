@@ -175,4 +175,9 @@
 <sup>ZVND0.jpg</sup>
 </td>
 
+<td valign="bottom">
+<img src="./ZVND1.png" width="100" height="100"><br>
+<sup>ZVND1.png</sup>
+</td>
+
 </tr></table>
