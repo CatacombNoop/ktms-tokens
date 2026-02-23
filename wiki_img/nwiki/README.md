@@ -20,4 +20,9 @@
 <sup>magic_hat.png</sup>
 </td>
 
+<td valign="bottom">
+<img src="./Ring_Retribution.png" width="100" height="100"><br>
+<sup>Ring_Retribution.png</sup>
+</td>
+
 </tr></table>
