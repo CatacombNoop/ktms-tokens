@@ -11,6 +11,11 @@
 <table><tr>
 <tr>
 <td valign="bottom">
+<img src="./Grimoire_of_the_Blood_Pact.jpg" width="100" height="100"><br>
+<sup>Grimoire_of_the_Blood_Pact.jpg</sup>
+</td>
+
+<td valign="bottom">
 <img src="./magic_hat.png" width="100" height="100"><br>
 <sup>magic_hat.png</sup>
 </td>
