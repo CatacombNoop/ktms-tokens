@@ -368,6 +368,16 @@
 </td>
 
 <td valign="bottom">
+<img src="./ZK.png" width="100" height="100"><br>
+<sup>ZK.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./ZK1.png" width="100" height="100"><br>
+<sup>ZK1.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./еаа.png" width="100" height="100"><br>
 <sup>еаа.png</sup>
 </td>

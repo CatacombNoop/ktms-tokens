@@ -368,6 +368,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./nwiki" width="100" height="100"><br>
+<sup>nwiki</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Skill_Check_DC_0.png" width="100" height="100"><br>
 <sup>Skill_Check_DC_0.png</sup>
 </td>
@@ -387,13 +392,13 @@
 <sup>STYX.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./STYX2.png" width="100" height="100"><br>
 <sup>STYX2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./STYX3.png" width="100" height="100"><br>
 <sup>STYX3.png</sup>
@@ -419,13 +424,13 @@
 <sup>SWORDD4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Vilia 2023-06-14-10-56.png" width="100" height="100"><br>
 <sup>Vilia 2023-06-14-10-56.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WISE_SHRINE.png" width="100" height="100"><br>
 <sup>WISE_SHRINE.png</sup>
