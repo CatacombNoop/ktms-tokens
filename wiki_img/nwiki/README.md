@@ -16,6 +16,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Elf_Medal.png" width="100" height="100"><br>
+<sup>Elf_Medal.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Grimoire_of_the_Blood_Pact.jpg" width="100" height="100"><br>
 <sup>Grimoire_of_the_Blood_Pact.jpg</sup>
 </td>
@@ -35,6 +40,8 @@
 <sup>Ring_Retribution.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Star_Musket.png" width="100" height="100"><br>
 <sup>Star_Musket.png</sup>
