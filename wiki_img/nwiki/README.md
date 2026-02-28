@@ -255,17 +255,22 @@
 </td>
 
 <td valign="bottom">
+<img src="./Orich_Gauntlets.png" width="100" height="100"><br>
+<sup>Orich_Gauntlets.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Powerarmor.png" width="100" height="100"><br>
 <sup>Powerarmor.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Rage_Ring.png" width="100" height="100"><br>
 <sup>Rage_Ring.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Resurect_Ring.png" width="100" height="100"><br>
 <sup>Resurect_Ring.png</sup>
@@ -291,13 +296,13 @@
 <sup>Spark_Container.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Star_Musket.png" width="100" height="100"><br>
 <sup>Star_Musket.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Trident.png" width="100" height="100"><br>
 <sup>Trident.png</sup>
