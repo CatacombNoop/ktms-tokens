@@ -26,6 +26,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./AZR_GS0.png" width="100" height="100"><br>
+<sup>AZR_GS0.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./A_SLD0.png" width="100" height="100"><br>
 <sup>A_SLD0.png</sup>
 </td>
@@ -35,13 +40,13 @@
 <sup>A_SLD1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./A_SLD1_A.png" width="100" height="100"><br>
 <sup>A_SLD1_A.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./A_SLD2.png" width="100" height="100"><br>
 <sup>A_SLD2.png</sup>
@@ -67,13 +72,13 @@
 <sup>BLD2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./BRA0].png" width="100" height="100"><br>
 <sup>BRA0].png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./BRA1.png" width="100" height="100"><br>
 <sup>BRA1.png</sup>
@@ -99,13 +104,13 @@
 <sup>FEDT1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./FEDT2.png" width="100" height="100"><br>
 <sup>FEDT2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./FEDT3.png" width="100" height="100"><br>
 <sup>FEDT3.png</sup>
@@ -131,13 +136,13 @@
 <sup>ILL1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ILL2.png" width="100" height="100"><br>
 <sup>ILL2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ILLARIA0.png" width="100" height="100"><br>
 <sup>ILLARIA0.png</sup>
@@ -163,13 +168,13 @@
 <sup>KILLER0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./machinegun.png" width="100" height="100"><br>
 <sup>machinegun.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MIKU0.png" width="100" height="100"><br>
 <sup>MIKU0.png</sup>
@@ -195,13 +200,13 @@
 <sup>NPC1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC10.png" width="100" height="100"><br>
 <sup>NPC10.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC11.png" width="100" height="100"><br>
 <sup>NPC11.png</sup>
@@ -227,13 +232,13 @@
 <sup>NPC15.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC16.png" width="100" height="100"><br>
 <sup>NPC16.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC17.png" width="100" height="100"><br>
 <sup>NPC17.png</sup>
@@ -259,13 +264,13 @@
 <sup>NPC20.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC21.png" width="100" height="100"><br>
 <sup>NPC21.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC22.png" width="100" height="100"><br>
 <sup>NPC22.png</sup>
@@ -291,13 +296,13 @@
 <sup>NPC26.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC27.png" width="100" height="100"><br>
 <sup>NPC27.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC28.png" width="100" height="100"><br>
 <sup>NPC28.png</sup>
@@ -323,13 +328,13 @@
 <sup>NPC30.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC31.png" width="100" height="100"><br>
 <sup>NPC31.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC32.png" width="100" height="100"><br>
 <sup>NPC32.png</sup>
@@ -355,13 +360,13 @@
 <sup>NPC34_4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC35.png" width="100" height="100"><br>
 <sup>NPC35.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC36.png" width="100" height="100"><br>
 <sup>NPC36.png</sup>
@@ -387,13 +392,13 @@
 <sup>NPC39.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC4.png" width="100" height="100"><br>
 <sup>NPC4.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC40.png" width="100" height="100"><br>
 <sup>NPC40.png</sup>
@@ -419,13 +424,13 @@
 <sup>NPC44.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC45.png" width="100" height="100"><br>
 <sup>NPC45.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC46.png" width="100" height="100"><br>
 <sup>NPC46.png</sup>
@@ -451,13 +456,13 @@
 <sup>NPC49B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC5.png" width="100" height="100"><br>
 <sup>NPC5.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC50.png" width="100" height="100"><br>
 <sup>NPC50.png</sup>
@@ -483,13 +488,13 @@
 <sup>NPC54.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC54_2.png" width="100" height="100"><br>
 <sup>NPC54_2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC54_3.png" width="100" height="100"><br>
 <sup>NPC54_3.png</sup>
@@ -515,13 +520,13 @@
 <sup>NPC55.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC56.png" width="100" height="100"><br>
 <sup>NPC56.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC57.png" width="100" height="100"><br>
 <sup>NPC57.png</sup>
@@ -547,13 +552,13 @@
 <sup>NPC59.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC6.png" width="100" height="100"><br>
 <sup>NPC6.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC60.png" width="100" height="100"><br>
 <sup>NPC60.png</sup>
@@ -579,13 +584,13 @@
 <sup>NPC64.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC65.png" width="100" height="100"><br>
 <sup>NPC65.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC66.png" width="100" height="100"><br>
 <sup>NPC66.png</sup>
@@ -611,13 +616,13 @@
 <sup>NPC7.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC70.png" width="100" height="100"><br>
 <sup>NPC70.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC71.png" width="100" height="100"><br>
 <sup>NPC71.png</sup>
@@ -643,13 +648,13 @@
 <sup>NPC75.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC76.png" width="100" height="100"><br>
 <sup>NPC76.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC76B.png" width="100" height="100"><br>
 <sup>NPC76B.png</sup>
@@ -675,13 +680,13 @@
 <sup>NPC77.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC77_1.png" width="100" height="100"><br>
 <sup>NPC77_1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC77_2.png" width="100" height="100"><br>
 <sup>NPC77_2.png</sup>
@@ -707,13 +712,13 @@
 <sup>NPC80.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC81.png" width="100" height="100"><br>
 <sup>NPC81.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC82.png" width="100" height="100"><br>
 <sup>NPC82.png</sup>
@@ -739,13 +744,13 @@
 <sup>NPC9.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./NPC_HACK.png" width="100" height="100"><br>
 <sup>NPC_HACK.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NPC_VM0.png" width="100" height="100"><br>
 <sup>NPC_VM0.png</sup>
@@ -771,13 +776,13 @@
 <sup>PC0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PC0_A.png" width="100" height="100"><br>
 <sup>PC0_A.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PC0_B.png" width="100" height="100"><br>
 <sup>PC0_B.png</sup>
@@ -803,13 +808,13 @@
 <sup>PC2_B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PC2_C.png" width="100" height="100"><br>
 <sup>PC2_C.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PC3.png" width="100" height="100"><br>
 <sup>PC3.png</sup>
@@ -835,13 +840,13 @@
 <sup>PC3_4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PC3_5.png" width="100" height="100"><br>
 <sup>PC3_5.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PC3_6.png" width="100" height="100"><br>
 <sup>PC3_6.png</sup>
@@ -867,13 +872,13 @@
 <sup>planer.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./planer2.png" width="100" height="100"><br>
 <sup>planer2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./planer3.png" width="100" height="100"><br>
 <sup>planer3.png</sup>
@@ -899,13 +904,13 @@
 <sup>planer6.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./planer67.png" width="100" height="100"><br>
 <sup>planer67.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./planer68.png" width="100" height="100"><br>
 <sup>planer68.png</sup>
@@ -922,10 +927,17 @@
 </td>
 
 <td valign="bottom">
+<img src="./planer_pl.png" width="100" height="100"><br>
+<sup>planer_pl.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./PLN0.png" width="100" height="100"><br>
 <sup>PLN0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN1.png" width="100" height="100"><br>
 <sup>PLN1.png</sup>
@@ -936,8 +948,6 @@
 <sup>PLN12.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN122.png" width="100" height="100"><br>
 <sup>PLN122.png</sup>
@@ -958,6 +968,8 @@
 <sup>PLN2_2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN2_3.png" width="100" height="100"><br>
 <sup>PLN2_3.png</sup>
@@ -968,8 +980,6 @@
 <sup>PLN2_4.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN3.png" width="100" height="100"><br>
 <sup>PLN3.png</sup>
@@ -990,6 +1000,8 @@
 <sup>PLN5.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN6.png" width="100" height="100"><br>
 <sup>PLN6.png</sup>
@@ -1000,8 +1012,6 @@
 <sup>RND0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RND1.png" width="100" height="100"><br>
 <sup>RND1.png</sup>
@@ -1022,6 +1032,8 @@
 <sup>RND4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./RND5.png" width="100" height="100"><br>
 <sup>RND5.png</sup>
@@ -1032,8 +1044,6 @@
 <sup>Solditer.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Solditer1.png" width="100" height="100"><br>
 <sup>Solditer1.png</sup>
@@ -1054,6 +1064,8 @@
 <sup>Solditer3B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SPR.png" width="100" height="100"><br>
 <sup>SPR.png</sup>
@@ -1064,8 +1076,6 @@
 <sup>SPR_B.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UND0.png" width="100" height="100"><br>
 <sup>UND0.png</sup>
@@ -1086,6 +1096,8 @@
 <sup>YAG0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./YAG1.png" width="100" height="100"><br>
 <sup>YAG1.png</sup>
