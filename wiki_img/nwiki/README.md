@@ -16,6 +16,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./1773067692025-019cd30e-a124-79b4-8d2d-ce797e141045.png" width="100" height="100"><br>
+<sup>1773067692025-019cd30e-a124-79b4-8d2d-ce797e141045.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./2d2e64dd2b0a4e454ea1431d65d761da-4998A.png" width="100" height="100"><br>
 <sup>2d2e64dd2b0a4e454ea1431d65d761da-4998A.png</sup>
 </td>
@@ -35,13 +40,13 @@
 <sup>96a7774595368ce4942112a122b0c926-15990.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./9a1f4a0b467f3f3e-232DD.png" width="100" height="100"><br>
 <sup>9a1f4a0b467f3f3e-232DD.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Adm_Hammer.png" width="100" height="100"><br>
 <sup>Adm_Hammer.png</sup>
@@ -67,13 +72,13 @@
 <sup>Ancient_Magic_Book.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Balor_Sword.png" width="100" height="100"><br>
 <sup>Balor_Sword.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Balor_Whip.png" width="100" height="100"><br>
 <sup>Balor_Whip.png</sup>
@@ -99,13 +104,13 @@
 <sup>Chainsword.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Container.png" width="100" height="100"><br>
 <sup>Container.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Dark_Sword.png" width="100" height="100"><br>
 <sup>Dark_Sword.png</sup>
@@ -131,13 +136,13 @@
 <sup>Elf_Medal.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Force_Staff.png" width="100" height="100"><br>
 <sup>Force_Staff.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Gold_Hammer.png" width="100" height="100"><br>
 <sup>Gold_Hammer.png</sup>
@@ -163,13 +168,13 @@
 <sup>Heal_Glove.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Heal_Glove1.png" width="100" height="100"><br>
 <sup>Heal_Glove1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./image-7E443.png" width="100" height="100"><br>
 <sup>image-7E443.png</sup>
@@ -195,13 +200,13 @@
 <sup>image-FEFD4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images-ABB63.png" width="100" height="100"><br>
 <sup>images-ABB63.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Life_Staff.png" width="100" height="100"><br>
 <sup>Life_Staff.png</sup>
@@ -227,13 +232,13 @@
 <sup>Mecha_Arm.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Messer.png" width="100" height="100"><br>
 <sup>Messer.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Moander_Ring.png" width="100" height="100"><br>
 <sup>Moander_Ring.png</sup>
@@ -259,13 +264,13 @@
 <sup>Orich_Gauntlets.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Powerarmor.png" width="100" height="100"><br>
 <sup>Powerarmor.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Rage_Ring.png" width="100" height="100"><br>
 <sup>Rage_Ring.png</sup>
@@ -291,13 +296,13 @@
 <sup>Slime_Ball.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Spark_Container.png" width="100" height="100"><br>
 <sup>Spark_Container.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Star_Musket.png" width="100" height="100"><br>
 <sup>Star_Musket.png</sup>
@@ -323,6 +328,8 @@
 <sup>Whip_Of_Planes.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Wit_Gauntlet.png" width="100" height="100"><br>
 <sup>Wit_Gauntlet.png</sup>
