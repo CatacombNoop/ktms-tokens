@@ -80,6 +80,16 @@
 </td>
 
 <td valign="bottom">
+<img src="./GLEB3.png" width="100" height="100"><br>
+<sup>GLEB3.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./GLEB3B.png" width="100" height="100"><br>
+<sup>GLEB3B.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./GLEB_F.png" width="100" height="100"><br>
 <sup>GLEB_F.png</sup>
 </td>
@@ -94,6 +104,8 @@
 <sup>IO.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JS0.png" width="100" height="100"><br>
 <sup>JS0.png</sup>
@@ -104,8 +116,6 @@
 <sup>JS0_1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./JS1.png" width="100" height="100"><br>
 <sup>JS1.png</sup>
@@ -126,6 +136,8 @@
 <sup>JS2_1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JSF0.png" width="100" height="100"><br>
 <sup>JSF0.png</sup>
@@ -136,8 +148,6 @@
 <sup>JSF1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./JSF2.png" width="100" height="100"><br>
 <sup>JSF2.png</sup>
@@ -158,6 +168,13 @@
 <sup>latcl.png</sup>
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./MAYA.png" width="100" height="100"><br>
+<sup>MAYA.png</sup>
+</td>
+
 <td valign="bottom">
 <img src="./MTN.png" width="100" height="100"><br>
 <sup>MTN.png</sup>
@@ -168,8 +185,6 @@
 <sup>MTN2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MTN3.png" width="100" height="100"><br>
 <sup>MTN3.png</sup>
@@ -185,6 +200,8 @@
 <sup>MTN5.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MTN6.png" width="100" height="100"><br>
 <sup>MTN6.png</sup>
@@ -200,8 +217,6 @@
 <sup>MTN8.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RMNPC0.png" width="100" height="100"><br>
 <sup>RMNPC0.png</sup>
@@ -217,6 +232,8 @@
 <sup>RMNPC2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ROMAN.png" width="100" height="100"><br>
 <sup>ROMAN.png</sup>
@@ -232,8 +249,6 @@
 <sup>ROMAN3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ROMAN4.png" width="100" height="100"><br>
 <sup>ROMAN4.png</sup>
@@ -249,6 +264,8 @@
 <sup>SOVA.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./starrrr.png" width="100" height="100"><br>
 <sup>starrrr.png</sup>
@@ -264,8 +281,6 @@
 <sup>teqilla_sunset.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./tequilla_up.png" width="100" height="100"><br>
 <sup>tequilla_up.png</sup>
@@ -281,6 +296,8 @@
 <sup>TIH1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_1_14.png" width="100" height="100"><br>
 <sup>token_1_14.png</sup>
@@ -296,8 +313,6 @@
 <sup>token_2_7.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_2_8.png" width="100" height="100"><br>
 <sup>token_2_8.png</sup>
@@ -313,6 +328,8 @@
 <sup>token_4_2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TRADER.png" width="100" height="100"><br>
 <sup>TRADER.png</sup>
@@ -328,8 +345,6 @@
 <sup>TRC1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WFR.png" width="100" height="100"><br>
 <sup>WFR.png</sup>
@@ -345,6 +360,8 @@
 <sup>WX1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WX2.png" width="100" height="100"><br>
 <sup>WX2.png</sup>
@@ -360,8 +377,6 @@
 <sup>WX4.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WX5.png" width="100" height="100"><br>
 <sup>WX5.png</sup>
@@ -377,6 +392,8 @@
 <sup>WX7.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ZK.png" width="100" height="100"><br>
 <sup>ZK.png</sup>
@@ -392,8 +409,6 @@
 <sup>еаа.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./еаа2.png" width="100" height="100"><br>
 <sup>еаа2.png</sup>
