@@ -292,12 +292,22 @@
 </td>
 
 <td valign="bottom">
-<img src="./ROMAN.png" width="100" height="100"><br>
-<sup>ROMAN.png</sup>
+<img src="./ROBT0.png" width="100" height="100"><br>
+<sup>ROBT0.png</sup>
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./ROBT1.png" width="100" height="100"><br>
+<sup>ROBT1.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./ROMAN.png" width="100" height="100"><br>
+<sup>ROMAN.png</sup>
+</td>
+
 <td valign="bottom">
 <img src="./ROMAN2.png" width="100" height="100"><br>
 <sup>ROMAN2.png</sup>
@@ -318,6 +328,8 @@
 <sup>ROMAN4B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SEIR.png" width="100" height="100"><br>
 <sup>SEIR.png</sup>
@@ -328,8 +340,6 @@
 <sup>SOVA.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./starrrr.png" width="100" height="100"><br>
 <sup>starrrr.png</sup>
@@ -350,6 +360,8 @@
 <sup>tequilla_up.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TIH.png" width="100" height="100"><br>
 <sup>TIH.png</sup>
@@ -360,8 +372,6 @@
 <sup>TIH1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_1_14.png" width="100" height="100"><br>
 <sup>token_1_14.png</sup>
@@ -382,6 +392,8 @@
 <sup>token_2_8.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_3_3.png" width="100" height="100"><br>
 <sup>token_3_3.png</sup>
@@ -392,8 +404,6 @@
 <sup>token_4_2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TRADER.png" width="100" height="100"><br>
 <sup>TRADER.png</sup>
@@ -414,6 +424,8 @@
 <sup>WFR.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WX0.png" width="100" height="100"><br>
 <sup>WX0.png</sup>
@@ -424,8 +436,6 @@
 <sup>WX1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WX2.png" width="100" height="100"><br>
 <sup>WX2.png</sup>
@@ -446,6 +456,8 @@
 <sup>WX5.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WX6.png" width="100" height="100"><br>
 <sup>WX6.png</sup>
@@ -456,8 +468,6 @@
 <sup>WX7.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ZK.png" width="100" height="100"><br>
 <sup>ZK.png</sup>
