@@ -464,6 +464,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Space_Break2.png" width="100" height="100"><br>
+<sup>Space_Break2.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Space_ER.png" width="100" height="100"><br>
 <sup>Space_ER.png</sup>
 </td>
@@ -483,13 +488,13 @@
 <sup>Space_ER_t.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space_KP.png" width="100" height="100"><br>
 <sup>Space_KP.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space_KP_t.png" width="100" height="100"><br>
 <sup>Space_KP_t.png</sup>
@@ -515,13 +520,13 @@
 <sup>Stair_UP.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Stone.png" width="100" height="100"><br>
 <sup>Stone.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./table.png" width="100" height="100"><br>
 <sup>table.png</sup>
@@ -547,13 +552,13 @@
 <sup>WATER.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WaterHit.png" width="100" height="100"><br>
 <sup>WaterHit.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WindHit.png" width="100" height="100"><br>
 <sup>WindHit.png</sup>
