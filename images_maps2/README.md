@@ -228,12 +228,17 @@
 </td>
 
 <td valign="bottom">
-<img src="./ZVND0.jpg" width="100" height="100"><br>
-<sup>ZVND0.jpg</sup>
+<img src="./UND_ZV.jpg" width="100" height="100"><br>
+<sup>UND_ZV.jpg</sup>
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./ZVND0.jpg" width="100" height="100"><br>
+<sup>ZVND0.jpg</sup>
+</td>
+
 <td valign="bottom">
 <img src="./ZVND1.png" width="100" height="100"><br>
 <sup>ZVND1.png</sup>
