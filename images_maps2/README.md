@@ -85,6 +85,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./FACT_x2.jpg" width="100" height="100"><br>
+<sup>FACT_x2.jpg</sup>
+</td>
+
+<td valign="bottom">
 <img src="./gr_map.png" width="100" height="100"><br>
 <sup>gr_map.png</sup>
 </td>
@@ -99,13 +104,13 @@
 <sup>Jung.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Jung2.jpg" width="100" height="100"><br>
 <sup>Jung2.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./JungCT.jpg" width="100" height="100"><br>
 <sup>JungCT.jpg</sup>
@@ -131,13 +136,13 @@
 <sup>LAIR-INFO.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LAIR.png" width="100" height="100"><br>
 <sup>LAIR.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LAIR2_j.jpg" width="100" height="100"><br>
 <sup>LAIR2_j.jpg</sup>
@@ -163,13 +168,13 @@
 <sup>LAIR_REO.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LAIR_REO2.jpg" width="100" height="100"><br>
 <sup>LAIR_REO2.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LAIR_REO_br.png" width="100" height="100"><br>
 <sup>LAIR_REO_br.png</sup>
@@ -195,13 +200,13 @@
 <sup>row-1-column-1.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./row-1-column-2.jpg" width="100" height="100"><br>
 <sup>row-1-column-2.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./row-2-column-1.jpg" width="100" height="100"><br>
 <sup>row-2-column-1.jpg</sup>
@@ -227,13 +232,13 @@
 <sup>SPACE_C.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UND_ZV.jpg" width="100" height="100"><br>
 <sup>UND_ZV.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ZVND0.jpg" width="100" height="100"><br>
 <sup>ZVND0.jpg</sup>

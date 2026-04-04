@@ -1092,12 +1092,17 @@
 </td>
 
 <td valign="bottom">
-<img src="./Solditer.png" width="100" height="100"><br>
-<sup>Solditer.png</sup>
+<img src="./RND6.png" width="100" height="100"><br>
+<sup>RND6.png</sup>
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./Solditer.png" width="100" height="100"><br>
+<sup>Solditer.png</sup>
+</td>
+
 <td valign="bottom">
 <img src="./Solditer1.png" width="100" height="100"><br>
 <sup>Solditer1.png</sup>
@@ -1123,13 +1128,13 @@
 <sup>SPR.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SPR_B.png" width="100" height="100"><br>
 <sup>SPR_B.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UND0.png" width="100" height="100"><br>
 <sup>UND0.png</sup>
@@ -1155,6 +1160,8 @@
 <sup>YAG1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./КФЕ2.png" width="100" height="100"><br>
 <sup>КФЕ2.png</sup>
