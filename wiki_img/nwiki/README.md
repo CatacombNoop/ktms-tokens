@@ -328,4 +328,11 @@
 <sup>Wit_Gauntlet.png</sup>
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Wit_Gauntlet2.png" width="100" height="100"><br>
+<sup>Wit_Gauntlet2.png</sup>
+</td>
+
 </tr></table>

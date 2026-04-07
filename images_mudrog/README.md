@@ -1099,6 +1099,11 @@
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./RND7.png" width="100" height="100"><br>
+<sup>RND7.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Solditer.png" width="100" height="100"><br>
 <sup>Solditer.png</sup>
 </td>
@@ -1123,13 +1128,13 @@
 <sup>Solditer3B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SPR.png" width="100" height="100"><br>
 <sup>SPR.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SPR_B.png" width="100" height="100"><br>
 <sup>SPR_B.png</sup>
@@ -1155,13 +1160,13 @@
 <sup>YAG0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./YAG1.png" width="100" height="100"><br>
 <sup>YAG1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./КФЕ2.png" width="100" height="100"><br>
 <sup>КФЕ2.png</sup>
