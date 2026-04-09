@@ -2869,6 +2869,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Yeenoghu.png" width="100" height="100"><br>
+<sup>Yeenoghu.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Z_ATOM.png" width="100" height="100"><br>
 <sup>Z_ATOM.png</sup>
 </td>
