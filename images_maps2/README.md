@@ -191,6 +191,18 @@
 </td>
 
 <td valign="bottom">
+<img src="./MASS_CITY2.jpg" width="100" height="100"><br>
+<sup>MASS_CITY2.jpg</sup>
+</td>
+
+<td valign="bottom">
+<img src="./MASS_CITY3.jpg" width="100" height="100"><br>
+<sup>MASS_CITY3.jpg</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
 <img src="./Mns.jpg" width="100" height="100"><br>
 <sup>Mns.jpg</sup>
 </td>
@@ -200,8 +212,6 @@
 <sup>Ring_Battle.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./row-1-column-1.jpg" width="100" height="100"><br>
 <sup>row-1-column-1.jpg</sup>
@@ -222,6 +232,8 @@
 <sup>row-2-column-2.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./S0L-RDSlumAlley-Map1-1080.jpg" width="100" height="100"><br>
 <sup>S0L-RDSlumAlley-Map1-1080.jpg</sup>
@@ -232,8 +244,6 @@
 <sup>S0L-TDSlum-Map1-64px-1080.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SPACE_C.jpg" width="100" height="100"><br>
 <sup>SPACE_C.jpg</sup>
