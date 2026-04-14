@@ -2901,6 +2901,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Wazir.png" width="100" height="100"><br>
+<sup>Wazir.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./WORM0.png" width="100" height="100"><br>
 <sup>WORM0.png</sup>
 </td>
@@ -2915,13 +2920,13 @@
 <sup>WORM2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Yeenoghu.png" width="100" height="100"><br>
 <sup>Yeenoghu.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Z_ATOM.png" width="100" height="100"><br>
 <sup>Z_ATOM.png</sup>
