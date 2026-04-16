@@ -2847,17 +2847,22 @@
 </td>
 
 <td valign="bottom">
+<img src="./TPC_REOS8.png" width="100" height="100"><br>
+<sup>TPC_REOS8.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./TPM_0.png" width="100" height="100"><br>
 <sup>TPM_0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPM_1.png" width="100" height="100"><br>
 <sup>TPM_1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPM_2.png" width="100" height="100"><br>
 <sup>TPM_2.png</sup>
@@ -2883,13 +2888,13 @@
 <sup>TS_Vamp.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_0.png" width="100" height="100"><br>
 <sup>UNO_0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_1.png" width="100" height="100"><br>
 <sup>UNO_1.png</sup>
@@ -2915,13 +2920,13 @@
 <sup>VARFOLOMEI.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Wazir.png" width="100" height="100"><br>
 <sup>Wazir.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WORM0.png" width="100" height="100"><br>
 <sup>WORM0.png</sup>
