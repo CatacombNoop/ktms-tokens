@@ -272,6 +272,16 @@
 </td>
 
 <td valign="bottom">
+<img src="./n_DG.png" width="100" height="100"><br>
+<sup>n_DG.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./n_DG2.png" width="100" height="100"><br>
+<sup>n_DG2.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./RAIN.png" width="100" height="100"><br>
 <sup>RAIN.png</sup>
 </td>
@@ -286,6 +296,8 @@
 <sup>RAIN2B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./RMNPC0.png" width="100" height="100"><br>
 <sup>RMNPC0.png</sup>
@@ -296,8 +308,6 @@
 <sup>RMNPC1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RMNPC2.png" width="100" height="100"><br>
 <sup>RMNPC2.png</sup>
@@ -318,6 +328,8 @@
 <sup>ROBT2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ROMAN.png" width="100" height="100"><br>
 <sup>ROMAN.png</sup>
@@ -328,8 +340,6 @@
 <sup>ROMAN2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ROMAN3.png" width="100" height="100"><br>
 <sup>ROMAN3.png</sup>
@@ -350,6 +360,8 @@
 <sup>SEIR.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SOVA.png" width="100" height="100"><br>
 <sup>SOVA.png</sup>
@@ -360,8 +372,6 @@
 <sup>starrrr.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./S_TK.png" width="100" height="100"><br>
 <sup>S_TK.png</sup>
@@ -382,6 +392,8 @@
 <sup>TIH.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TIH1.png" width="100" height="100"><br>
 <sup>TIH1.png</sup>
@@ -392,8 +404,6 @@
 <sup>token_1_14.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_1_20.png" width="100" height="100"><br>
 <sup>token_1_20.png</sup>
@@ -414,6 +424,8 @@
 <sup>token_3_3.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_4_2.png" width="100" height="100"><br>
 <sup>token_4_2.png</sup>
@@ -424,8 +436,6 @@
 <sup>TRADER.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TRC0.png" width="100" height="100"><br>
 <sup>TRC0.png</sup>
@@ -446,6 +456,8 @@
 <sup>WX0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WX1.png" width="100" height="100"><br>
 <sup>WX1.png</sup>
@@ -456,8 +468,6 @@
 <sup>WX2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WX3.png" width="100" height="100"><br>
 <sup>WX3.png</sup>
@@ -478,6 +488,8 @@
 <sup>WX6.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WX7.png" width="100" height="100"><br>
 <sup>WX7.png</sup>
@@ -488,8 +500,6 @@
 <sup>WX_SH.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ZK.png" width="100" height="100"><br>
 <sup>ZK.png</sup>
