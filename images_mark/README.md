@@ -272,8 +272,8 @@
 </td>
 
 <td valign="bottom">
-<img src="./n_DG.png" width="100" height="100"><br>
-<sup>n_DG.png</sup>
+<img src="./nwg.png" width="100" height="100"><br>
+<sup>nwg.png</sup>
 </td>
 
 <td valign="bottom">
