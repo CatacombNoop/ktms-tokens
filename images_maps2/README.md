@@ -255,6 +255,23 @@
 </td>
 
 <td valign="bottom">
+<img src="./TMNG1.png" width="100" height="100"><br>
+<sup>TMNG1.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./TMNG2.png" width="100" height="100"><br>
+<sup>TMNG2.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./TMNG3.png" width="100" height="100"><br>
+<sup>TMNG3.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./UND_ZV.jpg" width="100" height="100"><br>
 <sup>UND_ZV.jpg</sup>
 </td>
@@ -264,8 +281,6 @@
 <sup>ZVND0.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ZVND1.png" width="100" height="100"><br>
 <sup>ZVND1.png</sup>
