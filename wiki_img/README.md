@@ -351,17 +351,22 @@
 </td>
 
 <td valign="bottom">
+<img src="./FlyingIsland.jpg" width="100" height="100"><br>
+<sup>FlyingIsland.jpg</sup>
+</td>
+
+<td valign="bottom">
 <img src="./gmod_addon_stuff.png" width="100" height="100"><br>
 <sup>gmod_addon_stuff.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ISLAND_MAP.png" width="100" height="100"><br>
 <sup>ISLAND_MAP.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MagicGun.png" width="100" height="100"><br>
 <sup>MagicGun.png</sup>
@@ -387,13 +392,13 @@
 <sup>Skill_Check_DC_1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Spark_Container.png" width="100" height="100"><br>
 <sup>Spark_Container.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./STYX.png" width="100" height="100"><br>
 <sup>STYX.png</sup>
@@ -419,13 +424,13 @@
 <sup>SWORDD2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SWORDD3.png" width="100" height="100"><br>
 <sup>SWORDD3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SWORDD4.png" width="100" height="100"><br>
 <sup>SWORDD4.png</sup>
@@ -451,6 +456,8 @@
 <sup>WMAP_CUT</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ZLATO.png" width="100" height="100"><br>
 <sup>ZLATO.png</sup>
