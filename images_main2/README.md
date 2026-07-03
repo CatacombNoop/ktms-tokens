@@ -3098,6 +3098,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./VOID_DRG.png" width="100" height="100"><br>
+<sup>VOID_DRG.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Wazir.png" width="100" height="100"><br>
 <sup>Wazir.png</sup>
 </td>
@@ -3107,13 +3112,13 @@
 <sup>WORM0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WORM1.png" width="100" height="100"><br>
 <sup>WORM1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WORM2.png" width="100" height="100"><br>
 <sup>WORM2.png</sup>
