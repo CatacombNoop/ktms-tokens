@@ -304,6 +304,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./power_armor.jpeg" width="100" height="100"><br>
+<sup>power_armor.jpeg</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Rage_Ring.png" width="100" height="100"><br>
 <sup>Rage_Ring.png</sup>
 </td>
@@ -323,13 +328,13 @@
 <sup>Sci_Bl_Sp.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Silver_Seal.png" width="100" height="100"><br>
 <sup>Silver_Seal.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Silver_Seal2.png" width="100" height="100"><br>
 <sup>Silver_Seal2.png</sup>
@@ -355,13 +360,13 @@
 <sup>Trident.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Violin_Art.png" width="100" height="100"><br>
 <sup>Violin_Art.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Wenta_Drink.png" width="100" height="100"><br>
 <sup>Wenta_Drink.png</sup>
