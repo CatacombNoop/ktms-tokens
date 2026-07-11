@@ -68,12 +68,17 @@
 </td>
 
 <td valign="bottom">
-<img src="./Entra32x56.jpg" width="100" height="100"><br>
-<sup>Entra32x56.jpg</sup>
+<img src="./DP0.jpg" width="100" height="100"><br>
+<sup>DP0.jpg</sup>
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./Entra32x56.jpg" width="100" height="100"><br>
+<sup>Entra32x56.jpg</sup>
+</td>
+
 <td valign="bottom">
 <img src="./EVI_36x21.jpg" width="100" height="100"><br>
 <sup>EVI_36x21.jpg</sup>
@@ -99,13 +104,13 @@
 <sup>HellFortress.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Jung.jpg" width="100" height="100"><br>
 <sup>Jung.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Jung2.jpg" width="100" height="100"><br>
 <sup>Jung2.jpg</sup>
@@ -131,13 +136,13 @@
 <sup>JungCT3.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LAIR-INFO.png" width="100" height="100"><br>
 <sup>LAIR-INFO.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LAIR.png" width="100" height="100"><br>
 <sup>LAIR.png</sup>
@@ -163,13 +168,13 @@
 <sup>LAIR_REO.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LAIR_REO.png" width="100" height="100"><br>
 <sup>LAIR_REO.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LAIR_REO2.jpg" width="100" height="100"><br>
 <sup>LAIR_REO2.jpg</sup>
@@ -195,13 +200,13 @@
 <sup>MASS_CITY2.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MASS_CITY3.jpg" width="100" height="100"><br>
 <sup>MASS_CITY3.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Mns.jpg" width="100" height="100"><br>
 <sup>Mns.jpg</sup>
@@ -227,13 +232,13 @@
 <sup>row-2-column-1.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./row-2-column-2.jpg" width="100" height="100"><br>
 <sup>row-2-column-2.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./S0L-RDSlumAlley-Map1-1080.jpg" width="100" height="100"><br>
 <sup>S0L-RDSlumAlley-Map1-1080.jpg</sup>
@@ -259,13 +264,13 @@
 <sup>TMNG1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TMNG2.png" width="100" height="100"><br>
 <sup>TMNG2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TMNG3.png" width="100" height="100"><br>
 <sup>TMNG3.png</sup>
