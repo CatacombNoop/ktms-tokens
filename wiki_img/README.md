@@ -132,12 +132,22 @@
 </td>
 
 <td valign="bottom">
-<img src="./EMPTY.png" width="100" height="100"><br>
-<sup>EMPTY.png</sup>
+<img src="./DP0.png" width="100" height="100"><br>
+<sup>DP0.png</sup>
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./DP1.png" width="100" height="100"><br>
+<sup>DP1.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./EMPTY.png" width="100" height="100"><br>
+<sup>EMPTY.png</sup>
+</td>
+
 <td valign="bottom">
 <img src="./Erynthul.jpg" width="100" height="100"><br>
 <sup>Erynthul.jpg</sup>
@@ -158,6 +168,8 @@
 <sup>EST_0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./EST_1.png" width="100" height="100"><br>
 <sup>EST_1.png</sup>
@@ -168,8 +180,6 @@
 <sup>EST_2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./EST_3.png" width="100" height="100"><br>
 <sup>EST_3.png</sup>
@@ -190,6 +200,8 @@
 <sup>F1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F10.png" width="100" height="100"><br>
 <sup>F10.png</sup>
@@ -200,8 +212,6 @@
 <sup>F11.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F12.png" width="100" height="100"><br>
 <sup>F12.png</sup>
@@ -222,6 +232,8 @@
 <sup>F15.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F16.png" width="100" height="100"><br>
 <sup>F16.png</sup>
@@ -232,8 +244,6 @@
 <sup>F17.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F18.png" width="100" height="100"><br>
 <sup>F18.png</sup>
@@ -254,6 +264,8 @@
 <sup>F20.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F21.png" width="100" height="100"><br>
 <sup>F21.png</sup>
@@ -264,8 +276,6 @@
 <sup>F22.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F23.png" width="100" height="100"><br>
 <sup>F23.png</sup>
@@ -286,6 +296,8 @@
 <sup>F26.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F27.png" width="100" height="100"><br>
 <sup>F27.png</sup>
@@ -296,8 +308,6 @@
 <sup>F28.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F29.png" width="100" height="100"><br>
 <sup>F29.png</sup>
@@ -318,6 +328,8 @@
 <sup>F31.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F32.png" width="100" height="100"><br>
 <sup>F32.png</sup>
@@ -328,8 +340,6 @@
 <sup>F4.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F5.png" width="100" height="100"><br>
 <sup>F5.png</sup>
@@ -350,6 +360,8 @@
 <sup>F8.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F9.png" width="100" height="100"><br>
 <sup>F9.png</sup>
@@ -360,8 +372,6 @@
 <sup>FlyingIsland.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./gmod_addon_stuff.png" width="100" height="100"><br>
 <sup>gmod_addon_stuff.png</sup>
@@ -382,6 +392,8 @@
 <sup>Malarw.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./nwiki" width="100" height="100"><br>
 <sup>nwiki</sup>
@@ -392,8 +404,6 @@
 <sup>Skill_Check_DC_0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Skill_Check_DC_1.png" width="100" height="100"><br>
 <sup>Skill_Check_DC_1.png</sup>
@@ -414,6 +424,8 @@
 <sup>STYX2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./STYX3.png" width="100" height="100"><br>
 <sup>STYX3.png</sup>
@@ -424,8 +436,6 @@
 <sup>SWORDD.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SWORDD2.png" width="100" height="100"><br>
 <sup>SWORDD2.png</sup>
@@ -446,6 +456,8 @@
 <sup>Vilia 2023-06-14-10-56.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WISE_SHRINE.png" width="100" height="100"><br>
 <sup>WISE_SHRINE.png</sup>
@@ -456,8 +468,6 @@
 <sup>WMAP.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WMAP_CUT" width="100" height="100"><br>
 <sup>WMAP_CUT</sup>
