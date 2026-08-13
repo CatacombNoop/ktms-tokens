@@ -112,6 +112,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Astral-city.png" width="100" height="100"><br>
+<sup>Astral-city.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Astral0.jpg" width="100" height="100"><br>
 <sup>Astral0.jpg</sup>
 </td>
@@ -131,13 +136,13 @@
 <sup>DP.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DP0.png" width="100" height="100"><br>
 <sup>DP0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DP1.png" width="100" height="100"><br>
 <sup>DP1.png</sup>
@@ -163,13 +168,13 @@
 <sup>estel-city0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./EST_0.png" width="100" height="100"><br>
 <sup>EST_0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./EST_1.png" width="100" height="100"><br>
 <sup>EST_1.png</sup>
@@ -195,13 +200,13 @@
 <sup>F0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F1.png" width="100" height="100"><br>
 <sup>F1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F10.png" width="100" height="100"><br>
 <sup>F10.png</sup>
@@ -227,13 +232,13 @@
 <sup>F14.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F15.png" width="100" height="100"><br>
 <sup>F15.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F16.png" width="100" height="100"><br>
 <sup>F16.png</sup>
@@ -259,13 +264,13 @@
 <sup>F2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F20.png" width="100" height="100"><br>
 <sup>F20.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F21.png" width="100" height="100"><br>
 <sup>F21.png</sup>
@@ -291,13 +296,13 @@
 <sup>F25.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F26.png" width="100" height="100"><br>
 <sup>F26.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F27.png" width="100" height="100"><br>
 <sup>F27.png</sup>
@@ -323,13 +328,13 @@
 <sup>F30.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F31.png" width="100" height="100"><br>
 <sup>F31.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F32.png" width="100" height="100"><br>
 <sup>F32.png</sup>
@@ -355,13 +360,13 @@
 <sup>F7.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./F8.png" width="100" height="100"><br>
 <sup>F8.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./F9.png" width="100" height="100"><br>
 <sup>F9.png</sup>
@@ -387,13 +392,13 @@
 <sup>MagicGun.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Malarw.png" width="100" height="100"><br>
 <sup>Malarw.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./nwiki" width="100" height="100"><br>
 <sup>nwiki</sup>
@@ -419,13 +424,13 @@
 <sup>STYX.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./STYX2.png" width="100" height="100"><br>
 <sup>STYX2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./STYX3.png" width="100" height="100"><br>
 <sup>STYX3.png</sup>
@@ -451,13 +456,13 @@
 <sup>SWORDD4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Vilia 2023-06-14-10-56.png" width="100" height="100"><br>
 <sup>Vilia 2023-06-14-10-56.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WISE_SHRINE.png" width="100" height="100"><br>
 <sup>WISE_SHRINE.png</sup>
