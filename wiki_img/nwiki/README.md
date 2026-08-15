@@ -154,6 +154,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./glaive_space.png" width="100" height="100"><br>
+<sup>glaive_space.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Godslayer.png" width="100" height="100"><br>
 <sup>Godslayer.png</sup>
 </td>
@@ -163,13 +168,13 @@
 <sup>Gold_Hammer.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Gold_Seal.png" width="100" height="100"><br>
 <sup>Gold_Seal.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Gold_Seal2.png" width="100" height="100"><br>
 <sup>Gold_Seal2.png</sup>
@@ -195,13 +200,13 @@
 <sup>Heal_Glove1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./image-7E443.png" width="100" height="100"><br>
 <sup>image-7E443.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./image-8F888.png" width="100" height="100"><br>
 <sup>image-8F888.png</sup>
@@ -227,13 +232,13 @@
 <sup>images-ABB63.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Life_Staff.png" width="100" height="100"><br>
 <sup>Life_Staff.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Mage_Gauntlet.png" width="100" height="100"><br>
 <sup>Mage_Gauntlet.png</sup>
@@ -259,13 +264,13 @@
 <sup>Messer.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Moander_Ring.png" width="100" height="100"><br>
 <sup>Moander_Ring.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Mystic_Gauntlet.png" width="100" height="100"><br>
 <sup>Mystic_Gauntlet.png</sup>
@@ -291,13 +296,13 @@
 <sup>Plane-Sphere.gif</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Powerarmor.png" width="100" height="100"><br>
 <sup>Powerarmor.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Powerarmor2.png" width="100" height="100"><br>
 <sup>Powerarmor2.png</sup>
@@ -323,13 +328,13 @@
 <sup>Ring_Retribution.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Sci_Bl_Sp.png" width="100" height="100"><br>
 <sup>Sci_Bl_Sp.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Silver_Seal.png" width="100" height="100"><br>
 <sup>Silver_Seal.png</sup>
@@ -355,13 +360,13 @@
 <sup>Star_Musket.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Trident.png" width="100" height="100"><br>
 <sup>Trident.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Violin_Art.png" width="100" height="100"><br>
 <sup>Violin_Art.png</sup>
