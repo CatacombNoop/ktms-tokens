@@ -483,4 +483,53 @@
 <sup>ZLATO.png</sup>
 </td>
 
+<td valign="bottom">
+<img src="./Z_MD0.png" width="100" height="100"><br>
+<sup>Z_MD0.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Z_MD1.png" width="100" height="100"><br>
+<sup>Z_MD1.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./Z_MD2.png" width="100" height="100"><br>
+<sup>Z_MD2.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./Z_MD3.png" width="100" height="100"><br>
+<sup>Z_MD3.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./Z_MD4.png" width="100" height="100"><br>
+<sup>Z_MD4.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./Z_MD5.png" width="100" height="100"><br>
+<sup>Z_MD5.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./Z_MD6.png" width="100" height="100"><br>
+<sup>Z_MD6.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Z_MD7.png" width="100" height="100"><br>
+<sup>Z_MD7.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./Z_MD8.png" width="100" height="100"><br>
+<sup>Z_MD8.png</sup>
+</td>
+
 </tr></table>
