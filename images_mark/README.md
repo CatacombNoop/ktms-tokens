@@ -533,6 +533,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Web.png" width="100" height="100"><br>
+<sup>Web.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./WFR.png" width="100" height="100"><br>
 <sup>WFR.png</sup>
 </td>
@@ -547,13 +552,13 @@
 <sup>WX1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WX2.png" width="100" height="100"><br>
 <sup>WX2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WX3.png" width="100" height="100"><br>
 <sup>WX3.png</sup>
@@ -579,13 +584,13 @@
 <sup>WX7.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WX_SH.png" width="100" height="100"><br>
 <sup>WX_SH.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ZK.png" width="100" height="100"><br>
 <sup>ZK.png</sup>
