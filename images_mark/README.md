@@ -516,12 +516,17 @@
 </td>
 
 <td valign="bottom">
-<img src="./TRADER.png" width="100" height="100"><br>
-<sup>TRADER.png</sup>
+<img src="./token_js.png" width="100" height="100"><br>
+<sup>token_js.png</sup>
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./TRADER.png" width="100" height="100"><br>
+<sup>TRADER.png</sup>
+</td>
+
 <td valign="bottom">
 <img src="./TRC0.png" width="100" height="100"><br>
 <sup>TRC0.png</sup>
@@ -547,13 +552,13 @@
 <sup>WsS0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WsS1.png" width="100" height="100"><br>
 <sup>WsS1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WX0.png" width="100" height="100"><br>
 <sup>WX0.png</sup>
@@ -579,13 +584,13 @@
 <sup>WX4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WX5.png" width="100" height="100"><br>
 <sup>WX5.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WX6.png" width="100" height="100"><br>
 <sup>WX6.png</sup>
@@ -611,13 +616,13 @@
 <sup>ZK1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ztoken_gobbb.png" width="100" height="100"><br>
 <sup>ztoken_gobbb.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./еаа.png" width="100" height="100"><br>
 <sup>еаа.png</sup>
