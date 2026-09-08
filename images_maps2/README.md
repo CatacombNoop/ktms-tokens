@@ -107,6 +107,11 @@
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./IND_0.jpeg" width="100" height="100"><br>
+<sup>IND_0.jpeg</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Jung.jpg" width="100" height="100"><br>
 <sup>Jung.jpg</sup>
 </td>
@@ -131,13 +136,13 @@
 <sup>JungCT2.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JungCT3.jpg" width="100" height="100"><br>
 <sup>JungCT3.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LAIR-INFO.png" width="100" height="100"><br>
 <sup>LAIR-INFO.png</sup>
@@ -163,13 +168,13 @@
 <sup>LAIR_j.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LAIR_REO.jpg" width="100" height="100"><br>
 <sup>LAIR_REO.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LAIR_REO.png" width="100" height="100"><br>
 <sup>LAIR_REO.png</sup>
@@ -195,13 +200,13 @@
 <sup>MASS_CITY.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MASS_CITY2.jpg" width="100" height="100"><br>
 <sup>MASS_CITY2.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MASS_CITY3.jpg" width="100" height="100"><br>
 <sup>MASS_CITY3.jpg</sup>
@@ -227,13 +232,13 @@
 <sup>row-1-column-2.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./row-2-column-1.jpg" width="100" height="100"><br>
 <sup>row-2-column-1.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./row-2-column-2.jpg" width="100" height="100"><br>
 <sup>row-2-column-2.jpg</sup>
@@ -259,13 +264,13 @@
 <sup>TMNG0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TMNG1.png" width="100" height="100"><br>
 <sup>TMNG1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TMNG2.png" width="100" height="100"><br>
 <sup>TMNG2.png</sup>
