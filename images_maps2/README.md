@@ -11,6 +11,11 @@
 <table><tr>
 <tr>
 <td valign="bottom">
+<img src="./00STR_0.jpg" width="100" height="100"><br>
+<sup>00STR_0.jpg</sup>
+</td>
+
+<td valign="bottom">
 <img src="./20260322_073752_0_UTC_0.jpeg" width="100" height="100"><br>
 <sup>20260322_073752_0_UTC_0.jpeg</sup>
 </td>
@@ -35,13 +40,13 @@
 <sup>APARTM.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./APARTM2.jpg" width="100" height="100"><br>
 <sup>APARTM2.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./APARTM3.jpg" width="100" height="100"><br>
 <sup>APARTM3.jpg</sup>
@@ -67,13 +72,13 @@
 <sup>City Streets-Night.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DP_0.jpg" width="100" height="100"><br>
 <sup>DP_0.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Entra32x56.jpg" width="100" height="100"><br>
 <sup>Entra32x56.jpg</sup>
@@ -99,13 +104,13 @@
 <sup>gr_map.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./HellFortress.png" width="100" height="100"><br>
 <sup>HellFortress.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./IND_0.jpeg" width="100" height="100"><br>
 <sup>IND_0.jpeg</sup>
@@ -131,13 +136,13 @@
 <sup>JungCT1.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JungCT2.jpg" width="100" height="100"><br>
 <sup>JungCT2.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./JungCT3.jpg" width="100" height="100"><br>
 <sup>JungCT3.jpg</sup>
@@ -163,13 +168,13 @@
 <sup>LAIR_DEEP_INFO2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LAIR_j.jpg" width="100" height="100"><br>
 <sup>LAIR_j.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LAIR_REO.jpg" width="100" height="100"><br>
 <sup>LAIR_REO.jpg</sup>
@@ -195,13 +200,13 @@
 <sup>LAST ROOM.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MASS_CITY.jpg" width="100" height="100"><br>
 <sup>MASS_CITY.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MASS_CITY2.jpg" width="100" height="100"><br>
 <sup>MASS_CITY2.jpg</sup>
@@ -227,13 +232,13 @@
 <sup>row-1-column-1.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./row-1-column-2.jpg" width="100" height="100"><br>
 <sup>row-1-column-2.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./row-2-column-1.jpg" width="100" height="100"><br>
 <sup>row-2-column-1.jpg</sup>
@@ -259,13 +264,13 @@
 <sup>SPACE_C.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TMNG0.png" width="100" height="100"><br>
 <sup>TMNG0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TMNG1.png" width="100" height="100"><br>
 <sup>TMNG1.png</sup>
@@ -291,6 +296,8 @@
 <sup>ZVND0.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ZVND1.png" width="100" height="100"><br>
 <sup>ZVND1.png</sup>
