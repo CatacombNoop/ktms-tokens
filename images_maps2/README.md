@@ -16,6 +16,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./00STR_1.jpg" width="100" height="100"><br>
+<sup>00STR_1.jpg</sup>
+</td>
+
+<td valign="bottom">
 <img src="./20260322_073752_0_UTC_0.jpeg" width="100" height="100"><br>
 <sup>20260322_073752_0_UTC_0.jpeg</sup>
 </td>
@@ -35,13 +40,13 @@
 <sup>20260322_074950_0_UTC_0.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./APARTM.jpg" width="100" height="100"><br>
 <sup>APARTM.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./APARTM2.jpg" width="100" height="100"><br>
 <sup>APARTM2.jpg</sup>
@@ -67,13 +72,13 @@
 <sup>BUNK1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./City Streets-Night.jpg" width="100" height="100"><br>
 <sup>City Streets-Night.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DP_0.jpg" width="100" height="100"><br>
 <sup>DP_0.jpg</sup>
@@ -99,13 +104,13 @@
 <sup>FACT_x2.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./gr_map.png" width="100" height="100"><br>
 <sup>gr_map.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./HellFortress.png" width="100" height="100"><br>
 <sup>HellFortress.png</sup>
@@ -131,13 +136,13 @@
 <sup>JungCT.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JungCT1.jpg" width="100" height="100"><br>
 <sup>JungCT1.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./JungCT2.jpg" width="100" height="100"><br>
 <sup>JungCT2.jpg</sup>
@@ -163,13 +168,13 @@
 <sup>LAIR2_j.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LAIR_DEEP_INFO2.png" width="100" height="100"><br>
 <sup>LAIR_DEEP_INFO2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LAIR_j.jpg" width="100" height="100"><br>
 <sup>LAIR_j.jpg</sup>
@@ -195,13 +200,13 @@
 <sup>LAIR_REO_br.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LAST ROOM.jpg" width="100" height="100"><br>
 <sup>LAST ROOM.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MASS_CITY.jpg" width="100" height="100"><br>
 <sup>MASS_CITY.jpg</sup>
@@ -227,13 +232,13 @@
 <sup>Ring_Battle.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./row-1-column-1.jpg" width="100" height="100"><br>
 <sup>row-1-column-1.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./row-1-column-2.jpg" width="100" height="100"><br>
 <sup>row-1-column-2.jpg</sup>
@@ -259,13 +264,13 @@
 <sup>S0L-TDSlum-Map1-64px-1080.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SPACE_C.jpg" width="100" height="100"><br>
 <sup>SPACE_C.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TMNG0.png" width="100" height="100"><br>
 <sup>TMNG0.png</sup>
@@ -291,13 +296,13 @@
 <sup>UND_ZV.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ZVND0.jpg" width="100" height="100"><br>
 <sup>ZVND0.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ZVND1.png" width="100" height="100"><br>
 <sup>ZVND1.png</sup>
