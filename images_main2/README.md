@@ -2303,17 +2303,22 @@
 </td>
 
 <td valign="bottom">
+<img src="./DEV_COLL.png" width="100" height="100"><br>
+<sup>DEV_COLL.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./DEV_CP.png" width="100" height="100"><br>
 <sup>DEV_CP.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DEV_CPB.png" width="100" height="100"><br>
 <sup>DEV_CPB.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DEV_L0.png" width="100" height="100"><br>
 <sup>DEV_L0.png</sup>
@@ -2339,13 +2344,13 @@
 <sup>DEV_L3.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DEV_L4.png" width="100" height="100"><br>
 <sup>DEV_L4.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DEV_L5.png" width="100" height="100"><br>
 <sup>DEV_L5.png</sup>
@@ -2371,13 +2376,13 @@
 <sup>DEV_L8B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DEV_L9.png" width="100" height="100"><br>
 <sup>DEV_L9.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DEV_LCN.png" width="100" height="100"><br>
 <sup>DEV_LCN.png</sup>
@@ -2403,13 +2408,13 @@
 <sup>DEV_SC4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DEV_UMG.png" width="100" height="100"><br>
 <sup>DEV_UMG.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DOBRYAK.png" width="100" height="100"><br>
 <sup>DOBRYAK.png</sup>
@@ -2435,13 +2440,13 @@
 <sup>DRG_BL_V.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DRG_RED.png" width="100" height="100"><br>
 <sup>DRG_RED.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DROW.png" width="100" height="100"><br>
 <sup>DROW.png</sup>
@@ -2467,13 +2472,13 @@
 <sup>ELF_S2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ERI_GUNN.png" width="100" height="100"><br>
 <sup>ERI_GUNN.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ERI_GUNN2.png" width="100" height="100"><br>
 <sup>ERI_GUNN2.png</sup>
@@ -2499,13 +2504,13 @@
 <sup>FAM_PANC.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Federlin0.png" width="100" height="100"><br>
 <sup>Federlin0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Federlin1.png" width="100" height="100"><br>
 <sup>Federlin1.png</sup>
@@ -2531,13 +2536,13 @@
 <sup>GOB10.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./GOB11.png" width="100" height="100"><br>
 <sup>GOB11.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./GOB12.png" width="100" height="100"><br>
 <sup>GOB12.png</sup>
@@ -2563,13 +2568,13 @@
 <sup>GOB16.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./GOB17.png" width="100" height="100"><br>
 <sup>GOB17.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./GOB18.png" width="100" height="100"><br>
 <sup>GOB18.png</sup>
@@ -2595,13 +2600,13 @@
 <sup>GOB5.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./GOB6.png" width="100" height="100"><br>
 <sup>GOB6.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./GOB7.png" width="100" height="100"><br>
 <sup>GOB7.png</sup>
@@ -2627,13 +2632,13 @@
 <sup>GOLD_DRAG.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./HAT.png" width="100" height="100"><br>
 <sup>HAT.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./HOBGOB0.png" width="100" height="100"><br>
 <sup>HOBGOB0.png</sup>
@@ -2659,13 +2664,13 @@
 <sup>HOBGOB4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./HOBGOB5.png" width="100" height="100"><br>
 <sup>HOBGOB5.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./HOBGOB6.png" width="100" height="100"><br>
 <sup>HOBGOB6.png</sup>
@@ -2691,13 +2696,13 @@
 <sup>ILL5.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ILL6.png" width="100" height="100"><br>
 <sup>ILL6.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ILL6B.png" width="100" height="100"><br>
 <sup>ILL6B.png</sup>
@@ -2723,13 +2728,13 @@
 <sup>IOG1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./JABA.png" width="100" height="100"><br>
 <sup>JABA.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./JS_WISP.png" width="100" height="100"><br>
 <sup>JS_WISP.png</sup>
@@ -2755,13 +2760,13 @@
 <sup>LAND_EMPEROR_B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LD_S7_3.png" width="100" height="100"><br>
 <sup>LD_S7_3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LZ_0.png" width="100" height="100"><br>
 <sup>LZ_0.png</sup>
@@ -2787,13 +2792,13 @@
 <sup>LZ_4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LZ_5.png" width="100" height="100"><br>
 <sup>LZ_5.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LZ_6.png" width="100" height="100"><br>
 <sup>LZ_6.png</sup>
@@ -2819,13 +2824,13 @@
 <sup>Memory0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Memory1.png" width="100" height="100"><br>
 <sup>Memory1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Memory2.png" width="100" height="100"><br>
 <sup>Memory2.png</sup>
@@ -2851,13 +2856,13 @@
 <sup>MORA.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MTH.png" width="100" height="100"><br>
 <sup>MTH.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./NB4_W.png.png" width="100" height="100"><br>
 <sup>NB4_W.png.png</sup>
@@ -2883,13 +2888,13 @@
 <sup>PIR0B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PIR0C.png" width="100" height="100"><br>
 <sup>PIR0C.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Rad_sova.png" width="100" height="100"><br>
 <sup>Rad_sova.png</sup>
@@ -2915,13 +2920,13 @@
 <sup>REO_LT.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Rozalia1B.png" width="100" height="100"><br>
 <sup>Rozalia1B.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SHADOW.png" width="100" height="100"><br>
 <sup>SHADOW.png</sup>
@@ -2947,13 +2952,13 @@
 <sup>SHDH3.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SKRIPKA.png" width="100" height="100"><br>
 <sup>SKRIPKA.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLAA_0.png" width="100" height="100"><br>
 <sup>SLAA_0.png</sup>
@@ -2979,13 +2984,13 @@
 <sup>SLAA_4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLAA_5.png" width="100" height="100"><br>
 <sup>SLAA_5.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SLAA_6.png" width="100" height="100"><br>
 <sup>SLAA_6.png</sup>
@@ -3011,13 +3016,13 @@
 <sup>SLD2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SLD2_2.png" width="100" height="100"><br>
 <sup>SLD2_2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TARRASK.png" width="100" height="100"><br>
 <sup>TARRASK.png</sup>
@@ -3043,13 +3048,13 @@
 <sup>TPC_11.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_12.png" width="100" height="100"><br>
 <sup>TPC_12.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_13.png" width="100" height="100"><br>
 <sup>TPC_13.png</sup>
@@ -3075,13 +3080,13 @@
 <sup>TPC_17.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_17_1.png" width="100" height="100"><br>
 <sup>TPC_17_1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_18.png" width="100" height="100"><br>
 <sup>TPC_18.png</sup>
@@ -3107,13 +3112,13 @@
 <sup>TPC_21.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_22.png" width="100" height="100"><br>
 <sup>TPC_22.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_23.png" width="100" height="100"><br>
 <sup>TPC_23.png</sup>
@@ -3139,13 +3144,13 @@
 <sup>TPC_5.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_6.png" width="100" height="100"><br>
 <sup>TPC_6.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_7.png" width="100" height="100"><br>
 <sup>TPC_7.png</sup>
@@ -3171,13 +3176,13 @@
 <sup>TPC_AUT.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_KEN.png" width="100" height="100"><br>
 <sup>TPC_KEN.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_LF.png" width="100" height="100"><br>
 <sup>TPC_LF.png</sup>
@@ -3203,13 +3208,13 @@
 <sup>TPC_LF4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_LF5.png" width="100" height="100"><br>
 <sup>TPC_LF5.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_LF6.png" width="100" height="100"><br>
 <sup>TPC_LF6.png</sup>
@@ -3235,13 +3240,13 @@
 <sup>TPC_REOS2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_REOS3.png" width="100" height="100"><br>
 <sup>TPC_REOS3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_REOS4.png" width="100" height="100"><br>
 <sup>TPC_REOS4.png</sup>
@@ -3267,13 +3272,13 @@
 <sup>TPC_REOS8.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPC_REOS8B.png" width="100" height="100"><br>
 <sup>TPC_REOS8B.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPC_REOS9.png" width="100" height="100"><br>
 <sup>TPC_REOS9.png</sup>
@@ -3299,13 +3304,13 @@
 <sup>TPM_2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TPM_3.png" width="100" height="100"><br>
 <sup>TPM_3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TPM_4.png" width="100" height="100"><br>
 <sup>TPM_4.png</sup>
@@ -3331,13 +3336,13 @@
 <sup>UNO_1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UNO_2.png" width="100" height="100"><br>
 <sup>UNO_2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UNO_3.png" width="100" height="100"><br>
 <sup>UNO_3.png</sup>
@@ -3363,13 +3368,13 @@
 <sup>Wazir.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WORM0.png" width="100" height="100"><br>
 <sup>WORM0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WORM1.png" width="100" height="100"><br>
 <sup>WORM1.png</sup>
