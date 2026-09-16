@@ -117,6 +117,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./G_DemonTavern_Original_Day_Cover.jpg" width="100" height="100"><br>
+<sup>G_DemonTavern_Original_Day_Cover.jpg</sup>
+</td>
+
+<td valign="bottom">
 <img src="./HellFortress.png" width="100" height="100"><br>
 <sup>HellFortress.png</sup>
 </td>
@@ -131,13 +136,13 @@
 <sup>Jung.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Jung2.jpg" width="100" height="100"><br>
 <sup>Jung2.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./JungCT.jpg" width="100" height="100"><br>
 <sup>JungCT.jpg</sup>
@@ -163,13 +168,13 @@
 <sup>LAIR-INFO.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LAIR.png" width="100" height="100"><br>
 <sup>LAIR.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LAIR2_j.jpg" width="100" height="100"><br>
 <sup>LAIR2_j.jpg</sup>
@@ -195,13 +200,13 @@
 <sup>LAIR_REO.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./LAIR_REO2.jpg" width="100" height="100"><br>
 <sup>LAIR_REO2.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./LAIR_REO_br.png" width="100" height="100"><br>
 <sup>LAIR_REO_br.png</sup>
@@ -227,13 +232,13 @@
 <sup>MASS_CITY3.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Mns.jpg" width="100" height="100"><br>
 <sup>Mns.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Ring_Battle.jpg" width="100" height="100"><br>
 <sup>Ring_Battle.jpg</sup>
@@ -259,13 +264,13 @@
 <sup>row-2-column-2.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./S0L-RDSlumAlley-Map1-1080.jpg" width="100" height="100"><br>
 <sup>S0L-RDSlumAlley-Map1-1080.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./S0L-TDSlum-Map1-64px-1080.jpg" width="100" height="100"><br>
 <sup>S0L-TDSlum-Map1-64px-1080.jpg</sup>
@@ -291,13 +296,13 @@
 <sup>TMNG2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TMNG3.png" width="100" height="100"><br>
 <sup>TMNG3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UND_ZV.jpg" width="100" height="100"><br>
 <sup>UND_ZV.jpg</sup>
