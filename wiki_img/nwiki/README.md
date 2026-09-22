@@ -48,6 +48,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Amethyst_K.png" width="100" height="100"><br>
+<sup>Amethyst_K.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Amp_Sck.png" width="100" height="100"><br>
 <sup>Amp_Sck.png</sup>
 </td>
@@ -67,13 +72,13 @@
 <sup>Ancient_Magic_Book.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Balor_Sword.png" width="100" height="100"><br>
 <sup>Balor_Sword.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Balor_Whip.png" width="100" height="100"><br>
 <sup>Balor_Whip.png</sup>
@@ -99,13 +104,13 @@
 <sup>Chainsword.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./CHJ_Katana.jpg" width="100" height="100"><br>
 <sup>CHJ_Katana.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./CHJ_Katana2.jpg" width="100" height="100"><br>
 <sup>CHJ_Katana2.jpg</sup>
@@ -131,13 +136,13 @@
 <sup>Container.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Crystal_A.jpg" width="100" height="100"><br>
 <sup>Crystal_A.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Dark_Sword.png" width="100" height="100"><br>
 <sup>Dark_Sword.png</sup>
@@ -163,13 +168,13 @@
 <sup>Electric_Staff.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Elf_Medal.png" width="100" height="100"><br>
 <sup>Elf_Medal.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Emerald_A.jpg" width="100" height="100"><br>
 <sup>Emerald_A.jpg</sup>
@@ -195,13 +200,13 @@
 <sup>Gold_Hammer.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Gold_Seal.png" width="100" height="100"><br>
 <sup>Gold_Seal.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Gold_Seal2.png" width="100" height="100"><br>
 <sup>Gold_Seal2.png</sup>
@@ -227,13 +232,13 @@
 <sup>Heal_Glove1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./image-7E443.png" width="100" height="100"><br>
 <sup>image-7E443.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./image-8F888.png" width="100" height="100"><br>
 <sup>image-8F888.png</sup>
@@ -259,13 +264,13 @@
 <sup>images-ABB63.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Life_Staff.png" width="100" height="100"><br>
 <sup>Life_Staff.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Mage_Gauntlet.png" width="100" height="100"><br>
 <sup>Mage_Gauntlet.png</sup>
@@ -291,13 +296,13 @@
 <sup>Messer.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Moander_Ring.png" width="100" height="100"><br>
 <sup>Moander_Ring.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Mystic_Gauntlet.png" width="100" height="100"><br>
 <sup>Mystic_Gauntlet.png</sup>
@@ -323,13 +328,13 @@
 <sup>Plane-Sphere.gif</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Powerarmor.png" width="100" height="100"><br>
 <sup>Powerarmor.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Powerarmor2.png" width="100" height="100"><br>
 <sup>Powerarmor2.png</sup>
@@ -355,13 +360,13 @@
 <sup>Ring_Retribution.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Sci_Bl_Sp.png" width="100" height="100"><br>
 <sup>Sci_Bl_Sp.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Silver_Seal.png" width="100" height="100"><br>
 <sup>Silver_Seal.png</sup>
@@ -387,13 +392,13 @@
 <sup>Star_Musket.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Trident.png" width="100" height="100"><br>
 <sup>Trident.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Violin_Art.png" width="100" height="100"><br>
 <sup>Violin_Art.png</sup>
