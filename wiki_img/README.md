@@ -383,17 +383,22 @@
 </td>
 
 <td valign="bottom">
+<img src="./gpmaw.png" width="100" height="100"><br>
+<sup>gpmaw.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./ISLAND_MAP.png" width="100" height="100"><br>
 <sup>ISLAND_MAP.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MagicGun.png" width="100" height="100"><br>
 <sup>MagicGun.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Malarw.png" width="100" height="100"><br>
 <sup>Malarw.png</sup>
@@ -419,13 +424,13 @@
 <sup>Spark_Container.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./STYX.png" width="100" height="100"><br>
 <sup>STYX.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./STYX2.png" width="100" height="100"><br>
 <sup>STYX2.png</sup>
@@ -451,13 +456,13 @@
 <sup>SWORDD3.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SWORDD4.png" width="100" height="100"><br>
 <sup>SWORDD4.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Vilia 2023-06-14-10-56.png" width="100" height="100"><br>
 <sup>Vilia 2023-06-14-10-56.png</sup>
@@ -483,13 +488,13 @@
 <sup>ZLATO.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Z_MD0.png" width="100" height="100"><br>
 <sup>Z_MD0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Z_MD1.png" width="100" height="100"><br>
 <sup>Z_MD1.png</sup>
@@ -515,13 +520,13 @@
 <sup>Z_MD5.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Z_MD6.png" width="100" height="100"><br>
 <sup>Z_MD6.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Z_MD7.png" width="100" height="100"><br>
 <sup>Z_MD7.png</sup>
