@@ -1296,8 +1296,131 @@
 </td>
 
 <td valign="bottom">
+<img src="./planer_cn0.png" width="100" height="100"><br>
+<sup>planer_cn0.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_cn1.png" width="100" height="100"><br>
+<sup>planer_cn1.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_cn2.png" width="100" height="100"><br>
+<sup>planer_cn2.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_cn3.png" width="100" height="100"><br>
+<sup>planer_cn3.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_cn4.png" width="100" height="100"><br>
+<sup>planer_cn4.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./planer_cn5.png" width="100" height="100"><br>
+<sup>planer_cn5.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_mt.png" width="100" height="100"><br>
+<sup>planer_mt.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_mt0.png" width="100" height="100"><br>
+<sup>planer_mt0.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_mt0B.png" width="100" height="100"><br>
+<sup>planer_mt0B.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_mt1.png" width="100" height="100"><br>
+<sup>planer_mt1.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_mt1B.png" width="100" height="100"><br>
+<sup>planer_mt1B.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./planer_mt2.png" width="100" height="100"><br>
+<sup>planer_mt2.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_mt2B.png" width="100" height="100"><br>
+<sup>planer_mt2B.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_mt3.png" width="100" height="100"><br>
+<sup>planer_mt3.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_mt3B.png" width="100" height="100"><br>
+<sup>planer_mt3B.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_mt4.png" width="100" height="100"><br>
+<sup>planer_mt4.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_OSN.png" width="100" height="100"><br>
+<sup>planer_OSN.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./planer_OSN2.png" width="100" height="100"><br>
+<sup>planer_OSN2.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./planer_pl.png" width="100" height="100"><br>
 <sup>planer_pl.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_pl0.png" width="100" height="100"><br>
+<sup>planer_pl0.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_pl1.png" width="100" height="100"><br>
+<sup>planer_pl1.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_pl2.png" width="100" height="100"><br>
+<sup>planer_pl2.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_pl3.png" width="100" height="100"><br>
+<sup>planer_pl3.png</sup>
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./planer_pl3B.png" width="100" height="100"><br>
+<sup>planer_pl3B.png</sup>
 </td>
 
 <td valign="bottom">
@@ -1320,13 +1443,13 @@
 <sup>Planer_Tr_7x4.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Planer_Tr_8x3.png" width="100" height="100"><br>
 <sup>Planer_Tr_8x3.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN0.png" width="100" height="100"><br>
 <sup>PLN0.png</sup>
@@ -1352,13 +1475,13 @@
 <sup>PLN2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN2_0.png" width="100" height="100"><br>
 <sup>PLN2_0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN2_2.png" width="100" height="100"><br>
 <sup>PLN2_2.png</sup>
@@ -1384,13 +1507,13 @@
 <sup>PLN32.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN4.png" width="100" height="100"><br>
 <sup>PLN4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN5.png" width="100" height="100"><br>
 <sup>PLN5.png</sup>
@@ -1416,13 +1539,13 @@
 <sup>RND1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RND2.png" width="100" height="100"><br>
 <sup>RND2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./RND3.png" width="100" height="100"><br>
 <sup>RND3.png</sup>
@@ -1448,13 +1571,13 @@
 <sup>RND7.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Solditer.png" width="100" height="100"><br>
 <sup>Solditer.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Solditer1.png" width="100" height="100"><br>
 <sup>Solditer1.png</sup>
@@ -1480,13 +1603,13 @@
 <sup>SPR.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SPR_B.png" width="100" height="100"><br>
 <sup>SPR_B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./UND0.png" width="100" height="100"><br>
 <sup>UND0.png</sup>
@@ -1512,13 +1635,13 @@
 <sup>WRK0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./YAG0.png" width="100" height="100"><br>
 <sup>YAG0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./YAG1.png" width="100" height="100"><br>
 <sup>YAG1.png</sup>
