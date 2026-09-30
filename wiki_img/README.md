@@ -469,6 +469,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Well_Of_Darkness.png" width="100" height="100"><br>
+<sup>Well_Of_Darkness.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./WISE_SHRINE.png" width="100" height="100"><br>
 <sup>WISE_SHRINE.png</sup>
 </td>
@@ -483,13 +488,13 @@
 <sup>WMAP_CUT</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ZLATO.png" width="100" height="100"><br>
 <sup>ZLATO.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Z_MD0.png" width="100" height="100"><br>
 <sup>Z_MD0.png</sup>
@@ -515,13 +520,13 @@
 <sup>Z_MD4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Z_MD5.png" width="100" height="100"><br>
 <sup>Z_MD5.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Z_MD6.png" width="100" height="100"><br>
 <sup>Z_MD6.png</sup>
