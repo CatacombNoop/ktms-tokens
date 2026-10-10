@@ -277,6 +277,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./mar_high2B.png" width="100" height="100"><br>
+<sup>mar_high2B.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./mar_high3.png" width="100" height="100"><br>
 <sup>mar_high3.png</sup>
 </td>
@@ -291,13 +296,13 @@
 <sup>MF_DEV0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MF_DEV0B.png" width="100" height="100"><br>
 <sup>MF_DEV0B.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MF_DEV1B.png" width="100" height="100"><br>
 <sup>MF_DEV1B.png</sup>
@@ -323,13 +328,13 @@
 <sup>MF_DEV3B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MF_DEV4.png" width="100" height="100"><br>
 <sup>MF_DEV4.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MF_DEV4B.png" width="100" height="100"><br>
 <sup>MF_DEV4B.png</sup>
@@ -355,13 +360,13 @@
 <sup>MTN2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MTN3.png" width="100" height="100"><br>
 <sup>MTN3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MTN4.png" width="100" height="100"><br>
 <sup>MTN4.png</sup>
@@ -387,13 +392,13 @@
 <sup>MTN8B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./nwg.png" width="100" height="100"><br>
 <sup>nwg.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./n_DG2.png" width="100" height="100"><br>
 <sup>n_DG2.png</sup>
@@ -419,13 +424,13 @@
 <sup>RMNPC0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./RMNPC1.png" width="100" height="100"><br>
 <sup>RMNPC1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RMNPC2.png" width="100" height="100"><br>
 <sup>RMNPC2.png</sup>
@@ -451,13 +456,13 @@
 <sup>Rogue_Mrc.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ROMAN.png" width="100" height="100"><br>
 <sup>ROMAN.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ROMAN2.png" width="100" height="100"><br>
 <sup>ROMAN2.png</sup>
@@ -483,13 +488,13 @@
 <sup>ROMAN5.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./RSOS0.png" width="100" height="100"><br>
 <sup>RSOS0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RSOS0A.png" width="100" height="100"><br>
 <sup>RSOS0A.png</sup>
@@ -515,13 +520,13 @@
 <sup>RSOS0E.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./RSOS0F.png" width="100" height="100"><br>
 <sup>RSOS0F.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RSOS0G.png" width="100" height="100"><br>
 <sup>RSOS0G.png</sup>
@@ -547,13 +552,13 @@
 <sup>starrrr.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SWDS0.png" width="100" height="100"><br>
 <sup>SWDS0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./S_TK.png" width="100" height="100"><br>
 <sup>S_TK.png</sup>
@@ -579,13 +584,13 @@
 <sup>TIH1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_1_14.png" width="100" height="100"><br>
 <sup>token_1_14.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_1_20.png" width="100" height="100"><br>
 <sup>token_1_20.png</sup>
@@ -611,13 +616,13 @@
 <sup>token_4_2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_js.png" width="100" height="100"><br>
 <sup>token_js.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TRADER.png" width="100" height="100"><br>
 <sup>TRADER.png</sup>
@@ -643,16 +648,21 @@
 <sup>WFR.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WsS0.png" width="100" height="100"><br>
 <sup>WsS0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WsS1.png" width="100" height="100"><br>
 <sup>WsS1.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./WsS1B.png" width="100" height="100"><br>
+<sup>WsS1B.png</sup>
 </td>
 
 <td valign="bottom">
@@ -670,6 +680,8 @@
 <sup>WX2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WX3.png" width="100" height="100"><br>
 <sup>WX3.png</sup>
@@ -680,8 +692,6 @@
 <sup>WX4.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./WX5.png" width="100" height="100"><br>
 <sup>WX5.png</sup>
@@ -702,6 +712,8 @@
 <sup>WX_SH.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ZK.png" width="100" height="100"><br>
 <sup>ZK.png</sup>
@@ -712,8 +724,6 @@
 <sup>ZK1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ztoken_gobbb.png" width="100" height="100"><br>
 <sup>ztoken_gobbb.png</sup>
