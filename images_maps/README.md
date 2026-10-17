@@ -196,8 +196,8 @@
 </td>
 
 <td valign="bottom">
-<img src="./BASE_60x42U.jpg" width="100" height="100"><br>
-<sup>BASE_60x42U.jpg</sup>
+<img src="./BASE_60x42U.png" width="100" height="100"><br>
+<sup>BASE_60x42U.png</sup>
 </td>
 
 </tr>
