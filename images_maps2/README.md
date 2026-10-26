@@ -277,6 +277,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./ots0.jpg" width="100" height="100"><br>
+<sup>ots0.jpg</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Ring_Battle.jpg" width="100" height="100"><br>
 <sup>Ring_Battle.jpg</sup>
 </td>
@@ -291,13 +296,13 @@
 <sup>row-1-column-2.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./row-2-column-1.jpg" width="100" height="100"><br>
 <sup>row-2-column-1.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./row-2-column-2.jpg" width="100" height="100"><br>
 <sup>row-2-column-2.jpg</sup>
@@ -323,13 +328,13 @@
 <sup>TCM_Storage_34x22.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TMNG0.png" width="100" height="100"><br>
 <sup>TMNG0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TMNG1.png" width="100" height="100"><br>
 <sup>TMNG1.png</sup>
@@ -355,6 +360,8 @@
 <sup>ZVND0.jpg</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ZVND1.png" width="100" height="100"><br>
 <sup>ZVND1.png</sup>
