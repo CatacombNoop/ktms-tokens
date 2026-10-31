@@ -752,6 +752,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./ZKN.png" width="100" height="100"><br>
+<sup>ZKN.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./ztoken_gobbb.png" width="100" height="100"><br>
 <sup>ztoken_gobbb.png</sup>
 </td>
