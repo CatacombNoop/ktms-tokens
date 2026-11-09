@@ -1823,17 +1823,22 @@
 </td>
 
 <td valign="bottom">
+<img src="./rpg_stc.png" width="100" height="100"><br>
+<sup>rpg_stc.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Solditer.png" width="100" height="100"><br>
 <sup>Solditer.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Solditer1.png" width="100" height="100"><br>
 <sup>Solditer1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Solditer2.png" width="100" height="100"><br>
 <sup>Solditer2.png</sup>
@@ -1859,13 +1864,13 @@
 <sup>SPR_B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TDK_60ft.png" width="100" height="100"><br>
 <sup>TDK_60ft.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./UND0.png" width="100" height="100"><br>
 <sup>UND0.png</sup>
@@ -1891,13 +1896,13 @@
 <sup>WRK0.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./YAG0.png" width="100" height="100"><br>
 <sup>YAG0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./YAG1.png" width="100" height="100"><br>
 <sup>YAG1.png</sup>
