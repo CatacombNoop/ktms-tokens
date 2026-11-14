@@ -1707,8 +1707,18 @@
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./planer_sterv.png" width="100" height="100"><br>
+<sup>planer_sterv.png</sup>
+</td>
+
+<td valign="bottom">
 <img src="./Planer_Tank_6x3.png" width="100" height="100"><br>
 <sup>Planer_Tank_6x3.png</sup>
+</td>
+
+<td valign="bottom">
+<img src="./planer_trp.png" width="100" height="100"><br>
+<sup>planer_trp.png</sup>
 </td>
 
 <td valign="bottom">
@@ -1726,6 +1736,8 @@
 <sup>Planer_Tr_7x4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Planer_Tr_8x3.png" width="100" height="100"><br>
 <sup>Planer_Tr_8x3.png</sup>
@@ -1736,8 +1748,6 @@
 <sup>PLN0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN1.png" width="100" height="100"><br>
 <sup>PLN1.png</sup>
@@ -1758,6 +1768,8 @@
 <sup>PLN2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN2_0.png" width="100" height="100"><br>
 <sup>PLN2_0.png</sup>
@@ -1768,8 +1780,6 @@
 <sup>PLN2_2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN2_3.png" width="100" height="100"><br>
 <sup>PLN2_3.png</sup>
@@ -1790,6 +1800,8 @@
 <sup>PLN32.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./PLN4.png" width="100" height="100"><br>
 <sup>PLN4.png</sup>
@@ -1800,8 +1812,6 @@
 <sup>PLN5.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./PLN6.png" width="100" height="100"><br>
 <sup>PLN6.png</sup>
@@ -1822,6 +1832,8 @@
 <sup>RND1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./RND2.png" width="100" height="100"><br>
 <sup>RND2.png</sup>
@@ -1832,8 +1844,6 @@
 <sup>RND3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./RND4.png" width="100" height="100"><br>
 <sup>RND4.png</sup>
@@ -1854,6 +1864,8 @@
 <sup>RND7.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./rpg_stc.png" width="100" height="100"><br>
 <sup>rpg_stc.png</sup>
@@ -1864,8 +1876,6 @@
 <sup>Solditer.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Solditer1.png" width="100" height="100"><br>
 <sup>Solditer1.png</sup>
@@ -1886,6 +1896,8 @@
 <sup>Solditer3B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SPR.png" width="100" height="100"><br>
 <sup>SPR.png</sup>
@@ -1896,8 +1908,6 @@
 <sup>SPR_B.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TDK_60ft.png" width="100" height="100"><br>
 <sup>TDK_60ft.png</sup>
@@ -1918,6 +1928,8 @@
 <sup>UND2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./VINT_60ft.png" width="100" height="100"><br>
 <sup>VINT_60ft.png</sup>
@@ -1928,8 +1940,6 @@
 <sup>WRK0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./YAG0.png" width="100" height="100"><br>
 <sup>YAG0.png</sup>
