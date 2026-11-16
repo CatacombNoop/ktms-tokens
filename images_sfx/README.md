@@ -36,12 +36,17 @@
 </td>
 
 <td valign="bottom">
-<img src="./BLOODSHED.png" width="100" height="100"><br>
-<sup>BLOODSHED.png</sup>
+<img src="./BlackBG.png" width="100" height="100"><br>
+<sup>BlackBG.png</sup>
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./BLOODSHED.png" width="100" height="100"><br>
+<sup>BLOODSHED.png</sup>
+</td>
+
 <td valign="bottom">
 <img src="./BloodSlash.png" width="100" height="100"><br>
 <sup>BloodSlash.png</sup>
@@ -67,13 +72,13 @@
 <sup>chesy2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./circ.png" width="100" height="100"><br>
 <sup>circ.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Circle0.png" width="100" height="100"><br>
 <sup>Circle0.png</sup>
@@ -99,13 +104,13 @@
 <sup>Circle4.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Circle5.png" width="100" height="100"><br>
 <sup>Circle5.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Circle6.png" width="100" height="100"><br>
 <sup>Circle6.png</sup>
@@ -131,13 +136,13 @@
 <sup>CR.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./CR0.png" width="100" height="100"><br>
 <sup>CR0.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./CR0_Cone.png" width="100" height="100"><br>
 <sup>CR0_Cone.png</sup>
@@ -163,13 +168,13 @@
 <sup>crg1_7x9.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./crg2_7x9.png" width="100" height="100"><br>
 <sup>crg2_7x9.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Cut.png" width="100" height="100"><br>
 <sup>Cut.png</sup>
@@ -195,13 +200,13 @@
 <sup>DeathCircle2B.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DeathCircle3.png" width="100" height="100"><br>
 <sup>DeathCircle3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./DivineWeapon.png" width="100" height="100"><br>
 <sup>DivineWeapon.png</sup>
@@ -227,13 +232,13 @@
 <sup>Fireball.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Fireball2.png" width="100" height="100"><br>
 <sup>Fireball2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Fireball_Cone.png" width="100" height="100"><br>
 <sup>Fireball_Cone.png</sup>
@@ -259,13 +264,13 @@
 <sup>forcefield1.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./FrostHit.png" width="100" height="100"><br>
 <sup>FrostHit.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Golden sword.png" width="100" height="100"><br>
 <sup>Golden sword.png</sup>
@@ -291,13 +296,13 @@
 <sup>GoldWave2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./GoldWave_ALT.png" width="100" height="100"><br>
 <sup>GoldWave_ALT.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Graav.png" width="100" height="100"><br>
 <sup>Graav.png</sup>
@@ -323,13 +328,13 @@
 <sup>lamp.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Mecha_Domain.png" width="100" height="100"><br>
 <sup>Mecha_Domain.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MindSlash.png" width="100" height="100"><br>
 <sup>MindSlash.png</sup>
@@ -355,13 +360,13 @@
 <sup>Secret.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Secret_Closed.png" width="100" height="100"><br>
 <sup>Secret_Closed.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Secret_Magic.png" width="100" height="100"><br>
 <sup>Secret_Magic.png</sup>
@@ -387,13 +392,13 @@
 <sup>SG_Ballista, great (5x3).png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SG_Cannon (3x3).png" width="100" height="100"><br>
 <sup>SG_Cannon (3x3).png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SG_Cannon, great (3x4).png" width="100" height="100"><br>
 <sup>SG_Cannon, great (3x4).png</sup>
@@ -419,13 +424,13 @@
 <sup>SG_Siege Ladder (1x6).png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SG_Siege Ladder, raised (1x2).png" width="100" height="100"><br>
 <sup>SG_Siege Ladder, raised (1x2).png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./SG_Siege Ram (3x4).png" width="100" height="100"><br>
 <sup>SG_Siege Ram (3x4).png</sup>
@@ -451,13 +456,13 @@
 <sup>Shot_M.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Shot_M2.png" width="100" height="100"><br>
 <sup>Shot_M2.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Shot_M22.png" width="100" height="100"><br>
 <sup>Shot_M22.png</sup>
@@ -483,13 +488,13 @@
 <sup>Space2.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space3.png" width="100" height="100"><br>
 <sup>Space3.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space3_2.png" width="100" height="100"><br>
 <sup>Space3_2.png</sup>
@@ -515,13 +520,13 @@
 <sup>Space_ER.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space_ER1.png" width="100" height="100"><br>
 <sup>Space_ER1.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space_ER1_t.png" width="100" height="100"><br>
 <sup>Space_ER1_t.png</sup>
@@ -547,13 +552,13 @@
 <sup>Space_KP_t.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Spark_Explosion.png" width="100" height="100"><br>
 <sup>Spark_Explosion.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Spark_Explosion2.png" width="100" height="100"><br>
 <sup>Spark_Explosion2.png</sup>
@@ -579,13 +584,13 @@
 <sup>table.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./TENT.png" width="100" height="100"><br>
 <sup>TENT.png</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./tile_circle.png" width="100" height="100"><br>
 <sup>tile_circle.png</sup>
@@ -611,13 +616,13 @@
 <sup>WindHit.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./__MAP_Snow0.jpg" width="100" height="100"><br>
 <sup>__MAP_Snow0.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ЫShine.png" width="100" height="100"><br>
 <sup>ЫShine.png</sup>
