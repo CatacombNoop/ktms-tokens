@@ -346,10 +346,22 @@
 </td>
 
 <td valign="bottom">
+<img src="./SHIP_1B.jpg" width="100" height="100"><br>
+<sup>SHIP_1B.jpg</sup>
+</td>
+
+<td valign="bottom">
 <img src="./SHIP_3.jpg" width="100" height="100"><br>
 <sup>SHIP_3.jpg</sup>
 </td>
 
+<td valign="bottom">
+<img src="./SHIP_3B.jpg" width="100" height="100"><br>
+<sup>SHIP_3B.jpg</sup>
+</td>
+
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SPACE_C.jpg" width="100" height="100"><br>
 <sup>SPACE_C.jpg</sup>
@@ -360,8 +372,6 @@
 <sup>TCM_Storage_34x22.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TMNG0.png" width="100" height="100"><br>
 <sup>TMNG0.png</sup>
@@ -382,6 +392,8 @@
 <sup>TMNG3.png</sup>
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Underground_catacomb_industrial.jpg" width="100" height="100"><br>
 <sup>Underground_catacomb_industrial.jpg</sup>
@@ -392,8 +404,6 @@
 <sup>UND_ZV.jpg</sup>
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ZVND0.jpg" width="100" height="100"><br>
 <sup>ZVND0.jpg</sup>
